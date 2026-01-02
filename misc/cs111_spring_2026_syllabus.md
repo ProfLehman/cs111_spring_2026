@@ -1,5 +1,5 @@
 # CS 111 Introduction to Computer Science  
-**Fall 2025**
+**Spring 2026**
 
 ---
 
@@ -15,17 +15,18 @@
 Please stop by my office, call, or email anytime you have questions.  
 You may also use the **Bookings Page** to schedule a time to meet.
 
-- **Bookings Page:** Bookings Page  
-- **Office Phone:** 260-359-4209 (4209 on campus)  
-- **Email:** jlehman@huntington.edu  
-- **Course Website:** <https://moodle.huntington.edu/>
+See contact information on Moodle.
 
 ---
 
 ## Course Description
 
-An introduction to fundamental computer concepts and terminology applicable for communication in today’s world. Topics include historical perspective, computer architecture, operating systems, networking, impact of computing on society and current application areas, including spreadsheets, web page development and use of a programming language. Programming topics include input/output, loops, decision structures, arrays and methods. Attention is given to good programming style and problem-solving techniques for program design, coding, documentation, debugging and testing.  
-*(3 credit hours; fall/spring/summer)*
+An introduction to fundamental computer concepts and terminology applicable for communication in 
+today’s world. Topics include historical perspective, computer architecture, operating systems, 
+networking, impact of computing on society and current application areas, including spreadsheets, 
+web page development and use of a programming language. Programming topics include input/output, 
+loops, decision structures, arrays and methods. Attention is given to good programming style and 
+problem-solving techniques for program design, coding, documentation, debugging and testing. *(3 credit hours; fall/spring/summer)*
 
 ---
 
@@ -44,8 +45,8 @@ Students will be able to:
 ## Meeting Time & Location
 
 **Monday, Wednesday, and Friday**  
-9:00–9:50 am  
-**Science Hall 175/177**
+**9:00–9:50 am**  
+**Science Hall 175/177**  
 
 > Note: There are two doors to enter the classroom—175 (left) and 177 (right).
 
@@ -72,17 +73,14 @@ All required texts and readings are **free and open-source**. Check the course w
 
 ## Grading
 
-Each course component is worth a specific number of points. The percentage of total points determines the final grade.  
+Each course component is worth a specific number of points. The percentage of total points determines the final grade. 
 The instructor reserves the right to adjust assignments and points while maintaining overall percentage weightings.
 
 | Component                         | Points | Percent |
-|----------------------------------|--------|---------|
-| Attendance & Participation        | 100    | 10%     |
-| Assignments (x14)                 | 300    | 30%     |
-| Discussion Questions (x10)        | 50     | 5%      |
-| Review Questions (x3)             | 50     | 5%      |
-| Exams #1 & #2                     | 300    | 30%     |
-| Final Exam                        | 200    | 20%     |
+|-----------------------------------|--------|---------|
+| Weekly Assignments (x14)          | 450    | 45%     |
+| Discussion Questions (x10)        | 100    | 10%     |
+| Exams (x3)                        | 450    | 45%     |
 | **Total**                         | **1000** | **100%** |
 
 ### Grading Scale
