@@ -102,29 +102,30 @@ The instructor reserves the right to adjust assignments and points while maintai
 
 ## Attendance & Participation
 
-Attendance and participation are vital to your success. Weekly in-person sessions allow you to engage with the material, ask questions, and work through assignments.
+Attendance and participation are important for success in this course. 
+Weekly in-person sessions provide opportunities to ask questions, participate in discussions, and work 
+through assignments with instructor support. Students are strongly encouraged to arrive on time, remain engaged, 
+complete in-class work, and avoid non-course use of phones or computers. 
+Participation is demonstrated through engagement with weekly coursework, in-class activities, and online discussions, 
+reflecting interaction with course material, classmates, and the instructor.
 
-Attendance is recorded for each class and posted on Moodle. Grades are recorded as follows:
+Huntington University policy requires students to attend at least 
+two-thirds (2/3) of all scheduled class sessions in a face-to-face course. Students who miss one-third or more of 
+class meetings will automatically fail the course. This total includes excused absences for athletics, music, or other 
+university activities. Students are responsible for all missed material.
 
-- 30 points after Exam #1  
-- 30 points after Exam #2  
-- 40 points after Exam #3  
+Attendance is recorded at the beginning of class. Students should arrive on time and remain for the full class session. 
+Late arrivals or early departures may result in an absence being recorded. If you arrive late or need to leave early, 
+please use the door opposite the instructor workstation (Room 175) and do so quietly. Attending part of a session is 
+better than missing the class entirely.
 
-Your attendance record, in-class assignments, and instructor observations inform the grade.
+Do not attend class if you are sick! Your health and the health of others come first.
 
-To earn full credit, you must:
+Students are encouraged to contact Prof. Lehman if they miss class. Students who miss multiple class sessions may be referred to Student Services, the Dean’s Office, 
+or the Registrar to ensure appropriate academic support.
 
-- Attend all class sessions and arrive on time  
-- Stay actively engaged in discussions and activities  
-- Complete all in-class work  
-- Avoid using phones or computers for non-class purposes  
-- Remain for the whole session, limiting breaks to emergencies  
-
-If you arrive late or need to leave early, please use the door opposite the teacher workstation (Room 175) and do so quietly. Attending part of a session is better than missing entirely.
-
-If you must miss a class, notify Prof. Lehman by email as soon as possible. Do not attend class if you are sick. Students participating in university-approved events are excused but remain responsible for missed material.
-
-> **Note:** University policy states that students who miss one-third or more of class sessions will automatically fail the course.
+**While attendance itself is not graded, students who regularly miss class typically struggle to complete weekly assignments 
+efficiently and perform poorly on exams.**
 
 ---
 
