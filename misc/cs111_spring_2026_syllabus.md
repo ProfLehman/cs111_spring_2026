@@ -78,8 +78,8 @@ The instructor reserves the right to adjust assignments and points while maintai
 
 | Component                         | Points | Percent |
 |-----------------------------------|--------|---------|
+| Participation                     | 100    | 10%     |
 | Weekly Assignments (x14)          | 450    | 45%     |
-| Discussion Questions (x10)        | 100    | 10%     |
 | Exams (x3)                        | 450    | 45%     |
 | **Total**                         | **1000** | **100%** |
 
@@ -100,32 +100,27 @@ The instructor reserves the right to adjust assignments and points while maintai
 
 ---
 
-## Attendance & Participation
+## Active Course Engagement
 
-Attendance and participation are important for success in this course. 
-Weekly in-person sessions provide opportunities to ask questions, participate in discussions, and work 
-through assignments with instructor support. Students are strongly encouraged to arrive on time, remain engaged, 
-complete in-class work, and avoid non-course use of phones or computers. 
-Participation is demonstrated through engagement with weekly coursework, in-class activities, and online discussions, 
-reflecting interaction with course material, classmates, and the instructor.
+Active Course Engagement is vital for success in this course. Weekly readings and videos present the course material and provide the background needed to complete assignments and prepare for exams. Students are responsible for reading all assigned materials, viewing the course videos, and communicating any questions through email, text, or during office hours. Students are encouraged to take notes summarizing topics covered in readings, videos, and class sessions (in-person).
 
-Huntington University policy requires students to attend at least 
-two-thirds (2/3) of all scheduled class sessions in a face-to-face course. Students who miss one-third or more of 
-class meetings will automatically fail the course. This total includes excused absences for athletics, music, or other 
-university activities. Students are responsible for all missed material.
+Most weeks include required **Discussion Questions** in a Moodle discussion forum. Completion is part of your Active Course Engagement grade. Posts should show critical thinking and original perspectives. Some weeks require a second post. Responding to peers is encouraged. All conversations must be respectful. See Moodle for deadlines. Late posts do not receive credit. 
 
-Attendance is recorded at the beginning of class. Students should arrive on time and remain for the full class session. 
-Late arrivals or early departures may result in an absence being recorded. If you arrive late or need to leave early, 
-please use the door opposite the instructor workstation (Room 175) and do so quietly. Attending part of a session is 
-better than missing the class entirely.
+**Active Course Engagement grades** are recorded after each exam: 30 points after Exam #1, 30 points after Exam #2, and 40 points after Exam #3. Scores are based on attendance and in-class work (in-person only), weekly assignments, discussion posts, a participation self-reflection, and the instructor’s observations.
 
-Do not attend class if you are sick! Your health and the health of others come first.
+All students are encouraged to utilize office hours and send questions via email and text.
 
-Students are encouraged to contact Prof. Lehman if they miss class. Students who miss multiple class sessions may be referred to Student Services, the Dean’s Office, 
-or the Registrar to ensure appropriate academic support.
+### Attendance (In-Person Only)
 
-**While attendance itself is not graded, students who regularly miss class typically struggle to complete weekly assignments 
-efficiently and perform poorly on exams.**
+In-person class sessions enable you to engage with the material, providing opportunities to ask questions, participate in discussions, and work through assignments with instructor support.
+
+Attendance is recorded at the beginning of class. Late arrivals or early departures may be treated as partial or full absences. Do not attend class if you are sick. Students are expected to attend all class sessions, arrive on time, stay actively engaged, complete all in-class assignments, refrain from using phones/computers for non-course purposes, and remain in class for the whole session (breaks are permitted only for emergencies). 
+
+*Huntington University policy requires students to attend at least two-thirds (2/3) of scheduled class sessions in a face-to-face course. **Students who miss one-third or more of class meetings will automatically fail the course.** This total includes excused absences for athletics, music, other university activities, or illness. Students are responsible for all material they miss.*
+
+*Note (Room 175): If you arrive late or need to leave early, use the door opposite the instructor workstation and do so quietly. Attending part of a session is better than missing entirely.*
+
+If you miss class, please get in touch with Prof. Lehman. Students who miss multiple sessions may be referred to Student Services, the Dean’s Office, or the Registrar for support.
 
 ---
 
@@ -146,18 +141,6 @@ Weekly assignments help you apply and integrate course concepts. Assignments pre
 - **Google Colab** (Python examples): <https://colab.google/>  
 - **GitHub** (hosting web pages): <https://github.com/>
 
----
-
-## Discussion Questions
-
-Most weeks include required discussion questions with a dedicated forum.
-
-- Post answers by **Friday at 5:00 pm**.  
-- Late postings do not receive credit.  
-- Some weeks may require a second post.  
-- Students are encouraged to respond to peers, ask questions, and share insights and resources.
-
-Posts should demonstrate critical thinking and original perspectives.
 
 ---
 
