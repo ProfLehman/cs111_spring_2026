@@ -78,7 +78,7 @@ The instructor reserves the right to adjust assignments and points while maintai
 
 | Component                         | Points | Percent |
 |-----------------------------------|--------|---------|
-| Participation                     | 100    | 10%     |
+| Active Course Engagement          | 100    | 10%     |
 | Weekly Assignments (x14)          | 450    | 45%     |
 | Exams (x3)                        | 450    | 45%     |
 | **Total**                         | **1000** | **100%** |
@@ -100,7 +100,7 @@ The instructor reserves the right to adjust assignments and points while maintai
 
 ---
 
-## Active Course Engagement
+## Active Course Engagement (10%)
 
 Active Course Engagement is vital for success in this course. Weekly readings and videos present the course material and provide the background needed to complete assignments and prepare for exams. Students are responsible for reading all assigned materials, viewing the course videos, and communicating any questions through email, text, or during office hours. Students are encouraged to take notes summarizing topics covered in readings, videos, and class sessions (in-person).
 
@@ -114,24 +114,76 @@ All students are encouraged to utilize office hours and send questions via email
 
 In-person class sessions enable you to engage with the material, providing opportunities to ask questions, participate in discussions, and work through assignments with instructor support.
 
-Attendance is recorded at the beginning of class. Late arrivals or early departures may be treated as partial or full absences. Do not attend class if you are sick. Students are expected to attend all class sessions, arrive on time, stay actively engaged, complete all in-class assignments, refrain from using phones/computers for non-course purposes, and remain in class for the whole session (breaks are permitted only for emergencies). 
+Attendance is recorded at the beginning of class. Students are expected to attend all class sessions, arrive on time, stay actively engaged, complete all in-class assignments, refrain from using phones/computers for non-course purposes, and remain in class for the entire session (except during breaks for emergencies). Late arrivals, early departures, and taking breaks during class may be treated as partial or full absences. 
 
-*Huntington University policy requires students to attend at least two-thirds (2/3) of scheduled class sessions in a face-to-face course. **Students who miss one-third or more of class meetings will automatically fail the course.** This total includes excused absences for athletics, music, other university activities, or illness. Students are responsible for all material they miss.*
+Huntington University policy requires students to attend at least two-thirds (2/3) of scheduled class sessions in a face-to-face course. **Students who miss one-third or more of class meetings will automatically fail the course.** This total includes excused absences for athletics, music, other university activities, or illness. Students are responsible for all material they miss.
 
-*Note (Room 175): If you arrive late or need to leave early, use the door opposite the instructor workstation and do so quietly. Attending part of a session is better than missing entirely.*
+If you arrive late or need to leave early, use the door opposite the instructor (SH 175) workstation and do so quietly. Attending part of a session is better than missing entirely.
+
+Do not attend class if you are sick. Your health and the health of others comes first.
 
 If you miss class, please get in touch with Prof. Lehman. Students who miss multiple sessions may be referred to Student Services, the Dean’s Office, or the Registrar for support.
 
 ---
 
-## Assignments
+## Weekly Assignments (45%)
 
-Weekly assignments help you apply and integrate course concepts. Assignments prepare students for exams and projects.
+Weekly Assignments are a central part of **Active Course Engagement** in this course. They are designed to help you practice new concepts, apply what you are learning, and reflect on your progress throughout the semester.
+
+
+
+**Weekly Assignments are worth between 25 and 35 points per week, for a total of 450 points, which equals 45% of the final course grade.**
+
+Most weeks include **three components**, each supporting a different aspect of learning.
+
+### 1. Competency Check (approximately 20%)
+
+Competency Checks focus on understanding key concepts from the week’s readings, videos, discussions, and class activities. These are typically completed in Moodle and may include multiple-choice, true/false, matching, or short-answer questions.
+
+* Competency Checks provide timely feedback to help you monitor your understanding
+* Multiple attempts may be allowed before the deadline
+* These questions are similar in style to exam questions and help reinforce core concepts
+
+Competency Checks are intended to support learning and preparation rather than function as high-stakes assessments.
+
+### 2. Weekly Artifact (approximately 70%)
+
+The Weekly Artifact is the primary hands-on component of the assignment and carries the greatest weight. Artifacts require you to actively apply course concepts and demonstrate practical skills.
+
+Depending on the topic, artifacts may include:
+
+* Running or modifying an existing program
+* Writing a short program or script
+* Creating or editing a document, spreadsheet, or webpage
+* Demonstrating correct use of a computing tool or concept
+
+Artifacts emphasize **engagement, effort, and demonstrated understanding**, not just final output. Clear instructions and examples will be provided, and partial progress is often valued as part of the learning process.
+
+### 3. Reflection (approximately 10%)
+
+Reflections provide an opportunity to pause and think about your learning. These short written responses ask you to describe what you learned, what challenged you, and how the week’s material connects to broader course goals or real-world applications.
+
+* Reflections should be thoughtful but concise
+* Reflections must be submitted **on time**
+* Late reflections are generally not accepted, as reflection is most meaningful when it occurs during the learning process
+
+
+### Weekly Due Dates
+
+Unless otherwise noted, **all components of the Weekly Assignment (Competency Check, Artifact, and Reflection) are due by Monday at 5:00 pm Indiana Time**.
+
+Success in this course depends on steady participation and consistent effort rather than last-minute work.
+
+Weekly assignments are intended to be worked on throughout the week as part of regular course engagement. Students are encouraged to ask questions during class meetings, office hours, or earlier in the week.
+
+Questions submitted over the weekend may not receive a response until Monday. Students in other time zones should plan accordingly.
 
 - Submit assignments through Moodle unless otherwise instructed.  
 - Late work is accepted up to **48 hours late with a 10% penalty**, unless otherwise noted.  
 - Notify the instructor in cases of extreme hardship.  
 - Grades will be posted on Moodle. Review your work and report discrepancies promptly.
+
+
 
 ### Programming Tools
 
@@ -142,17 +194,7 @@ Weekly assignments help you apply and integrate course concepts. Assignments pre
 - **GitHub** (hosting web pages): <https://github.com/>
 
 
----
 
-## Review Questions
-
-Review questions reinforce understanding and are similar to exam questions.
-
-- Listed as quizzes in Moodle  
-- Open-book  
-- Multiple attempts allowed; highest score recorded  
-
----
 
 ## Academic Honesty and Plagiarism
 
