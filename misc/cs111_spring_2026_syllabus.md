@@ -28,6 +28,8 @@ web page development and use of a programming language. Programming topics inclu
 loops, decision structures, arrays and methods. Attention is given to good programming style and 
 problem-solving techniques for program design, coding, documentation, debugging and testing. *(3 credit hours; fall/spring/summer)*
 
+This course integrates computing concepts and Python programming to build data-focused problem-solving skills for data analytics, prepare students for future coding courses, and provide practical Python literacy for all majors.
+
 ---
 
 ## Learning Outcomes
@@ -251,26 +253,26 @@ Exams are **closed notes**. Review topics and sample questions are provided.
 
 ### Weekly Schedule
 
-| Week | M     | W     | F     | Topics                              |
-|------|-------|-------|-------|-------------------------------------|
-| 1    | 8/25  | 8/27  | 8/29  | Welcome, History, Binary             |
-| 2    | 9/1   | 9/3   | 9/5   | Hex, ASCII, Compression              |
-| 3    | 9/8   | 9/10  | 9/12  | Logic, Hardware                      |
-| 4    | 9/15  | 9/17  | 9/19  |                                     |
-| 5    | 9/22  | 9/24  | 9/26  | Operating Systems, Files             |
-| 6    | 9/29  | 10/1  | 10/3  | Cloud Apps, Spreadsheets             |
-| 7    | 10/6  | 10/8  | 10/10 | Networking, Web (HTML, CSS)          |
-| 8    | 10/13 | 10/15 | 10/17 | Security                             |
-| 9    | 10/20 | 10/22 | 10/24 | AI                                   |
-| 10   | 10/27 | 10/29 | 10/31 | Programming (Python)                 |
-| 11   | 11/3  | 11/5  | 11/7  | Selection (if)                       |
-| 12   | 11/10 | 11/12 | 11/14 | Repetition (loops, lists)            |
-| 13   | 11/17 | 11/19 | 11/21 | Ethical Issues                       |
-| 14   | 11/24 | 11/26 | 11/28 | Graphics                             |
-| 15   | 12/1  | 12/3  | 12/5  |                                     |
-| 16   | Wednesday, December 10 |       |       | Final Exam (8:00 am)                 |
+| Week | M     | W     | F     | Concept Topics                                   | Python Topics                        |
+|------|-------|-------|-------|--------------------------------------------------|-------------------------------------|
+| 1    | 01/12 | 01/14 | 01/16 | Course Overview, Files                           | IDEs and Hello World                |
+| 2    | *MLK* | 01/21 | 01/23 | Binary and Hex                                   | Formatted Output                    |
+| 3    | 01/26 | 01/28 | 01/30 | Data Representation (ASCII; Compression; ZIP)   | Keyboard Input                      |
+| 4    | 02/02 | 02/04 | 02/06 | Logic Gates and Hardware                         | IPO Planning                        |
+| 5    | 02/09 | **02/11** | 02/13 |   **Exam #1 - 2/11**          |                                     |
+| 6    | 02/16 | 02/18 | 02/20 | Operating Systems and Cloud Applications         | Decisions (if's)                    |
+| 7    | 02/23 | 02/25 | 02/27 | Data Analytics with Spreadsheets, Graphs         | Debugging and Tracing               |
+| 8    |  |   |  | *Spring Break – No Classes*   |        |
+| 9    | 03/09 | 03/11 | 03/13 | Networking, Web, HTML                            | Count-Controlled Loops              |
+| 10   | 03/16 | 03/18 | 03/20 | Hosting Web Pages, CSS                           | Sentinel Loops                      |
+| 11   | 03/23 | **03/25** | 03/27 |  **Exam #2 - 3/25**          |                                                  |                                     |
+| 12   | 03/30 | 04/01 | *Easter* | Security and Backup                              | Lists and Basic Data Analdytics      |
+| 13   | *Easter* | 04/08 | 04/10 | Ethical Issues and Faith Integration             | Functions                           |
+| 14   | 04/13 | 04/15 | 04/17 | AI Overview                                     | Data Visualization with matplotlib |
+| 15   | 04/20 | 04/22 | 04/24 | Using AI for Coding                              | Simple APIs                         |
+| 16   | | **04/29**       | | **Exam #3 (Final) - 4/29 10:30 am**    | |
 
 ---
 
-*Last modified: Monday, August 25, 2025, 12:52 PM*
+*Last modified: Tuesday, January 6, 2026*
 ```
