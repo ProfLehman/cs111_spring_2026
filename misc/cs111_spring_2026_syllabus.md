@@ -102,13 +102,12 @@ The instructor reserves the right to adjust assignments and points while maintai
 
 ## Active Course Engagement (10%)
 
-Active Course Engagement is vital for success in this course. Weekly readings and videos present the course material and provide the background needed to complete assignments and prepare for exams. Students are responsible for reading all assigned materials, viewing the course videos, and communicating any questions through email, text, or during office hours. Students are encouraged to take notes summarizing topics covered in readings, videos, and class sessions (in-person).
+Active Course Engagement is vital for success in this course. Weekly readings and videos present the course material and provide the background needed to complete assignments and prepare for exams. Students are responsible for reading all assigned materials and viewing the course videos. Students are encouraged to take notes summarizing topics covered in readings, videos, and class sessions (in-person). Students are encouraged to utilize office hours and send questions via email and text.
 
-Most weeks include required **Discussion Questions** in a Moodle discussion forum. Completion is part of your Active Course Engagement grade. Posts should show critical thinking and original perspectives. Some weeks require a second post. Responding to peers is encouraged. All conversations must be respectful. See Moodle for deadlines. Late posts do not receive credit. 
+Most weeks include required **Discussion Questions** in a Moodle discussion forum. Each discussion will ask students to respond to several questions. Posts should show critical thinking and original perspectives. Some weeks require a second post. Responding to peers is encouraged. All conversations must be respectful. Completion is part of your Active Course Engagement grade. See Moodle for deadlines. Late posts do not receive credit. 
 
 **Active Course Engagement grades** are recorded after each exam: 30 points after Exam #1, 30 points after Exam #2, and 40 points after Exam #3. Scores are based on attendance and in-class work (in-person only), weekly assignments, discussion posts, a participation self-reflection, and the instructor’s observations.
 
-All students are encouraged to utilize office hours and send questions via email and text.
 
 ### Attendance (In-Person Only)
 
@@ -129,8 +128,6 @@ If you miss class, please get in touch with Prof. Lehman. Students who miss mult
 ## Weekly Assignments (45%)
 
 Weekly Assignments are a central part of **Active Course Engagement** in this course. They are designed to help you practice new concepts, apply what you are learning, and reflect on your progress throughout the semester.
-
-
 
 **Weekly Assignments are worth between 25 and 35 points per week, for a total of 450 points, which equals 45% of the final course grade.**
 
@@ -168,33 +165,32 @@ Reflections provide an opportunity to pause and think about your learning. These
 * Late reflections are generally not accepted, as reflection is most meaningful when it occurs during the learning process
 
 
-### Weekly Due Dates
+### Weekly Due Dates and Late Work
 
-Unless otherwise noted, **all components of the Weekly Assignment (Competency Check, Artifact, and Reflection) are due by Monday at 5:00 pm Indiana Time**.
+Success in this course depends on steady participation and consistent effort rather than last-minute work. Weekly assignments are intended to be worked on throughout the week as part of regular course engagement.
 
-Success in this course depends on steady participation and consistent effort rather than last-minute work.
+Unless otherwise noted, **all components of the Weekly Assignment (Competency Check, Artifact, and Reflection) are due by Monday at 5:00 pm Indiana (Eastern) Time**.  In Arizona this is 3:00 pm. (before March 8th) and 2:00 pm. (March 8th and after)
 
-Weekly assignments are intended to be worked on throughout the week as part of regular course engagement. Students are encouraged to ask questions during class meetings, office hours, or earlier in the week.
+Students are encouraged to ask questions during class meetings, office hours, or earlier in the week. Questions submitted over the weekend may not receive a response until Monday. Students in other time zones should plan accordingly.
 
-Questions submitted over the weekend may not receive a response until Monday. Students in other time zones should plan accordingly.
+- Assignments must be submitted through Moodle unless otherwise instructed.  
+- Late work is accepted up to **48 hours after the deadline with a 10% penalty per assignment** (based on the total points for that assignment), unless otherwise noted.  
+- Reflections are intended to capture your thinking during the learning process. Because their value depends on timing, reflections must be submitted on time and are generally not accepted late.
+- In cases of extreme hardship or documented circumstances, students should notify the instructor as soon as possible.  
+- Grades will be posted in Moodle. Students are responsible for reviewing their work and reporting discrepancies promptly.
 
-- Submit assignments through Moodle unless otherwise instructed.  
-- Late work is accepted up to **48 hours late with a 10% penalty**, unless otherwise noted.  
-- Notify the instructor in cases of extreme hardship.  
-- Grades will be posted on Moodle. Review your work and report discrepancies promptly.
 
-
+---
 
 ### Programming Tools
 
 - **Python 3** will be used for coding assignments.
 - **Thonny IDE** (recommended offline editor): <https://thonny.org/>  
-- **Replit** (online environment for HTML/CSS and Python): <https://replit.com/>  
 - **Google Colab** (Python examples): <https://colab.google/>  
 - **GitHub** (hosting web pages): <https://github.com/>
 
 
-
+---
 
 ## Academic Honesty and Plagiarism
 
