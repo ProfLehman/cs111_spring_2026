@@ -1,16 +1,22 @@
-# Exam #1 - Reading and Resources
-
-## Computing Related Fields
-- Read *Welcome to CS* — **Chapter 1: Computing Related Fields**
-- Link: [Top 500 Supercomputers in the World](https://top500.org/)
+# Exam #1 - Reading and Resources - Draft
 
 ---
 
-## Computing History
+## Week #1
+
+### Computing Related Fields
+- Read *Welcome to CS* — **Chapter 1: Computing Related Fields**
+
+- Link: [Top 500 Supercomputers in the World](https://top500.org/)
+
+### Computing History
 - Read *Welcome to CS* — **Chapter 2: History of Computers**
+
 - Resource: **Napier’s Bones** — Class Handout (PDF)
 
 ---
+
+## Week #2
 
 ## Binary, Hex, and ASCII
 - Read *Welcome to CS* — **Chapter 3: Binary and Bits**
@@ -55,5 +61,3 @@
 - Read *Welcome to CS* — **Chapter 6: Computer Architecture & the Machine Cycle**
 
 ---
-
-*Last modified: Thursday, January 8, 2026, 9:33 AM*
