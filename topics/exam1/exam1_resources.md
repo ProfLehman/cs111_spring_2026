@@ -5,12 +5,13 @@
 ## Week #1
 
 ### Computing Related Fields
-- Read *Welcome to CS* — **Chapter 1: Computing Related Fields**
+- Read [*Welcome to CS* - **Chapter 1 Computing Related Fields**](https://runestone.academy/ns/books/published/welcomecs2/computing-fields_computing-related-fields.html?mode=browsing)
 
 - Link: [Top 500 Supercomputers in the World](https://top500.org/)
 
 ### Computing History
-- Read *Welcome to CS* — **Chapter 2: History of Computers**
+- Read [*Welcome to CS* - **Chapter 2 History of Computers**](https://runestone.academy/ns/books/published/welcomecs2/history-of-computers_history-of-computers.html?mode=browsing)
+
 
 - Resource: **Napier’s Bones** — Class Handout (PDF)
 
