@@ -12,6 +12,7 @@
 ### Computing History
 - Read [*Welcome to CS* - **Chapter 2 History of Computers**](https://runestone.academy/ns/books/published/welcomecs2/history-of-computers_history-of-computers.html?mode=browsing)
 
+- Presentation: [Computing History](history/history.md)
 
 - Resource: **Napier’s Bones** — Class Handout (PDF)
 
