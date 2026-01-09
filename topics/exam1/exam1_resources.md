@@ -12,25 +12,28 @@
 ### Computing History
 - Read [*Welcome to CS* - **Chapter 2 History of Computers**](https://runestone.academy/ns/books/published/welcomecs2/history-of-computers_history-of-computers.html?mode=browsing)
 
-- Presentation: [Computing History](history/history.md)
+- Presentation: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681598)
 
-- Resource: **Napier’s Bones** — Class Handout (PDF)
+- Resource: **[Napier’s Bones** — Class Handout (PDF)](https://moodle.huntington.edu/mod/folder/view.php?id=683107)
 
 ---
 
 ## Week #2
 
-## Binary, Hex, and ASCII
+### Binary, Hex, and ASCII
 - Read *Welcome to CS* — **Chapter 3: Binary and Bits**
 - Read *Welcome to CS* — **Chapter 4: Binary and Bits**  
   *Focus on sections 4.1, 4.2, 4.4, and 4.9–4.12*
 
-### Resources
+### Handouts
 - **Number Bases** — Class Handout (PDF)
 - **Number Bases Lecture Notes and Sample Conversions** — Class Handout (PDF)
 - **Hex to Binary & ASCII Decode** — In-Class Handout (PDF)
 
-### Videos (YouTube Playlist – 7 videos)
+### Videos
+
+[YouTube Playlist – 7 videos](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a)
+
 - Number Bases: Decimal  
 - Number Bases: Binary  
 - Number Bases: Binary to Decimal  
