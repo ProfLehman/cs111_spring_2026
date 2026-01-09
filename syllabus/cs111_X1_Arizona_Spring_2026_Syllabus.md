@@ -1,6 +1,3 @@
-
-***--- Draft Copy ---***
-
 # CS 111 Introduction to Computer Science   
 **Spring 2026**
 **Section X1 - Arizona (On-Line)**   
@@ -82,7 +79,7 @@ Each course component is worth a specific number of points. The percentage of to
 
 | Component                         | Points | Percent |
 |-----------------------------------|--------|---------|
-| Active Course Engagement          | 50     | 5%      |
+| Course Engagement          | 50     | 5%      |
 | Weekly Assignments (x13 approx.)  | 350    | 35%     |
 | Discussion Questions (x10 approx.)| 50     | 5%      |
 | Review Question Sets (x3)         | 50     | 5%      |
@@ -107,18 +104,18 @@ Each course component is worth a specific number of points. The percentage of to
 
 ---
 
-## Active Course Engagement (5%)
+## Course Engagement (5%)
 
 Active Course Engagement is vital for success in this course. Weekly readings and videos present the course material and provide the background needed to complete assignments and prepare for exams. Students are responsible for reading all assigned materials and viewing the course videos. Students are encouraged to take notes summarizing topics covered in readings amd videos. Students are encouraged to utilize office hours and send questions via email and text.
 
-**Active Course Engagement grades** are recorded after each exam: 15 points after Exam #1, 15 points after Exam #2, and 20 points after Exam #3. Scores are based on weekly assignments, timely discussion posts, communication with the instructor (such as asking questions or sharing insights), a participation self-reflection, and the instructor’s observations. **Active Course Engagement is not a single assignment but a cumulative assessment of participation and engagement over time.**
+**Course Engagement grades** are recorded after each exam: 15 points after Exam #1, 15 points after Exam #2, and 20 points after Exam #3. Scores are based on weekly assignments, timely discussion posts, communication with the instructor (such as asking questions or sharing insights), a participation self-reflection, and the instructor’s observations. **Course Engagement is not a single assignment but a cumulative assessment of participation and engagement over time.**
 
 
 ---
 
 ## Weekly Assignments (35%)
 
-Weekly Assignments are a central part of **Active Course Engagement** in this course. They are designed to help you practice new concepts, apply what you are learning, and reflect on your progress throughout the semester.
+Weekly Assignments are a central part of **Course Engagement** in this course. They are designed to help you practice new concepts, apply what you are learning, and reflect on your progress throughout the semester.
 
 Weekly assignments help students apply and integrate concepts discussed in the text, online resources, and class sessions (in-person). The material covered in these assignments will assist students in preparing for exams and projects. Students should ensure that all submitted work is neat, organized, and clearly labeled with their first and last name. Assignments should be submitted through Moodle unless otherwise instructed.
 
@@ -144,7 +141,7 @@ Students are required to post responses to **all listed questions** by **Monday 
 
 Students are encouraged to post their discussion responses by **Friday each week** to promote interaction and allow time for meaningful discussion, even though the final deadline is Monday. Some weeks may require a **second post**, although most weeks only require answering the assigned questions. Students are encouraged (but not required) to respond to classmates, ask questions, share insights, and provide links to relevant or related information. All discussion interactions must remain respectful and appropriate.
 
-Students should plan to engage with discussion questions throughout the week rather than waiting until the deadline. Completion of discussion questions is part of the course grade and timely posts contribute to the Active Course Engagement grade. Specific requirements and deadlines are listed in Moodle.
+Students should plan to engage with discussion questions throughout the week rather than waiting until the deadline. Completion of discussion questions is part of the course grade and timely posts contribute to the Course Engagement grade. Specific requirements and deadlines are listed in Moodle.
 
 ---
 
@@ -211,20 +208,38 @@ Faculty will work with ACE to support eligible students.
 
 ## Schedule and Exams
 
-Exams are **closed notes**. Review topics and sample questions are provided.
+Exams are **closed notes**. Review topics and sample questions are provided. All exams are online and require Respondus browser and a web camera. 
 
-- **Exam #1: TBA**   
-- **Exam #2: TBA**   
-- **Final Exam: TBA**
+- **Exam #1: February 9 to 15 (On-line via Respondus Browser)**
+- **Exam #2: March 23 to 29 (On-line via Respondus Browser)**
+- **Final Exam: April 27 to 30 (On-line via Respondus Browser)**
 
 > The schedule may change slightly. Check the course website for updates.
 
-### Weekly Schedule - TBA
+### Weekly Schedule
 
-| Week | M     | W     | F     | Concept Topics                                   | Python Topics                        |
-|------|-------|-------|-------|--------------------------------------------------|-------------------------------------|
+| Week | Week Begins | Week Ends | Topics                               |
+|------|-------------|-----------|--------------------------------------|
+| 1    | Jan-12      | Jan-18    | Welcome, History, Binary             |
+| 2    | Jan-19      | Jan-25    | Hex, ASCII, Compression              |
+| 3    | Jan-26      | Feb-01    | Logic, Hardware                      |
+| 4    | Feb-02      | Feb-08    | Review                               |
+| 5    | Feb-09      | Feb-15    | **Exam #1**, Operating Systems, Files    |
+| 6    | Feb-16      | Feb-22    | Cloud Apps, Spreadsheets             |
+| 7    | Feb-23      | Mar-01    | Networking, Web (HTML, CSS)          |
+| 8    | Mar-02      | Mar-08    | **Spring Break**                         |
+| 9    | Mar-09      | Mar-15    | Security, AI                         |
+| 10   | Mar-16      | Mar-22    | Review, Ethical Issues               |
+| 11   | Mar-23      | Mar-29    | **Exam #2**, Programming (Python)        |
+| 12   | Mar-30      | Apr-05    | Planning (IPO), Input/Output         |
+| 13   | Apr-06      | Apr-12    | Selection (if)                       |
+| 14   | Apr-13      | Apr-19    | Repetition (loops, lists)            |
+| 15   | Apr-20      | Apr-26    | Debugging, API’s                     |
+| 16   | Apr-27      | Apr-30    | **Final Exam**                           |
+
 
 ---
 
-*Last modified: Thursday, January 8, 2026*
-```
+*Last modified: Friday, January 9, 2026*
+
+---
