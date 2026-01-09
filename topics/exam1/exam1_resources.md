@@ -21,12 +21,12 @@ See current most powerful computers in world
 - Read *Welcome to CS* — **Chapter 4: Binary and Bits**  
   *Focus on sections 4.1, 4.2, 4.4, and 4.9–4.12*  
 
-- Resource: [Number Bases Summary — Class Handout (PDF)](/handouts/cs111_number_bases_handout.pdf)  
+- Resource: [Number Bases Summary — Class Handout (PDF)](/topics/exam1/handouts/cs111_number_bases_handout.pdf)  
 
 - Video: [YouTube Playlist – 7 videos](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a) *(Note: We are not using zyBooks shown in the first part of the video.)* 
 (Videos are 1. Decimal, 2. Binary, 3. Binary to Decimal, 4. Decimal to Binary, 5. Hex, 6. Hex to Binary, 7. Checking Your Work)  
 
-- Resource: [Number Bases handout from video](/handouts/cs111_number_bases_lecture_notes_from_video.pdf)
+- Resource: [Number Bases handout from video](/topics/exam1/handouts/cs111_number_bases_lecture_notes_from_video.pdf)
 
 - Online Tool to Check number conversions online: [RapidTables Decimal to Binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 
