@@ -23,6 +23,9 @@ See current most powerful computers in world
 
 - Resource: [Number Bases Summary — Class Handout (PDF)](/topics/exam1/handouts/cs111_number_bases_handout.pdf)  
 
+- Presentation: [Binary Hex (H5P)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681601)
+
+
 - Video: [YouTube Playlist – 7 videos](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a) *(Note: We are not using zyBooks shown in the first part of the video.)* 
 (Videos are 1. Decimal, 2. Binary, 3. Binary to Decimal, 4. Decimal to Binary, 5. Hex, 6. Hex to Binary, 7. Checking Your Work)  
 
