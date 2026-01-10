@@ -13,10 +13,12 @@ See current most powerful computers in world
 ### Computing History
 - Read: [*Welcome to CS* - Chapter 2 History of Computers](https://runestone.academy/ns/books/published/welcomecs2/history-of-computers_history-of-computers.html?mode=browsing)
 
+- Video: [Computing History (YouTube Playlist - 5 videos) ](https://youtube.com/playlist?list=PLIVM1Y_L5QnEdlG40-uVfZzvsRtnksK_E&si=8tqU7IdXx0XYMkwh)
 - Presentation: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681598)
 - Resource: [Napier’s Bones — Class Handout (PDF)](https://moodle.huntington.edu/mod/folder/view.php?id=683107)
 
-### Binary, Hex, and ASCII
+
+### Binary, Hex
 - Read *Welcome to CS* — **Chapter 3: Binary and Bits**
 - Read *Welcome to CS* — **Chapter 4: Binary and Bits**  
   *Focus on sections 4.1, 4.2, 4.4, and 4.9–4.12*  
@@ -26,7 +28,7 @@ See current most powerful computers in world
 - Presentation: [Binary Hex (H5P)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681601)
 
 
-- Video: [YouTube Playlist – 7 videos](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a) *(Note: We are not using zyBooks shown in the first part of the video.)* 
+- Video: [Binary Hex (YouTube Playlist – 7 videos)](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a) *(Note: We are not using zyBooks shown in the first part of the video.)* 
 (Videos are 1. Decimal, 2. Binary, 3. Binary to Decimal, 4. Decimal to Binary, 5. Hex, 6. Hex to Binary, 7. Checking Your Work)  
 
 - Resource: [Number Bases handout from video](/topics/exam1/handouts/cs111_number_bases_lecture_notes_from_video.pdf)
@@ -38,7 +40,7 @@ See current most powerful computers in world
 
 ## Week #2
 
-## Data Representation and Compression
+## Data Representation (ASCII, UNICODE) and Compression
 - **Huffman Code Worksheet** — Class Handout (PDF)
 - **Huffman Code – Norman Forester Example** (PDF)
 - Video: **Huffman Code Example** — Sara Arnn (MP4)
