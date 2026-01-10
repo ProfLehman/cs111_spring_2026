@@ -1,4 +1,4 @@
-# Exam #1 - Reading and Resources (Updated January 9, 2026)
+# Exam #1 - Reading and Resources
 
 ---
 
@@ -55,5 +55,9 @@
 - Video: **CircuitVerse Overview** (MP4)
 
 - Read *Welcome to CS* — **Chapter 6: Computer Architecture & the Machine Cycle**
+
+---
+
+Updated January 10, 2026
 
 ---
