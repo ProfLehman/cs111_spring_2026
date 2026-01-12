@@ -2,6 +2,8 @@
 **Spring 2026**
 **Section 01 - Indiana**   
 
+<img src="CS111_Logo.jpg" alt="Log" width="100">
+
 ---
 
 ## Instructor Information
