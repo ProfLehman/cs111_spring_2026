@@ -134,7 +134,7 @@ Weekly assignments help students apply and integrate concepts discussed in the t
 
 Success in this course depends on steady participation and consistent effort rather than last-minute work. Weekly assignments are intended to be worked on throughout the week as part of regular course engagement.
 
-Unless otherwise noted, **all assignments are due by Monday at 5:00 pm Indiana (Eastern) Time**. For students in Arizona, this corresponds to **3:00 pm before March 8** and **2:00 pm on March 8 and after**.
+Unless otherwise noted, **all assignments are due by Monday at 5:00 pm Indiana (Eastern) Time**. 
 
 Students are always encouraged to ask questions. The instructor will try to respond within 24 hours on weekdays (usually more quickly!); questions asked late at night or over the weekend may be answered the next business day.
 
