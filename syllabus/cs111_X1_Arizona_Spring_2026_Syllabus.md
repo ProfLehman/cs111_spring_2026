@@ -2,6 +2,8 @@
 **Spring 2026**
 **Section X1 - Arizona (On-Line)**   
 
+<img src="CS111_Logo.png" alt="CS 111 Logo" width="200">
+
 ---
 
 ## Instructor Information

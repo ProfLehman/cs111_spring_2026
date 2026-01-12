@@ -2,7 +2,7 @@
 **Spring 2026**
 **Section 01 - Indiana**   
 
-<img src="CS111_Logo.png" alt="Log" width="100">
+<img src="CS111_Logo.png" alt="CS 111 Logo" width="200">
 
 ---
 
