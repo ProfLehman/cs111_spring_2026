@@ -14,7 +14,8 @@
 - Read: [*Welcome to CS* - Chapter 2 History of Computers](https://runestone.academy/ns/books/published/welcomecs2/history-of-computers_history-of-computers.html?mode=browsing)
 
 - Watch Video: [Computing History (YouTube Playlist - 5 videos) ](https://youtube.com/playlist?list=PLIVM1Y_L5QnEdlG40-uVfZzvsRtnksK_E&si=8tqU7IdXx0XYMkwh)
-- Presentation: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681598)
+- Presentation from Video: [Computing History (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681598)
+
 - Resource: [Napier’s Bones — Class Handout (PDF)](https://moodle.huntington.edu/mod/folder/view.php?id=683107)
 
 
@@ -26,7 +27,7 @@
 - Resource: [Number Bases Summary — Class Handout (PDF)](/topics/exam1/handouts/cs111_number_bases_handout.pdf)  
 
 - Watch Video: [Binary Hex (YouTube Playlist – 3 videos)](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnGFbEr5-v3HyMciMkdnmR1e)
-- Presentation: [Binary Hex (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681601)
+- Presentation from Video: [Binary Hex (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681601)
 
 - (*Optional*) Watch Video (older presentation with different examples): [Binary Hex (YouTube Playlist – 7 videos)](https://youtube.com/playlist?list=PLIVM1Y_L5QnGty-lw0M-Xds-MA8YG-SHY&si=tg-RGV3VH40kL85a) *(Note: We are not using zyBooks shown in the first part of the video.)* 
 (Videos are 1. Decimal, 2. Binary, 3. Binary to Decimal, 4. Decimal to Binary, 5. Hex, 6. Hex to Binary, 7. Checking Your Work)  
@@ -44,11 +45,22 @@
 
 ### Data Representation (ASCII, UNICODE)
 
-- Presentation: [Storing Text (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681604)
+- Watch Video: [Storing Text]()
+
+- Presentation from Video: [Storing Text (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681604)
+
+- Link: [ASCII](https://www.ascii-code.com/)
 
 - Link: [UNICODE](https://home.unicode.org/)
 
-### Compression (zip, Huffman code)
+- Link: [RapidTables - ASCII Text to Binary](https://www.rapidtables.com/convert/number/ascii-to-binary.html)
+
+- LInk: [RapidTables - Binary to ASCII text](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+
+
+### Compression (Zip, Huffman Code)
+
+- Watch Video: [Storing Text]()
 
 - Presentation: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
 
