@@ -40,7 +40,7 @@
 
 ---
 
-## Week #2 - Hex, ASCII, Compression
+## Week #2 - Hex, ASCII, Compression  ***Draft***
 
 ### Data Representation (ASCII, UNICODE)
 
@@ -67,7 +67,7 @@
 
 ---
 
-## Week #3 - Logic, Hardware
+## Week #3 - Logic, Hardware ***Draft***
 
 ### **Logic Gates and Computer Architecture**
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Week #4 - Review
+## Week #4 - Review ***Draft***
 
 ---
 
