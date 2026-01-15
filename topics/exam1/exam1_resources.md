@@ -40,11 +40,18 @@
 
 ---
 
-## Week #2 - Draft
+## Week #2
 
 ### Data Representation (ASCII, UNICODE)
 
-### Huffman Compression
+- Presentation: [Storing Text (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681604)
+
+- Link: [UNICODE](https://home.unicode.org/)
+
+
+### Compression
+
+- Presentation: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
 
 - Watch Video - [Huffman Code Example – Sara Arnn (MP4)](https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EVwzmGZ1c4dKvLklRPbloJQB3pufi3aJMHRKWaB9bKj0VA)
 
@@ -55,7 +62,6 @@
 - Watch Video [Compressing: Saving JPG (MP4)](https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EdGK4AS6dbVFphE9tGaQVwwBiCHfTM0UgBRY79sAFwvY6w)
 
 - Watch Video [Compression: Creating a .ZIP File (MP4)](https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EayVUWp0hvhDsAb1cVnMznABFYxsuMWc-Wyi9RDoJSFzcQ)
-
 
 -  (*Optional*) Humor Watch Video [File Formats Video by Elle Cordova](https://www.youtube.com/shorts/T8dVdye559E)
 
