@@ -54,9 +54,9 @@
 
 - Watch Video - [Huffman Code Example – Sara Arnn (MP4)](https://youtu.be/M4J5ZOb0vVw)
 
-- Resource: [Huffman Code Worksheet Blank Form – Class Handout (PDF)](cs111_huffman_code_blank_form)
+- Resource: [Huffman Code Worksheet Blank Form – Class Handout (PDF)](/topics/exam1/handouts/cs111_huffman_code_blank_form)
 
-- Resource: [Huffman Code Example – Norman Forester (PDF)](cs111_huffman_code_example_norman_forester)
+- Resource: [Huffman Code Example – Norman Forester (PDF)](/topics/exam1/handouts/cs111_huffman_code_example_norman_forester)
 
 - Watch Video [Compression: Saving JPG (MP4)](https://youtu.be/_WQtP2jzmZg)
 
