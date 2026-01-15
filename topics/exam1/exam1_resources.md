@@ -2,7 +2,7 @@
 
 ---
 
-## Week #1
+## Week #1 - Welcome, History, Binary
 
 ### Computing Related Fields
 - Read: [*Welcome to CS* - Chapter 1 Computing Related Fields](https://runestone.academy/ns/books/published/welcomecs2/computing-fields_computing-related-fields.html?mode=browsing)
@@ -40,7 +40,7 @@
 
 ---
 
-## Week #2
+## Week #2 - Hex, ASCII, Compression
 
 ### Data Representation (ASCII, UNICODE)
 
@@ -48,8 +48,7 @@
 
 - Link: [UNICODE](https://home.unicode.org/)
 
-
-### Compression
+### Compression (zip, Huffman code)
 
 - Presentation: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
 
@@ -68,9 +67,9 @@
 
 ---
 
-## Week #3 - Draft
+## Week #3 - Logic, Hardware
 
-## **Logic Gates and Computer Architecture**
+### **Logic Gates and Computer Architecture**
 
 - Read [Welcome to CS - Chapter 5 – Logic Gates and Circuits](https://runestone.academy/ns/books/published/welcomecs2/logic-circuits_logic-gates-circuits.html?mode=browsing)
 
@@ -79,6 +78,11 @@
 - Watch Video: [CircuitVerse Overview (MP4)](https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EamlclZNRNNNvuXYCF5yqJYBlhxXuJ4poNpY8OeFWQScrQ)
 
 - Read [Welcome to CS –Chapter 6 – Computer Architecture & the Machine Cycle](https://runestone.academy/ns/books/published/welcomecs2/computer-architecture_computer-architecture-the-machine-cycle.html?mode=browsing)
+
+
+---
+
+## Week #4 - Review
 
 ---
 
