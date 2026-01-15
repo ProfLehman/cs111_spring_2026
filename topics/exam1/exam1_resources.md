@@ -52,22 +52,22 @@
 
 - Presentation: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
 
-- Watch Video - [Huffman Code Example – Sara Arnn (MP4)](https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EVwzmGZ1c4dKvLklRPbloJQB3pufi3aJMHRKWaB9bKj0VA)
+- Watch Video - [Huffman Code Example – Sara Arnn (MP4)](https://youtu.be/M4J5ZOb0vVw)
 
-- Resource: [Huffman Code Worksheet – Class Handout (PDF)](https://moodle.huntington.edu/draftfile.php/1608/user/draft/101847971/Huffman%20Compression%20Blank.pdf)
+- Resource: [Huffman Code Worksheet Blank Form – Class Handout (PDF)](cs111_huffman_code_blank_form)
 
-- Resource: [Huffman Code – Norman Forester Example (PDF)](https://moodle.huntington.edu/draftfile.php/1608/user/draft/101847971/Data%20Compression%20Example%20-%20norman%20forester.pdf)
+- Resource: [Huffman Code Example – Norman Forester (PDF)](cs111_huffman_code_example_norman_forester)
 
-- Watch Video [Compressing: Saving JPG (MP4)](https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EdGK4AS6dbVFphE9tGaQVwwBiCHfTM0UgBRY79sAFwvY6w)
+- Watch Video [Compression: Saving JPG (MP4)](https://youtu.be/_WQtP2jzmZg)
 
-- Watch Video [Compression: Creating a .ZIP File (MP4)]([https://huntingtonedu-my.sharepoint.com/:v:/g/personal/jlehman_huntington_edu/EayVUWp0hvhDsAb1cVnMznABFYxsuMWc-Wyi9RDoJSFzcQ](https://youtu.be/PV5yPqmOOJk))
+- Watch Video [Compression: Creating a .ZIP File (MP4)](https://youtu.be/PV5yPqmOOJk)
 
 -  (*Optional*) Humor Watch Video [File Formats Video by Elle Cordova](https://www.youtube.com/shorts/T8dVdye559E)
 
 
 ---
 
-## Week #3 - Logic, Hardware ***Draft***
+## ***Draft*** - Week #3 - Logic, Hardware - ***Draft***
 
 ### **Logic Gates and Computer Architecture**
 
@@ -82,7 +82,7 @@
 
 ---
 
-## Week #4 - Review ***Draft***
+## ***Draft*** - Week #4 - Review - ***Draft***
 
 ---
 
