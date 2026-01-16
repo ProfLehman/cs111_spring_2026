@@ -36,6 +36,8 @@
 
 - (*Optional*) Watch Video [Computer Science Unplugged Binary Demo](https://www.youtube.com/watch?v=b6vHZ95XDwU)
 
+- (*Optional*) Watch Video [Sesame Street Pinball Numbers](https://www.youtube.com/watch?v=HUL4T8WcFdA)
+
 - Resource: Online Tool to Check number conversions online: [RapidTables Decimal to Binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
 
 
