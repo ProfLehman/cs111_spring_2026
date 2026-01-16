@@ -45,7 +45,7 @@
 
 ### Data Representation (ASCII, UNICODE)
 
-- Watch Video: [Storing Text]()
+- Watch Video: [Storing Text](https://youtu.be/mKZHwP11mM4)
 
 - Presentation from Video: [Storing Text (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681604)
 
@@ -55,14 +55,16 @@
 
 - Link: [RapidTables - ASCII Text to Binary](https://www.rapidtables.com/convert/number/ascii-to-binary.html)
 
-- LInk: [RapidTables - Binary to ASCII text](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+- Link: [RapidTables - Binary to ASCII text](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+
+- Link: [RapidTables - ASCII Text to binary, decial, hex](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
 
 
 ### Compression (Zip, Huffman Code)
 
-- Watch Video: [Storing Text]()
+- Watch Video: [Data Representation & Compression](https://youtu.be/37DSj8U-yK4)
 
-- Presentation: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
+- Presentation from Video: [Data Representation & Compression (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681605)
 
 - Watch Video - [Huffman Code Example – Sara Arnn (MP4)](https://youtu.be/M4J5ZOb0vVw)
 
