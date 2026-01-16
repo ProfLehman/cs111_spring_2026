@@ -41,7 +41,7 @@
 
 ---
 
-## Week #2 - Hex, ASCII, Compression  ***Draft***
+## Week #2 - Hex, ASCII, Compression  
 
 ### Data Representation (ASCII, UNICODE)
 
