@@ -25,6 +25,7 @@
   *Focus on sections 4.1, 4.2, 4.4, and 4.9–4.12*  
 
 - Resource: [Number Bases Summary — Class Handout (PDF)](/topics/exam1/handouts/cs111_number_bases_handout.pdf)  
+- Resource: [Number Bases Summary — Class Handout - with solutions(PDF)](/topics/exam1/handouts/cs111_number_bases_handout_with_sample_conversions)  
 
 - Watch Video: [Binary Hex (YouTube Playlist – 3 videos)](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnGFbEr5-v3HyMciMkdnmR1e)
 - Presentation from Video: [Binary Hex (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681601)
