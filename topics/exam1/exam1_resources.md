@@ -90,15 +90,13 @@
 
 - Read [Welcome to CS - Chapter 5 – Logic Gates and Circuits](https://runestone.academy/ns/books/published/welcomecs2/logic-circuits_logic-gates-circuits.html?mode=browsing)
 
-- Watch Video: [Logic Gates Overview (MP4)]()
-
-- Watch Video: [CircuitVerse Overview (MP4)]()
+- Watch Video: Logic Gates (Available Soon)
 
 - Read [Welcome to CS –Chapter 6 – Computer Architecture & the Machine Cycle](https://runestone.academy/ns/books/published/welcomecs2/computer-architecture_computer-architecture-the-machine-cycle.html?mode=browsing)
  
-- Watch Video: [Hardware Overview]()
+- Watch Video: Hardware Overview (Available Soon)
 
-- Presentation from Video (H5P) [Hardware Overview (H5P)]()
+- Presentation from Video: (Available Soon)
    
 
 
