@@ -196,7 +196,7 @@ Many modern computing problems are **parallel**, not sequential—making GPUs es
 * Even fast CPUs are slowed down if data cannot be delivered quickly  
 * Different types of memory and storage provide different tradeoffs in **speed, size, and cost**  
 
-## Memory Hierarchy**
+## Memory Hierarchy
 
 | Memory Type              | Relative Speed | Capacity        | Cost per Unit |
 |--------------------------|----------------|-----------------|---------------|
@@ -219,6 +219,13 @@ Many modern computing problems are **parallel**, not sequential—making GPUs es
 * Stores **frequently used data and instructions**  
 * Reduces the time the CPU must wait for data from main memory  
 * Faster than RAM, but slower than registers
+* The Windows Task Manager an be used to show the *cache levels*
+
+~[Cache Levels](images/lehman_cache_levels.png)  
+
+*cache level image from prof. lehman screen shot, January 2026*
+
+
 
 ## Main Memory (RAM)
 * Stores programs and data currently in use  
