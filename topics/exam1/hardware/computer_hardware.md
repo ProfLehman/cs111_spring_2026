@@ -287,22 +287,26 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 
 *Storage capacity has grown from **bytes to terabytes** in a single human lifetime.*
 
+![punch card image](images/512px-Punched_card.jpg)  
+*punch card image: Mutatis mutandis, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons*  
 
+![floppy disks](images/512px-Floppy_disk_2009_G1.jpg)  
+*floppy disks: George Chernilevsky, Public domain, via Wikimedia Commons*  
 
-![punch card image](images/512px-Punched_card.jpg)
+![Iomega Zip Disk image](images/512px-Iomega_Zip_100_drive_with_a_disk.jpg)  
+*Iomega Zip Disk image image: Yuri Litvinenko / 30pin, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons*  
 
-*punch card image: Mutatis mutandis, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons*
+![CD DVD Blu-Ray](images/512px-2023_Nagrywarka_zewnętrzna_DVD-CD_Krux_KRX0123_(3).jpg)
+*CD DVD Blu-Ray image: Jacek Halicki, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
+![USB Flash Drives](images/512px-USB_flash_drives.jpg)  
+*USB Flash Drives image: Cjp24, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*  
 
-*mechanical hard drive: Evan-Amos, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*
+![mechanical hard drive](images/512px-35-Desktop-Hard-Drive.jpg)  
+*mechanical hard drive: Evan-Amos, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*  
 
-
-![mechanical hard drive](images/512px-35-Desktop-Hard-Drive.jpg)
-
-
-*solid state drives: ガラパリ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
-
-![solid state drives](images/512px-MSATA_SATA_M.2_NVMeSSD.jpg)
+*solid state drives: ガラパリ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*  
+![solid state drives](images/512px-MSATA_SATA_M.2_NVMeSSD.jpg)  
 
 
 ---
