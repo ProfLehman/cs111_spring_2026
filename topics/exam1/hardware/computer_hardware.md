@@ -221,7 +221,7 @@ Many modern computing problems are **parallel**, not sequential—making GPUs es
 * Faster than RAM, but slower than registers
 * The Windows Task Manager an be used to show the *cache levels*
 
-~[Cache Levels](images/lehman_cache_levels.png)  
+![Cache Levels](images/lehman_cache_levels.png)  
 
 *cache level image from prof. lehman screen shot, January 2026*
 
