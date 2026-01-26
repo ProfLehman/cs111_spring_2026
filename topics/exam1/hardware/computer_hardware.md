@@ -66,6 +66,11 @@ Prof. Lehman
 * Found in everyday systems such as **cars, appliances, medical devices, and industrial equipment**  
 * Usually run **special-purpose software or real-time operating systems**  
 * **Examples:** car engine controllers, microwaves, thermostats, crock pots, washing machines
+* Commonly referred to as IOT or the **Internet of Things**
+
+![Embedded Computers](images/512px-Chain_of_home_devices_(including_IoT)_with_passwords_or_pin.png)  
+
+*IOT image: Andrzej Kasprzyk (itring.pl), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons*
 
 ---
 
@@ -83,6 +88,13 @@ Prof. Lehman
 * Performs **calculations, comparisons, and decision-making**  
 * Coordinates the actions of other hardware components during program execution  
 * In the IPSO model, the CPU represents **Processing**
+
+
+![CPU Image](images/512px-Xeon_E5140_Processor_2022-11-29.jpg)  
+
+*CPU image: TK0130, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+
+
 
 ## Inside the CPU
 * The CPU is made up of several key components  
