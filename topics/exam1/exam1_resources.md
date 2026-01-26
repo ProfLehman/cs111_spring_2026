@@ -84,7 +84,7 @@
 
 ---
 
-## ***Draft*** - Week #3 - Logic, Hardware - ***Draft***
+## Week #3 - Logic, Hardware
 
 ### **Logic Gates and Computer Architecture**
 
@@ -96,11 +96,10 @@
 
 - Read [Welcome to CS –Chapter 6 – Computer Architecture & the Machine Cycle](https://runestone.academy/ns/books/published/welcomecs2/computer-architecture_computer-architecture-the-machine-cycle.html?mode=browsing)
  
-- Watch Video: Hardware Overview (Available Soon)
+- Watch Video: [Computing Hardware]((https://youtube.com/playlist?list=PLIVM1Y_L5QnGcHUZiRKD6NYai8FOO1yFb&si=_hupWhqB7My0AUNA)
 
-- Presentation from Video: (Available Soon)
+- Presentation from Hardware Video: ([Available Soon](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/hardware/computer_hardware.md))
    
-
 
 ---
 
