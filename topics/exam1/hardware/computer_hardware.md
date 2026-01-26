@@ -85,6 +85,27 @@ Prof. Lehman
 * Multiple cores allow a computer to perform **multiple operations at the same time**  
 * Programs must be designed to take advantage of **parallel processing** for cores to improve performance
 
+---  
+  
+  
+
+## Motherboard and Ports
+
+* The **motherboard** is the main **printed circuit board (PCB)** of a computer  
+* It holds and connects the **internal components**, including the CPU, memory, and storage  
+* Provides **electrical pathways** that allow components to communicate  
+* Includes **connectors, expansion slots, and ports** for internal and external devices
+
+## Common Computer Ports and Connections (2026)
+* **USB-A / USB-C** – connect keyboards, mice, flash drives, and other peripherals  
+* **USB-C / Thunderbolt** – high-speed data, video output, and power delivery  
+* **HDMI / DisplayPort** – connect monitors and displays  
+* **Ethernet (RJ-45)** – wired network connection  
+* **Audio ports** – headphones, speakers, microphones  
+* **Bluetooth (wireless)** – short-range connection for keyboards, mice, headphones, and other peripherals
+
+* Modern laptops often use **USB-C ports** to replace many traditional connectors
+
 ---
 
 ## Why Memory Speed Matters
