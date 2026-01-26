@@ -29,10 +29,11 @@ Prof. Lehman
 * Commonly used to host **websites, databases, file storage, and email systems**  
 * Often more powerful than desktop computers and designed to run continuously  
 * Can range from a **single machine** to many computers in large-scale data centers  
-* **Examples:** web servers, database servers, file servers, Moodle servers
+* **Examples:** web servers, database servers, file servers, Moodle servers  
 
 ![Server Racks](images/512px-Half_filled_server_racks.jpg)
 *server image: Alexis Lê-Quôc from New York, United States, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
+
 
 ## Desktop and Laptop Computers
 * **General-purpose personal computers** designed for individual users  
@@ -40,7 +41,12 @@ Prof. Lehman
 * Commonly used for **school, work, programming, gaming, and everyday tasks**  
 * Generally less powerful than servers or supercomputers, but more flexible for personal use  
 * Most commonly run **Windows 11, macOS, Chrome OS (Chromebooks), or Linux**  
-* **Manufacturers:** Dell, HP, Lenovo, Apple, Acer, ASUS
+* **Manufacturers:** Dell, HP, Lenovo, Apple, Acer, ASUS  
+
+
+![Desktops and Laptops](images/512px-Falcon_Northwest_PC_Lineup_Summer_2022.jpg)
+*desktop and laptop image: Felipe Mirez, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+
 
 ## Tablet and Smartphone Computers
 * **Mobile computing devices** designed for portability and ease of use  
@@ -48,7 +54,10 @@ Prof. Lehman
 * Optimized for **communication, media consumption, and mobile apps**  
 * Include built-in sensors such as **GPS, cameras, accelerometers, and biometric readers**  
 * Most commonly run **iOS or Android**  
-* Includes specialized mobile devices such as **e-readers (e.g., Kindle, Nook)** optimized for specific tasks
+* Includes specialized mobile devices such as **e-readers (e.g., Kindle, Nook)** optimized for specific tasks  
+
+![Tablet](images/512px-Tablet_hands.jpg)
+*tablet image: Geralt, CC0, via Wikimedia Commons*
 
 ## Embedded Computers
 * Computers **built into other devices** to perform a specific, dedicated function  
