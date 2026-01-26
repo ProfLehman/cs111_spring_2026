@@ -18,6 +18,10 @@ Prof. Lehman
 * Examples include **climate modeling, space exploration, and genome analysis**  
 * **Top 500 Supercomputers (updated twice per year November and June):** https://www.top500.org
 
+![IBM Blue Gene/P supercomputer](images/ibm_blue_gene_p.jpg)
+*Supercomputer Image: Argonne National Laboratory's Flickr page, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
+
+
 ## Servers
 * Computers designed to **provide services or resources** to other computers over a network  
 * Optimized for **reliability, availability, and performance** rather than direct user interaction  
