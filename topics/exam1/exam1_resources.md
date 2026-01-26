@@ -90,7 +90,9 @@
 
 - Read [Welcome to CS - Chapter 5 – Logic Gates and Circuits](https://runestone.academy/ns/books/published/welcomecs2/logic-circuits_logic-gates-circuits.html?mode=browsing)
 
-- Watch Video: Logic Gates (Available Soon)
+- Watch Video: [Logic Gates](https://youtube.com/playlist?list=PLIVM1Y_L5QnHWbNo2V1wTn_PcUT9FvV76&si=1FIaKFVoxtdrHPP7)
+
+- See Logic Gates Practice shown in video on Moodle
 
 - Read [Welcome to CS –Chapter 6 – Computer Architecture & the Machine Cycle](https://runestone.academy/ns/books/published/welcomecs2/computer-architecture_computer-architecture-the-machine-cycle.html?mode=browsing)
  
