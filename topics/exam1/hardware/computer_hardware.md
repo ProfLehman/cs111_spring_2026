@@ -83,7 +83,7 @@ Prof. Lehman
 * **Output:** results are presented to the user or another system
 * **Communcation:** while communcation can treated as input or output, most systems today contain networking hardware
 
-![Input Processing Output Storage Communcation Model](images/images/input_processing_storage_communcation_lehman.png)
+![Input Processing Output Storage Communcation Model](images/input_processing_storage_communcation_lehman.png)
 *Input Processing Output Storage Communcation Model image: image created by prof. lehman, January 2026 using diagrams.net*
 
 ## Central Processing Unit (CPU)
