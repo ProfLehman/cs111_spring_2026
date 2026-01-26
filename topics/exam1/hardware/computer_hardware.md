@@ -43,7 +43,7 @@ Prof. Lehman
 * Most commonly run **Windows 11, macOS, Chrome OS (Chromebooks), or Linux**  
 * **Manufacturers:** Dell, HP, Lenovo, Apple, Acer, ASUS  
 
-
+  
 ![Desktops and Laptops](images/512px-Falcon_Northwest_PC_Lineup_Summer_2022.jpg)
 *desktop and laptop image: Felipe Mirez, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
@@ -55,7 +55,7 @@ Prof. Lehman
 * Include built-in sensors such as **GPS, cameras, accelerometers, and biometric readers**  
 * Most commonly run **iOS or Android**  
 * Includes specialized mobile devices such as **e-readers (e.g., Kindle, Nook)** optimized for specific tasks  
-
+  
 ![Tablet](images/512px-Tablet_hands.jpg)
 *tablet image: Geralt, CC0, via Wikimedia Commons*
 
