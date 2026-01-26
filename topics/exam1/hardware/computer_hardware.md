@@ -289,7 +289,9 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 
 *punch card image: Mutatis mutandis, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons*
 
-![punch card image](images/512px-Punched_card.jpg
+![punch card image](images/512px-Punched_card.jpg)
+
+*memory image:Wilbysuffolk, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 ---
 
