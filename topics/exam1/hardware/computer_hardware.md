@@ -81,6 +81,10 @@ Prof. Lehman
 * **Processing:** the CPU performs calculations and decisions  
 * **Storage:** data and programs are saved for **short-term** or **long-term** use  
 * **Output:** results are presented to the user or another system
+* **Communcation:** while communcation can treated as input or output, most systems today contain networking hardware
+
+![Input Processing Output Storage Communcation Model](images/images/input_processing_storage_communcation_lehman.png)
+*Input Processing Output Storage Communcation Model image: image created by prof. lehman, January 2026 using diagrams.net*
 
 ## Central Processing Unit (CPU)
 * The **Central Processing Unit (CPU)** is the main processing component of a computer  
@@ -305,8 +309,8 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 ![mechanical hard drive](images/512px-35-Desktop-Hard-Drive.jpg)  
 *mechanical hard drive: Evan-Amos, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*  
 
-*solid state drives: ガラパリ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*  
 ![solid state drives](images/512px-MSATA_SATA_M.2_NVMeSSD.jpg)  
+*solid state drives: ガラパリ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*  
 
 
 ---
