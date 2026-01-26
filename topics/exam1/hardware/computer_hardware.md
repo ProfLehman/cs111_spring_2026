@@ -296,7 +296,13 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 
 *mechanical hard drive: Evan-Amos, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*
 
-![mechanical hard drive](images/512px-35-Desktop-Hard-Drive.jpg
+
+![mechanical hard drive](images/512px-35-Desktop-Hard-Drive.jpg)
+
+
+*solid state drives: ガラパリ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+
+![solid state drives](images/512px-MSATA_SATA_M.2_NVMeSSD.jpg)
 
 
 ---
