@@ -96,7 +96,7 @@ Prof. Lehman
 
 * CPU's generate a lot of heat, thus a **heat sink** and **fan** are usually needed to cool the CPU
 
-![CPU Heat Sink](512px-Asus_P5PL2_-_CPU_heatsink_with_cooling_fan-5293.jpg)
+![CPU Heat Sink](images/512px-Asus_P5PL2_-_CPU_heatsink_with_cooling_fan-5293.jpg)
 *Heat Sink image: Raimond Spekking, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 
@@ -287,6 +287,9 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 
 *Storage capacity has grown from **bytes to terabytes** in a single human lifetime.*
 
+*punch card image: Mutatis mutandis, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons*
+
+![punch card image](images/512px-Punched_card.jpg
 
 ---
 
