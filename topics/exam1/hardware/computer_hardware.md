@@ -16,9 +16,10 @@ Prof. Lehman
 * Designed for **highly complex problems** beyond the capabilities of typical computers  
 * Used for **weather prediction, scientific research, simulations, and AI training**  
 * Examples include **climate modeling, space exploration, and genome analysis**  
-* **Top 500 Supercomputers (updated twice per year November and June):** https://www.top500.org
+* **Top 500 Supercomputers (updated twice per year November and June):**
+*  https://www.top500.org
 
-![IBM Blue Gene/P supercomputer](images/ibm_blue_gene_p.jpg)
+![IBM Blue Gene/P supercomputer](images/IBM_Blue_Gene_P_supercomputer.jpg)
 *Supercomputer Image: Argonne National Laboratory's Flickr page, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
 
 
