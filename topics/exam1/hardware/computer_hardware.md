@@ -20,6 +20,7 @@ Prof. Lehman
 *  https://www.top500.org
 
 ![IBM Blue Gene/P supercomputer](images/IBM_Blue_Gene_P_supercomputer.jpg)  
+
 *Supercomputer Image: Argonne National Laboratory's Flickr page, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
 
 
@@ -32,6 +33,7 @@ Prof. Lehman
 * **Examples:** web servers, database servers, file servers, Moodle servers  
 
 ![Server Racks](images/512px-Half_filled_server_racks.jpg)  
+
 *server image: Alexis Lê-Quôc from New York, United States, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
 
 
@@ -45,6 +47,7 @@ Prof. Lehman
 
   
 ![Desktops and Laptops](images/512px-Falcon_Northwest_PC_Lineup_Summer_2022.jpg)  
+
 *desktop and laptop image: Felipe Mirez, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 
@@ -84,6 +87,7 @@ Prof. Lehman
 * **Communcation:** while communcation can treated as input or output, most systems today contain networking hardware
 
 ![Input Processing Output Storage Communcation Model](images/input_processing_storage_communcation_lehman.png)  
+
 *Input Processing Output Storage Communcation Model image: image created by prof. lehman, January 2026 using diagrams.net*  
 
 ## Central Processing Unit (CPU)
@@ -100,7 +104,8 @@ Prof. Lehman
 
 * CPU's generate a lot of heat, thus a **heat sink** and **fan** are usually needed to cool the CPU
 
-![CPU Heat Sink](images/512px-Asus_P5PL2_-_CPU_heatsink_with_cooling_fan-5293.jpg)
+![CPU Heat Sink](images/512px-Asus_P5PL2_-_CPU_heatsink_with_cooling_fan-5293.jpg)  
+
 *Heat Sink image: Raimond Spekking, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 
@@ -122,6 +127,29 @@ Prof. Lehman
 * Modern CPUs often contain **multiple cores**  
 * Multiple cores allow a computer to perform **multiple operations at the same time**  
 * Programs must be designed to take advantage of **parallel processing** for cores to improve performance
+---
+
+## GPUs in Modern Computers (Processing)
+
+**Graphics Processing Units (GPUs)** are specialized processors designed to perform **many calculations at the same time**.
+
+## What GPUs Do Well
+- Handle **massive parallel workloads** using thousands of small cores  
+- Excel at math-heavy tasks such as graphics, images, and matrix calculations  
+- Work **alongside the CPU**, not as a replacement  
+
+> **CPU:** best at a few complex, sequential tasks  
+> **GPU:** best at thousands of simple tasks running in parallel  
+
+## GPU Real-World Use Cases
+Many modern computing problems are **parallel**, not sequential—making GPUs essential for today’s most powerful and practical applications.
+
+- **Gaming:** GPUs render 3D graphics, lighting, shadows, and motion in real time  
+- **Artificial Intelligence:** Training and running AI models (image recognition, chatbots, recommendations) relies heavily on GPUs  
+- **Photo & Video Editing:** Filters, effects, and video encoding use GPU acceleration  
+- **Science & Research:** Weather modeling, simulations, and medical imaging run much faster on GPUs  
+- **Everyday Devices:** Phones, tablets, and laptops include GPUs for graphics and AI features  
+
 
 ---  
 ## Motherboard and Ports
@@ -303,24 +331,32 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 *Storage capacity has grown from **bytes to terabytes** in a single human lifetime.*
 
 ![punch card image](images/512px-Punched_card.jpg)  
+
 *punch card image: Mutatis mutandis, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons*  
 
 ![floppy disks](images/512px-Floppy_disk_2009_G1.jpg)  
+
 *floppy disks: George Chernilevsky, Public domain, via Wikimedia Commons*  
 
-![Iomega Zip Disk image](images/512px-Iomega_Zip_100_drive_with_a_disk.jpg)  
+![Iomega Zip Disk image](images/512px-Iomega_Zip_100_drive_with_a_disk.jpg) 
+
 *Iomega Zip Disk image image: Yuri Litvinenko / 30pin, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons*  
 
-![CD DVD Blu-Ray](images/512px-2023_Nagrywarka_zewnętrzna_DVD-CD_Krux_KRX0123_(3).jpg)
+![CD DVD Blu-Ray](images/512px-2023_Nagrywarka_zewnętrzna_DVD-CD_Krux_KRX0123_(3).jpg)  
+
+
 *CD DVD Blu-Ray image: Jacek Halicki, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 ![USB Flash Drives](images/512px-USB_flash_drives.jpg)  
+
 *USB Flash Drives image: Cjp24, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*  
 
 ![mechanical hard drive](images/512px-35-Desktop-Hard-Drive.jpg)  
+
 *mechanical hard drive: Evan-Amos, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons*  
 
 ![solid state drives](images/512px-MSATA_SATA_M.2_NVMeSSD.jpg)  
+
 *solid state drives: ガラパリ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*  
 
 
