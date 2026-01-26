@@ -96,6 +96,9 @@ Prof. Lehman
 * Provides **electrical pathways** that allow components to communicate  
 * Includes **connectors, expansion slots, and ports** for internal and external devices
 
+![Motherboard showing CPU socket, RAM slots, and expansion ports](images/motherboard_asrock_k7vt4a.jpg)
+- Motherboard image: Darkone (talk · contribs), CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
+
 ## Common Computer Ports and Connections (2026)
 * **USB-A / USB-C** – connect keyboards, mice, flash drives, and other peripherals  
 * **USB-C / Thunderbolt** – high-speed data, video output, and power delivery  
