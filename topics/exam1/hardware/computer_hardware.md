@@ -83,8 +83,8 @@ Prof. Lehman
 * **Output:** results are presented to the user or another system
 * **Communcation:** while communcation can treated as input or output, most systems today contain networking hardware
 
-![Input Processing Output Storage Communcation Model](images/input_processing_storage_communcation_lehman.png)
-*Input Processing Output Storage Communcation Model image: image created by prof. lehman, January 2026 using diagrams.net*
+![Input Processing Output Storage Communcation Model](images/input_processing_storage_communcation_lehman.png)  
+*Input Processing Output Storage Communcation Model image: image created by prof. lehman, January 2026 using diagrams.net*  
 
 ## Central Processing Unit (CPU)
 * The **Central Processing Unit (CPU)** is the main processing component of a computer  
@@ -151,17 +151,29 @@ Prof. Lehman
 
 ---
 
-## Why Memory Speed Matters
-* The CPU must constantly access data and instructions to operate  
-* Even fast CPUs are slowed down if data cannot be delivered quickly  
-* Different types of memory provide different tradeoffs in **speed, size, and cost**  
-* This leads to a structured **memory hierarchy**
+## Memory and Storage
+* The terms **Memory** and **Storage** are often used interchangably
+* Computers use both **short-term** and **long-term** storage
+* Short-Term memory (registers, cache, Main Memory ie. RAM) are only available when the computer is "on"
+* Long-Term storage (solid state drives, mechanical hard drives, flash drives) persists after the computer is turned "off"
 
-## Memory Hierarchy Overview
-* Computers use multiple layers of memory organized by **speed and capacity**  
-* Faster memory is **closer to the CPU**, but smaller and more expensive  
-* Slower memory is **larger and cheaper**, but farther from the CPU  
+## Relative Speeds of Computer Memory
+* The CPU must constantly access data and instructions to operate  
 * Data is moved between these layers as needed during program execution
+* Even fast CPUs are slowed down if data cannot be delivered quickly  
+* Different types of memory and storage provide different tradeoffs in **speed, size, and cost**  
+
+## Memory Hierarchy**
+
+| Memory Type              | Relative Speed | Capacity        | Cost per Unit |
+|--------------------------|----------------|-----------------|---------------|
+| Registers                | Fastest        | Very small      | Very high     |
+| Cache memory             | Very fast      | Small           | High          |
+| Main memory (RAM)        | Fast           | Medium          | Moderate      |
+| Solid-state storage (SSD)| Slow           | Large           | Low           |
+| Mechanical hard drive    | Slowest        | Very large      | Very low      |
+
+
 
 ## Registers
 * The **fastest type of memory** in a computer  
@@ -184,7 +196,6 @@ Prof. Lehman
 ![Memory](images/512px-Pile_of_Laptop_&_Desktop_RAM_Memory_Modules.jpg)  
 
 *memory image:Wilbysuffolk, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
-
 
 ## Secondary Storage
 * Used for **long-term data storage**  
@@ -322,6 +333,9 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
   *(larger capacities common in desktops or as secondary storage)*  
 * **CPU Speed:** Modern CPUs commonly operate in the **~2–5 GHz** range  
   *(performance also depends on core count and architecture)*
+
+Note: For current hardware specs [See PC Part Picker](https://pcpartpicker.com/)
+
 
 ## Computer Hardware — Big Picture Recap
 * All computers use the same **Input–Processing–Storage–Output (IPSO)** model  
