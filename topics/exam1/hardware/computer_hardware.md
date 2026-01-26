@@ -94,6 +94,11 @@ Prof. Lehman
 
 *CPU image: TK0130, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
+* CPU's generate a lot of heat, thus a **heat sink** and **fan** are usually needed to cool the CPU
+
+![CPU Heat Sink](512px-Asus_P5PL2_-_CPU_heatsink_with_cooling_fan-5293.jpg)
+*Heat Sink image: Raimond Spekking, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+
 
 
 ## Inside the CPU
@@ -138,6 +143,8 @@ Prof. Lehman
 
 * Modern laptops often use **USB-C ports** to replace many traditional connectors
 
+[Port Diagrams](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+
 ---
 
 ## Why Memory Speed Matters
@@ -169,6 +176,11 @@ Prof. Lehman
 * Serves as the computer’s primary **working memory**  
 * Much larger than cache, but slower  
 * **Volatile** — contents are lost when power is turned off
+
+![Memory](images/512px-Pile_of_Laptop_&_Desktop_RAM_Memory_Modules.jpg)  
+
+*memory image:Wilbysuffolk, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+
 
 ## Secondary Storage
 * Used for **long-term data storage**  
