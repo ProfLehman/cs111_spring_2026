@@ -31,6 +31,9 @@ Prof. Lehman
 * Can range from a **single machine** to many computers in large-scale data centers  
 * **Examples:** web servers, database servers, file servers, Moodle servers
 
+![Server Racks](images/512px-Half_filled_server_racks.jpg)
+*server image: Alexis Lê-Quôc from New York, United States, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
+
 ## Desktop and Laptop Computers
 * **General-purpose personal computers** designed for individual users  
 * Desktops emphasize **performance, expandab+ility, and lower cost**; laptops emphasize **portability and convenience**  
