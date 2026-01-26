@@ -39,7 +39,7 @@ Prof. Lehman
 
 ## Desktop and Laptop Computers
 * **General-purpose personal computers** designed for individual users  
-* Desktops emphasize **performance, expandab+ility, and lower cost**; laptops emphasize **portability and convenience**  
+* Desktops emphasize **performance, expandability, and lower cost**; laptops emphasize **portability and convenience**  
 * Commonly used for **school, work, programming, gaming, and everyday tasks**  
 * Generally less powerful than servers or supercomputers, but more flexible for personal use  
 * Most commonly run **Windows 11, macOS, Chrome OS (Chromebooks), or Linux**  
