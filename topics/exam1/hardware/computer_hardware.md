@@ -133,6 +133,11 @@ Prof. Lehman
 
 **Graphics Processing Units (GPUs)** are specialized processors designed to perform **many calculations at the same time**.
 
+![GPU](images/512px-Gigabyte_GeForce_GV-N710D3-2GL_2_GiB_PCI-Express_Graphics_Card_(Jigs_Tech)_010.png)  
+
+*GPU image: Jigs Tech, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons*
+
+
 ## What GPUs Do Well
 - Handle **massive parallel workloads** using thousands of small cores  
 - Excel at math-heavy tasks such as graphics, images, and matrix calculations  
