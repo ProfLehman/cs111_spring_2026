@@ -86,9 +86,6 @@ Prof. Lehman
 * Programs must be designed to take advantage of **parallel processing** for cores to improve performance
 
 ---  
-  
-  
-
 ## Motherboard and Ports
 
 * The **motherboard** is the main **printed circuit board (PCB)** of a computer  
@@ -96,8 +93,11 @@ Prof. Lehman
 * Provides **electrical pathways** that allow components to communicate  
 * Includes **connectors, expansion slots, and ports** for internal and external devices
 
-![Motherboard showing CPU socket, RAM slots, and expansion ports](images/motherboard_asrock_k7vt4a.jpg)
-- Motherboard image: Darkone (talk · contribs), CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
+![Motherboard showing CPU socket, RAM slots, and expansion ports](images/512px-ASRock_K7VT4A_Pro_Mainboard.jpg)
+
+*Motherboard image: Darkone (talk · contribs), CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons*
+
+---
 
 ## Common Computer Ports and Connections (2026)
 * **USB-A / USB-C** – connect keyboards, mice, flash drives, and other peripherals  
