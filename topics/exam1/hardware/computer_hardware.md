@@ -19,7 +19,7 @@ Prof. Lehman
 * **Top 500 Supercomputers (updated twice per year November and June):**
 *  https://www.top500.org
 
-![IBM Blue Gene/P supercomputer](images/IBM_Blue_Gene_P_supercomputer.jpg)
+![IBM Blue Gene/P supercomputer](images/IBM_Blue_Gene_P_supercomputer.jpg)  
 *Supercomputer Image: Argonne National Laboratory's Flickr page, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
 
 
@@ -31,7 +31,7 @@ Prof. Lehman
 * Can range from a **single machine** to many computers in large-scale data centers  
 * **Examples:** web servers, database servers, file servers, Moodle servers  
 
-![Server Racks](images/512px-Half_filled_server_racks.jpg)
+![Server Racks](images/512px-Half_filled_server_racks.jpg)  
 *server image: Alexis Lê-Quôc from New York, United States, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons*
 
 
@@ -44,7 +44,7 @@ Prof. Lehman
 * **Manufacturers:** Dell, HP, Lenovo, Apple, Acer, ASUS  
 
   
-![Desktops and Laptops](images/512px-Falcon_Northwest_PC_Lineup_Summer_2022.jpg)
+![Desktops and Laptops](images/512px-Falcon_Northwest_PC_Lineup_Summer_2022.jpg)  
 *desktop and laptop image: Felipe Mirez, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 
@@ -56,7 +56,7 @@ Prof. Lehman
 * Most commonly run **iOS or Android**  
 * Includes specialized mobile devices such as **e-readers (e.g., Kindle, Nook)** optimized for specific tasks  
   
-![Tablet](images/512px-Tablet_hands.jpg)
+![Tablet](images/512px-Tablet_hands.jpg)  
 *tablet image: Geralt, CC0, via Wikimedia Commons*
 
 ## Embedded Computers
