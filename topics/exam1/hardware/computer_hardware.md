@@ -210,6 +210,23 @@ Assume a large hard drive is **4 TB in 2026** and storage capacity doubles every
 | 2042 | **1 PB (1024 TB)** |
 
 ---
+
+## Common Computer Measurement Terms
+
+| Term | Abbreviation | Approximate Value | Used For |
+|-----|-------------|------------------|----------|
+| Bit | b | 0 or 1 | Smallest unit of data |
+| Byte | B | 8 bits | Basic unit of data storage |
+| Kilobyte | KB | ~1,000 bytes | Small files, text |
+| Megabyte | MB | ~1,000,000 bytes | Photos, small programs |
+| Gigabyte | GB | ~1,000,000,000 bytes | Applications, videos |
+| Terabyte | TB | ~1,000,000,000,000 bytes | Large storage devices |
+| Gigahertz | GHz | Billions of cycles per second | CPU speed |
+
+*Note:* Computers use base-2 (1 KB = 1,024 bytes), but base-10 values are fine for this course.
+
+
+---
 ## Historical Long-Term Storage Devices and Capacities
 | Device                     | Approximate Storage Capacity        | Approximate Years in Common Use |
 |----------------------------|-------------------------------------|---------------------------------|
