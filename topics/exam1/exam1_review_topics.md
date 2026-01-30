@@ -6,17 +6,17 @@ Exam questions will be selected from the topics listed below.
 You should review the topics presented below, textbook (selected topics from Chapters 2, 3, 4, 5, 6), 
 [Exam 1 Resources](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/exam1_resources.md), H5P/PowerPoint Presentations, assignments, discussions, and the sample questions provided. 
 
-The format of the exam will be multiple-choice, fill in the blank, and short answer. 
+The format of the exam will be multiple-choice, fill-in-the-blank, and short answer. 
 
-The exam is closed book/notes. All answers will be entered via Moodle quiz via Respondus browser. 
+The exam is closed-book/notes. 
 
-Must use the lab computers. 
+The exam is online with all answers entered via Moodle quiz via the Respondus browser (also requires a webcam). 
 
 You are expected to do your own work without help. 
 
 Phones should not be checked or near you during the exam. 
 
-A basic calculator will be available on the exam. You may use a blank piece of paper and a pencil. 
+A **basic calculator** will be available on the exam in the browser. You may use a blank piece of paper and a pencil. Note that you are asked to show your work to the camera at the end of the exam. 
 
 ---
 
