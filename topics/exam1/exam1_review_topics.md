@@ -10,6 +10,9 @@ The exam is online, with all answers entered via a Moodle quiz in the Respondus 
 - Phones should not be checked or near you during the exam. 
 - **basic calculator** will be available on the exam in the browser. You may use a blank piece of paper and a pencil. Note that you are asked to show your work to the camera at the end of the exam. 
 
+## Respondus Browser Test (Complete by Wednesday February 11th in case you need tech support)
+See Moodle link at [Respondus Browser Test](https://moodle.huntington.edu/mod/quiz/view.php?id=686799)
+
 
 ## Exam Review Resources
 
