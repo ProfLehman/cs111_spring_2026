@@ -26,7 +26,7 @@ Exam questions will be selected from the topics listed below. You should review 
 
 4. Complete [Exam 1 review questions assignment](https://moodle.huntington.edu/mod/quiz/view.php?id=681614)  Note: you can submit this assignment multiple times! (takes the highest score and questions are selected at random)
 
-5. [In-class (or online on your own) review questions](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/handouts/cs111_exam1_in_class_review.pdf) for binary, hex, ascii, and logic.  
+5. [In-class (or online on your own) review questions](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/handouts/cs111_exam1_in_class_review.pdf) for binary, hex, ascii, and logic.  Can also watch video walkthrough of [for solutions to in-class review questions](https://youtu.be/he_kxozvsUg)
 
 
 ---
