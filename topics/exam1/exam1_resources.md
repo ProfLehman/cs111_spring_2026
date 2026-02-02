@@ -104,7 +104,9 @@
   
 ---
 
-## ***Draft*** - Week #4 - Review - ***Draft***
+## Week #4 - Exam #1 Review
+
+See [Exam #1 Review](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam1/exam1_review_topics.md)
 
 ---
 
