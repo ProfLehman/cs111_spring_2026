@@ -6,9 +6,13 @@
 
 - Read: [*Welcome to CS* – Chapter 9: Operating Systems](https://runestone.academy/ns/books/published/welcomecs2/operating-systems.html?mode=browsing)
 
+- Watch Video: [Operating Systems - Overview](https://youtu.be/PU4K48VmJtU)
+
+- Watch Video: [Operating Systems - Files Overview](https://youtu.be/W9GA3EIWBTE)
+  
 - Presentation from Video: [Operating Systems (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681620)
 
-  
+
 
 
 
