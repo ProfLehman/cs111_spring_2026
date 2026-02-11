@@ -29,7 +29,7 @@ By the end of this lab, you will be able to:
 * Right-click `cs111_files.zip`
 * Select **Extract All…**
 * Click **Extract**
-* A folder named `generated_files` should appear
+* A folder named `cs111_files` should appear
 
 ### Mac
 
@@ -37,15 +37,15 @@ By the end of this lab, you will be able to:
 * Navigate to **Documents**
 * Double-click `cs111_files.zip`
 * macOS will automatically extract it
-* A folder named `generated_files` will appear
+* A folder named `cs111_files` will appear
 
-4. Open the folder `generated_files`
+4. Open the folder `cs111_files`
 
 ---
 
 ## 2. Inspect the Files
 
-Open the folder `generated_files`.
+Open the folder `cs111_files`.
 
 ---
 
@@ -136,7 +136,7 @@ Sort the files by:
 
 ## 4. Organize by Type
 
-Inside `generated_files`, create folders:
+Inside `cs111_files`, create folders:
 
 * `Documents`
 * `Spreadsheets`
@@ -159,7 +159,7 @@ Move files into their folders:
 
 ## 5. Search Using Wildcards
 
-Use the search bar in the `generated_files` folder.
+Use the search bar in the `cs111_files` folder.
 
 Try:
 
@@ -175,7 +175,7 @@ Try:
 
 ### Mac Tip
 
-* Click **“generated_files”** under “Search:” to limit results to the folder
+* Click **“cs111_files”** under “Search:” to limit results to the folder
 
 **Answer:**
 
@@ -200,7 +200,7 @@ Delete the folders you created:
 Keep:
 
 * `cs111_files.zip`
-* The original `generated_files` folder
+* The original `cs111_files` folder
 
 ---
 
@@ -210,7 +210,7 @@ In Part 2, you will recreate the same folder organization
 using the command line instead of the File Manager.
 
 
-Before starting Part 2, make sure the folder `generated_files`
+Before starting Part 2, make sure the folder `cs111_files`
 contains only the original files (no subfolders).
 If needed, delete the folders you created in Part 1.
 
@@ -235,13 +235,13 @@ If needed, delete the folders you created in Part 1.
 ### Windows
 
 ```
-cd %USERPROFILE%\Documents\generated_files
+cd %USERPROFILE%\Documents\cs111_files
 ```
 
 ### Mac
 
 ```
-cd ~/Documents/generated_files
+cd ~/Documents/cs111_files
 ```
 
 If you get an error:
