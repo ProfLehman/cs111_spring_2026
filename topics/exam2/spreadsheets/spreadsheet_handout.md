@@ -122,6 +122,7 @@ Displays parts of a whole (total = 100%).
 **Example:**
 Showing sales contributions of individuals as a percentage of total sales.
 
+![Pie Chart](images/pie_chart.png)
 ---
 
 ### 2. Column Chart
@@ -130,6 +131,8 @@ Compares different items or groups.
 
 **Example:**
 Comparing sales numbers for eight different individuals.
+
+![Column Chart](images/column_chart.png)
 
 ---
 
@@ -140,7 +143,8 @@ Shows how different components contribute to a total across categories.
 **Example:**
 Comparing total sales where each segment of the column shows contributions from each week.
 
-![stacked column chart](/images/stacked_column_chart.png)
+![Stacked Column Chart](images/stacked_column_chart.png)
+
 ---
 
 ### 4. Line Chart
@@ -150,8 +154,10 @@ Tracks changes over time.
 **Example:**
 Displaying sales over five weeks to identify trends.
 
+![Line Chart](images/line_chart.png)
+
 ---
 
 -- end --
 
-If you'd like, I can also format this as a **student handout version**, **PowerPoint slide outline**, or **lab activity sheet** for CS 111.
+
