@@ -27,7 +27,7 @@
 
 - Link: [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
 
-- Excel: [Function Examples](./Sample_Functions.xlsx)
+- Excel: [Function Examples](./spreadsheets/Sample_Functions.xlsx)
 
 - Handout: [Spreadsheet Overview](./spreadsheets/spreadsheet_handout.md)
 ---
