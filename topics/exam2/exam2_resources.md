@@ -29,7 +29,7 @@
 
 - Excel: [Function Examples](Sample_Functions.xlsx)
 
-- Handout: [Spreadsheet Overview](spreadsheet_handout.md)
+- Handout: [Spreadsheet Overview](/spreadsheets/spreadsheet_handout.md)
 ---
 
 Updated February 15, 2026
