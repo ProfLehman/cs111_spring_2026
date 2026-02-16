@@ -42,15 +42,13 @@
 
 - Watch Videos: [Spreadsheet Assignment Video Playlist x10](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnH9DI2na7HGAbiNs1_R-Ue6)
 
-- Link (optional): [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
-
-
-Current Spreadsheet Software  
+**Current and Historical Spreadsheet Software**
 * Link: [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 * Link: [Google Sheets](https://docs.google.com/)
 * Link: [Apple Numbers](https://www.apple.com/in/numbers/)
 * Link: [LibreOffice Calc - free](9https://www.libreoffice.org/)
 * Link: [WordPerfect Office Quatro Pro](https://www.wordperfect.com/en/product/home-student/)
+* Link: [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
 
 ---
 
