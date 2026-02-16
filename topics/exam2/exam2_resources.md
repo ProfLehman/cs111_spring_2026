@@ -12,6 +12,13 @@
   
 - Presentation from Video: [Operating Systems (H5P on Moodle)](https://moodle.huntington.edu/mod/h5pactivity/view.php?id=681620)
 
+- Watch Video: File Manager (GUI) - Windows
+
+- Watch Video: Command Line) - Windows
+
+- Handout from File Manager and Command Line Videos: [File Manager and Command Line](CS111_File_Manager_Command_Line.md)
+
+
 ---
 
 ## Week #6 - Cloud Apps and Spreadsheets
