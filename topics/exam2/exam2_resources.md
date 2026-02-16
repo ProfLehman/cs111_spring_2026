@@ -27,20 +27,22 @@
 
 - watch: [Cloud Overview](https://youtu.be/TSAu2lRr8Zg)
 
-- Link: [Draw.io (formerly Diagrams.net) Diagram Editor](https://www.drawio.com/)
+- Link (optional): [Draw.io (formerly Diagrams.net) Diagram Editor](https://www.drawio.com/)
 
 
 ## Spreadsheet Assignment
 
-- Watch Videos: [Spreadsheet Video Playlist x10](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnH9DI2na7HGAbiNs1_R-Ue6)
+- Watch Video: [Spreadsheet Overview](https://youtu.be/yxldV8yvLmY)
+
+- Handout: [Spreadsheet Overview Handout from Video](./spreadsheets/spreadsheet_handout.md)
 
 - Watch Video: [Excel Function Examples](https://youtu.be/sCqMunFxBeo)
 
-- Excel File: [Function Examples file from video](./spreadsheets/Sample_Functions.xlsx)
+- Excel File: [Function Examples File from video](./spreadsheets/Sample_Functions.xlsx)
 
-- Handout: [Spreadsheet Overview](./spreadsheets/spreadsheet_handout.md)
+- Watch Videos: [Spreadsheet Assignment Video Playlist x10](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnH9DI2na7HGAbiNs1_R-Ue6)
 
-- Link: [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
+- Link (optional): [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
 
 ---
 
