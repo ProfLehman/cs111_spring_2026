@@ -34,7 +34,9 @@
 
 - Watch Videos: [Spreadsheet Video Playlist x10](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnH9DI2na7HGAbiNs1_R-Ue6)
 
-- Excel: [Function Examples](./spreadsheets/Sample_Functions.xlsx)
+- Watch Video: [Excel Function Examples](https://youtu.be/sCqMunFxBeo)
+
+- Excel File: [Function Examples file from video](./spreadsheets/Sample_Functions.xlsx)
 
 - Handout: [Spreadsheet Overview](./spreadsheets/spreadsheet_handout.md)
 
