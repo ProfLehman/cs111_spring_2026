@@ -1,18 +1,8 @@
-# CS 111 – File Manager & Command Line Lab
-
-## Objectives
-
-By the end of this lab, you will be able to:
-
-* Extract files from a `.zip`
-* Sort and classify files
-* Organize files into folders
-* Use wildcard search (`*`)
-* Perform basic file operations in the terminal
+# CS 111 – File Manager & Command Line 
 
 ---
 
-# Part 1 — File Manager (GUI)
+# File Manager (GUI)
 
 A file manager is a program that allows you to view, organize, and manage the files and folders on your computer. 
 It provides a visual way to navigate the file system, move and rename files, create folders, and access stored information.
@@ -27,7 +17,11 @@ Take a few minutes to use the File Manager
 * Paths
 * Right-click or Command-click on a file to see properties such as file size and date created
 
-# Part 2. Extract the Sample Files
+
+
+# Part 1 - Using the File Manager
+
+## 1. Extract the Sample Files
 
 1. Download [`cs111_files.zip`](cs111_files.zip)
 2. Move it to your **Documents** folder
@@ -356,7 +350,7 @@ If folders are not empty, you moved files incorrectly.
 
 ---
 
-# Reflection (3–5 minutes)
+# Reflection
 
 1. Which was faster for organizing files: File Manager or Terminal?
 2. Why might programmers prefer command-line tools?
