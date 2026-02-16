@@ -32,11 +32,12 @@
 
 - Watch Videos: [Spreadsheet Video Playlist x10](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnH9DI2na7HGAbiNs1_R-Ue6)
 
-- Link: [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
-
 - Excel: [Function Examples](./spreadsheets/Sample_Functions.xlsx)
 
 - Handout: [Spreadsheet Overview](./spreadsheets/spreadsheet_handout.md)
+
+- Link: [VisiCalc – Early Spreadsheet Software](https://www.pcjs.org/software/pcx86/app/other/visicalc/1981/)
+
 ---
 
 Updated February 15, 2026
