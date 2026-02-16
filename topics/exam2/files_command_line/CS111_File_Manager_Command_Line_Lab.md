@@ -14,144 +14,20 @@ By the end of this lab, you will be able to:
 
 # Part 1 — File Manager (GUI)
 
----
+A file manager is a program that allows you to view, organize, and manage the files and folders on your computer. 
+It provides a visual way to navigate the file system, move and rename files, create folders, and access stored information.
 
-## 0.
+**File Explorer** (Windows) and Finder(Macintosh) are two examples of file managers.
 
----
+Take a few minutes to use the File Manager 
 
-# Explore the File Manager
-
-Before organizing files, take a few minutes to explore how your file manager works.
-
-Open the folder `cs111_files`.
-
----
-
-## 1. Try Different Views
-
-Switch between different view options:
-
-### Windows
-
-Click **View** in the toolbar. Try:
-
-* Icons
-* List
-* Details
-* Large icons
-
-### Mac
-
-Click **View** in the menu bar. Try:
-
-* As Icons
-* As List
-* As Columns
-* As Gallery
-
-### Questions
-
-* Which view shows the most information?
-* Which view is best for quickly seeing file names?
-* Which view is best for sorting?
-
----
-
-## 2. Use Navigation Tools
-
-Explore how you move between folders.
-
-### Windows
-
-* Use the **Back** and **Forward** buttons
-* Click the **address bar**
-* Try typing part of the path
-* Use the left sidebar (Quick Access)
-
-### Mac
-
-* Use the **Back** button
-* Click the **path bar** (View → Show Path Bar if needed)
-* Use the sidebar (Favorites)
-* Try switching to **Column View** to navigate folders
-
-### Questions
-
-* How can you tell where you are in the folder structure?
-* What is the full path to your current folder?
-
----
-
-## 3. Explore File Information
-
-Right-click a file and choose:
-
-### Windows
-
-* **Properties**
-
-### Mac
-
-* **Get Info**
-
-Look for:
-
-* File size
-* Date created
-* Date modified
-* File type
-* Location
-
-### Questions
-
-* What information is stored about each file?
-* What is the difference between "Date Created" and "Date Modified"?
-
----
-
-## Why This Matters
-
-File managers are graphical tools built on top of the operating system.
-
-Understanding:
-
-* Views
 * Navigation
+* Views
 * File properties
 * Paths
+* Right-click or Command-click on a file to see properties such as file size and date created
 
-helps you understand how the file system actually works.
-
----
-
-# Why This Section Is Valuable Pedagogically
-
-This reinforces:
-
-* Folder hierarchy
-* Absolute vs relative location (prepping for CLI)
-* Metadata
-* The connection between GUI and OS structure
-
-It also makes the transition to:
-
-```
-cd ~/Documents/cs111_files
-```
-
-feel natural instead of abstract.
-
----
-
-If you'd like, I can now:
-
-* Integrate this seamlessly into your full lab
-* Tighten it to keep total lab length reasonable
-* Or add a short instructor demo script to accompany it
-
-
-## 1. Extract the Files
+# Part 2. Extract the Sample Files
 
 1. Download [`cs111_files.zip`](cs111_files.zip)
 2. Move it to your **Documents** folder
