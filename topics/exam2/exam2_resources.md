@@ -16,7 +16,7 @@
 
 - Watch Video: Command Line) - Windows
 
-- Handout from File Manager and Command Line Videos: [File Manager and Command Line](CS111_File_Manager_Command_Line.md)
+- Handout from File Manager and Command Line Videos: [File Manager and Command Line](files_command_line/CS111_File_Manager_Command_Line.md)
 
 
 ---
