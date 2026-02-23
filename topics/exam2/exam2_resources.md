@@ -52,6 +52,13 @@
 
 ---
 
+## Week #7 - Networking, Internet, HTML, CSS
+
+[HTML Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/html_intro.md)
+
+
+---
+
 Updated February 16, 2026
 
 ---
