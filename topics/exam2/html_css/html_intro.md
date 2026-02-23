@@ -268,7 +268,7 @@ Resize with width:
 
 Example:
 
-![Huntington University Logo](images/hulogo.jpg)
+![Huntington University Logo](images/hulogo_200.jpg)
 
 ---
 
