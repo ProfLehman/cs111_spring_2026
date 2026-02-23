@@ -109,7 +109,7 @@ A complete starter template:
 
 It is best practice to separate structure and formatting.
 
-![HTML vs CSS](images/html_vs_css.png)
+![HTML vs CSS](images/html_vs_css_sm.png)
 
 ---
 
