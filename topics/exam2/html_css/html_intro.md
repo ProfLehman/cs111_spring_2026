@@ -26,14 +26,14 @@ There are many tools available for creating web pages. Essentially you only need
 
 ### Cloud Editors (No Installation Required)
 
-* [replit.com](https://replit.com/)
 * [jsfiddle.net](https://jsfiddle.net/)
 * [jsbin.com](https://jsbin.com/)
+* [replit.com](https://replit.com/)
 
 ### Local Laptop/Desktop Text Editors
 
 * [Phoenix (fork of Brackets)](https://phcode.io/) (Mac & Windows)
-* [Notepad++](https://notepad-plus-plus.org/) (Windows)
+* [Notepad++](https://notepad-plus-plus.org/) (**Windows - Use in Huntington Indiana Lab**)
 * [BBEdit](https://www.barebones.com/products/bbedit/)
 * [Atom](https://atom.io/) (Mac & Windows)
 
