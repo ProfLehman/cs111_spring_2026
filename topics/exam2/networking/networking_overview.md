@@ -1,12 +1,6 @@
 # Networking Overview
 
-**CS 111 – Introduction to Computer Science**
-Dr. Jeff Lehman
-Huntington University
-
 ---
-
-# Networking
 
 ## What is a Computer Network?
 
@@ -37,6 +31,16 @@ Examples:
 * A group of buildings
 * A university campus (e.g., HU campus)
 
+
+A **WAN (Wide Area Network)** connects computers over a large geographic area.
+
+Examples:
+
+* The Internet
+* Connecting campuses in different cities
+* Connecting offices across states or countries
+
+> The Internet is the largest WAN in the world.
 
 ---
 
@@ -80,11 +84,43 @@ Examples:
 
 ---
 
+## Network Hardware Devices
+
+Computers on a network are connected using specialized devices.
+
+### Router
+
+- Connects **different networks**
+- Directs traffic between your home network and the Internet
+- Often assigns local IP addresses (via DHCP)
+
+### Switch
+
+- Connects devices within the same local network
+- Sends data only to the correct destination device
+
+### Modem
+
+- Connects your home to your Internet Service Provider (ISP)
+- Converts signals between your network and the provider’s network
+
+---
+
+
 # Network Traffic
 
 ## Packet
 
 A **packet** is a unit of data sent over a network.
+
+Packets typically include:
+
+- **Source address**
+- **Destination address**
+- **Data**
+- **Error-checking information**
+
+Large files are broken into many packets and reassembled at the destination.
 
 ![Network Packet Diagram](images/packets.png)
 
@@ -122,6 +158,30 @@ Example:
 * Designed to support many more devices
 
 ---
+
+## Public vs Private IP Addresses
+
+### Public IP Address
+
+- Assigned by your ISP
+- Visible on the Internet
+- Must be unique worldwide
+
+### Private IP Address
+
+- Used inside your home or school network
+- Not visible on the public Internet
+
+Common private ranges:
+
+- `192.168.x.x`
+- `10.x.x.x`
+- `172.16.x.x – 172.31.x.x`
+
+Your router translates between private and public addresses using **NAT (Network Address Translation)**.
+
+---
+
 
 ## DNS (Domain Name System)
 
@@ -176,6 +236,36 @@ Examples:
 * `.com`
 * `.org`
 * `.net`
+
+---
+
+## How the Internet Works (Simplified)
+
+When you visit a website:
+
+1. You enter a URL into your browser.
+2. DNS translates the domain name into an IP address.
+3. Your computer sends packets to that IP address.
+4. Routers move the packets across multiple networks.
+5. The server responds with web page data.
+6. Your browser reassembles the packets and displays the page.
+
+---
+
+---
+
+## Port Numbers
+
+IP addresses identify a computer.
+
+**Port numbers identify a specific service on that computer.**
+
+Examples:
+
+- HTTP → Port 80  
+- HTTPS → Port 443  
+- FTP → Port 21  
+- SSH → Port 22  
 
 ---
 
@@ -258,6 +348,34 @@ The **"S"** in HTTPS means:
 > **Secure connection**
 
 Data is encrypted between client and server.
+
+---
+
+## HTTPS (Expanded)
+
+HTTPS uses **encryption** to protect:
+
+- Passwords  
+- Credit card numbers  
+- Personal data  
+
+Without HTTPS, data could potentially be intercepted while traveling across the network.
+
+---
+
+## Network Layers (Simplified)
+
+Networking is organized into layers.
+
+Examples of major layers:
+
+- **Physical Layer** – cables, fiber, wireless signals  
+- **Network Layer** – IP addressing and routing  
+- **Transport Layer** – TCP (reliable delivery)  
+- **Application Layer** – HTTP, FTP, SSH, etc.  
+
+Each layer has a specific responsibility in network communication.
+
 
 ---
 
