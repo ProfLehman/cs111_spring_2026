@@ -78,8 +78,6 @@ Examples:
 * **Cellular wireless**
 * **Satellite**
 
-![Wireless Networking](images/wireless_networking.png)
-
 ---
 
 # Network Traffic
@@ -88,7 +86,7 @@ Examples:
 
 A **packet** is a unit of data sent over a network.
 
-![Network Packet Diagram](images/network_packet_structure.png)
+![Network Packet Diagram](images/packets.png)
 
 ---
 
@@ -201,14 +199,18 @@ The core protocol used by computers on the Internet.
 ### `ping`
 
 * Tests whether a destination is reachable
+* Can be used to find the DNS entry for an address
+
+![Ping Example](images/ping.png)
+
 
 ### `tracert` (Trace Route)
 
 * Shows the route a packet takes to reach a destination
 
-![Ping Example](images/ping_command_example.png)
 
-![Tracert Example](images/tracert_command_example.png)
+
+![Tracert Example](images/tracert.png)
 
 ---
 
@@ -259,24 +261,4 @@ Data is encrypted between client and server.
 
 ---
 
-# Suggested Image File Names
-
-Place these in:
-
-```
-/images/
-```
-
-| Image Description       | File Name                      |
-| ----------------------- | ------------------------------ |
-| Client/Server Diagram   | `client_server_model.png`      |
-| LAN Example             | `lan_example.png`              |
-| Network Cable Types     | `network_cables_types.png`     |
-| Wireless Networking     | `wireless_networking.png`      |
-| Packet Structure        | `network_packet_structure.png` |
-| Ping Command Example    | `ping_command_example.png`     |
-| Tracert Command Example | `tracert_command_example.png`  |
-
----
-
- convert this into a printable one-page review handout**
+-- end --
