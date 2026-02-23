@@ -1,0 +1,61 @@
+﻿/* intro.css
+   prof. lehman
+   spring 2023
+   
+   style sheet used for HTML and CSS intro pages
+*/
+
+body {
+	margin-left: .5in;
+	margin-top: .5in;
+	margin-right: .5in;
+}
+
+h2.headings {	
+	margin-top: .5in;
+	color: #00563F; /*HU Green*/
+}
+
+h3#special {
+  color : red;
+}
+
+p.code {
+	font-family: "Courier New", Courier, monospace;
+	background-color: #D5E3B5; /* light green */
+	margin-left: .5in;
+	margin-right: .5in;
+}
+
+p#css-p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	text-indent: .25in;
+}
+
+div.render {
+	background-color: #FFFFCC; /* yellow */
+	margin-left: .5in;
+	margin-right: .5in;
+}
+
+ol.roman{
+   list-style :upper-roman;
+}
+
+img {
+	margin-left: .5in;
+}
+
+hr.break {
+	width: 75%;
+	color: maroon;
+	text-align: center;
+}
+
+hr.endDocument {
+	width: 100%;
+	color: black;
+	text-align:center;
+	margin-top: .5in;
+}

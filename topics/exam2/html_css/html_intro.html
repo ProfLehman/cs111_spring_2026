@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+   html_intro.html
+   prof. lehman
+   fall 2024 - updated spring 2025
+-->
+
+<head>
+	<title>HTML Introduction</title>
+	<link rel="stylesheet" type="text/css" href="intro.css" />
+</head>
+
+<body>
+
+	<h1>Introduction To HTML</h1>
+
+
+
+	<!-- **************************************************** -->
+	<h2 class="headings">HTML</h2>
+
+	<p>Web pages are created using an language called Hyper Text Markup Language (HTML). The current version of HTML is known as <strong>HTML5</strong>.</p>
+
+	<p>The <a href="https://html.spec.whatwg.org/multipage/">HTML5 Specification</a> is a great reference for everything about HTML. You may want to visit this site after completing this introduction.</p>
+
+	<p>For a more general (and complete) introduction to HTML visit <a href="http://w3schools.com">W3 Schools</a>.</p>
+
+	<p> The <a href="http://www.w3.org">The World Wide Web Consortium (W3C)</a> promotes web standards.
+		Visit this site for the latest news and trends related to HTML and web technologies.</p>
+
+
+
+	<!-- **************************************************** -->
+	<h2 class="headings">Basic Concepts</h2>
+
+	<p class="headings">A web page is simply a text file with formatting codes called tags. A text editor such as Notepad can be used to create the page. Pages are saved in text format with a file name extension of either .htm or .html. A web browser is used to display or <em>render</em> the html.</p>
+
+	<p>There are many tools avaialble for creating web pages. 
+		Essentially you only need a <strong>text editor</strong> and a <strong>web browser</strong>
+		to create and view web pages locally on your laptop or desktop.
+		
+	</p>
+	
+	<p><em>Note: All of the following software options are <strong>free</strong> and can be used to create web pages. 
+		Some offer additional features/services for a fee, but are not needed for our course assignments.</em></p>
+
+	
+	<p><strong>Cloud editors </strong> (no-installation, work well for both Mac and Windows) include: </p>
+	<ul>
+		<li><a href="https://replit.com/">replit.com</a></li>
+		<li><a href="https://jsfiddle.net/">jsfiddle.net</a></li>
+		<li><a href="https://jsbin.com/">jsbin.com</a></li>
+	</ul>
+	
+
+	<p><strong>Local laptop/desktop text editors</strong> include:</p>
+	<ul>
+		<li><a href="https://phcode.io/">Phoenix (fork of Brackets) (Macintosh and Windows)</a></li>
+		<li><a href="https://notepad-plus-plus.org/">Notepad++ (Windows)</a></li>
+		<li><a href="https://www.barebones.com/products/bbedit/">BBEdit (formerly Text Wrangler)</a></li>
+		<li><a href="https://atom.io/">Atom (Macintosh and Windows)</a></li>
+	</ul>
+
+	<p>Note: While the built in text editors Notepad (Windows) and Textedit (Macintosh) can be used to create web pages they do not offer syntax highlighting.</p>
+
+	<p>Current <strong>web browsers</strong> include:</p>
+
+	<ul>
+		<li><a href="http://www.google.com/chrome">Chrome</a> (Macintosh, Windows)</li>
+		<li><a href="http://www.mozilla.com/en-US/firefox/">Firefox</a> (Macintosh, Windows)</li>
+		<li><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge</a> (Macintosh, Windows)</li>
+		<li><a href="http://www.apple.com/safari/">Safari</a> (Macintosh)</li>
+	</ul>
+
+	<p>Each browser and may render a page slightly differently, thus it is important to test your pages with multiple browsers. This also applies to browser versions as well.</p>
+
+	<p class="noindent">The basic process of <strong>creating a web page</strong> involves three steps</p>
+
+	<ol>
+		<li>Create and edit the HTML file (i.e. basic.html) note: make sure you
+			re-save your file</li>
+		<li>Use a web browser display HTML file (i.e.. open basic.html)</li>
+		<li>Repeat steps #1 and #2 until you are satisfied with your web page</li>
+	</ol>
+
+
+
+	<!-- **************************************************** -->
+	<h2 class="headings">Web Page Template</h2>
+	<p>Each HTML page uses the following basic structure</p>
+
+	<p class="code">
+		<br>&lt;html&gt;
+		<br>
+		<br>&lt;head&gt;
+		<br>&lt;title&gt;Web Page Title&lt;/title&gt;
+		<br>&lt;/head&gt;
+		<br>
+		<br>&lt;body&gt;
+		<br>
+		<br>&lt;/body&gt;
+		<br>
+		<br>&lt;/html&gt;
+	</p>
+
+	<p>HTML documents use <strong>&lt;tags&gt;</strong> to describe the structure and content for a document. A &lt;tag&gt; has a name and is surrounded by <strong>less than &lt;</strong> and <strong>greater than &gt;</strong> signs. An ending tag is the same as the beginning tag except that it contains a back slash ie. &lt;/tag&gt;.</p>
+
+	<p>Most HTML tags will have both a <strong>&lt;beginning&gt;</strong> and <strong>&lt;/ending&gt;</strong> tag although their are a few exceptions that only have a beginning tag. Some ending tags are optional.</p>
+
+	<p>An HTML document begins with the &lt;html&gt; tag and ends with &lt;/html&gt;</p>
+
+	<p>Content (text and tags) are placed between the &lt;body&gt; tags. Set-up information including &lt;title&gt; tag is placed in the &lt;head&gt; section.</p>
+
+	<p>An HTML page adds additional set-up information to the basic page. This additional information gives the web browswer additional help to
+		render the web page correctly. DOCTYPE html tells the browswer that the document is HTML5 format and lang="en" specifies that English is the language.</p>
+
+	<p>When starting a web page you should copy and paste template code similiar code(<a href="index.html">index.html</a>) shown below as a starting point.</p>
+
+	<p class="code">
+		<strong>&lt;!DOCTYPE html&gt;</strong>
+		<br><strong>&lt;html lang="en"&gt;</strong>
+		<br>
+		<br>&lt;head&gt;
+		<br>&lt;title&gt;Untitled&lt;/title&gt;
+		<br>&lt;/head&gt;
+		<br>
+		<br>
+		<br>&lt;body&gt;
+		<br>
+		<br>&lt;/body&gt;
+		<br>
+		<br>&lt;/html&gt;
+	</p>
+
+    <p>A key concept is <strong>HTML</strong> specifies the <strong>content and structure</strong> for web pages. A different language, called 	
+	<strong>CSS</strong> specifies the <strong>formatting</strong>.  As you create HTML pages focus first on the content and structure, 
+	    then apply formatting with CSS.</p>
+
+	<p>It is considered best practice to <em>separate the structure and formatting</em>.</p>
+	
+	<img src="html_vs_css.png" alt="HTML vs CSS" width="200">
+
+	
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Title</h2>
+
+	<p>The &lt;title&gt; tag controls the text that appears at the top of the web browser.
+		The title is placed in the the &lt;head&gt; section of your web page.
+		The title should describe the content of the page.
+	</p>
+
+	<p class="code">
+		&lt;head&gt;
+		<br>&lt;title&gt;HTML Introduction&lt;/title&gt;
+		<br>&lt;/head&gt;
+	</p>
+
+	<p>Title viewed with Chrome using Windows 10</p>
+	<img src="ChromeTitle.jpg" alt="Title in Chrome" />
+
+	<p>Title viewed with Microsoft Edge using Windows 10</p>
+	<img src="EdgeTitle.jpg" alt="Title in Microsoft Edge" />
+
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Headings</h2>
+
+	<p>Headings are used to denote sections of a document. Valid heading sizes
+		are &lt;h1&gt; to &lt;h6&gt;.</p>
+
+	<p class="code">&lt;h1&gt;heading size one&lt;/h1&gt;
+		<br>&lt;h2&gt;heading size two&lt;/h2&gt;
+		<br>&lt;h3&gt;heading size three&lt;/h3&gt;
+		<br>&lt;h4&gt;heading size four&lt;/h4&gt;
+		<br>&lt;h5&gt;heading size five&lt;/h5&gt;
+		<br>&lt;h6&gt;heading size six&lt;/h6&gt;
+	</p>
+
+	<p>Headings are rendered as follows.</p>
+
+	<div class="render">
+		<h1>heading size one</h1>
+		<h2>heading size two</h2>
+		<h3>heading size three</h3>
+		<h4>heading size four</h4>
+		<h5>heading size five</h5>
+		<h6>heading size six</h6>
+	</div>
+
+	<p>Headings are used to create the document structure. An H1 tag generally denotes the main heading or title for the web page. H2 tags denote the main sections of the document. h2 tags are used for sub sections. Sub sections beyond h2 are often not needed.</p>
+
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Paragraphs and Breaks</h2>
+
+	<p>The <strong>paragraph tag &lt;p&gt;</strong> is used to denote sections of text. A tag should be used to start each new paragraph. A blank line is automatically inserted between each paragraph. </p>
+
+	<p>HTML works differently than a word processor. Extra blank lines and spaces are ignored.</p>
+
+
+	<p>The <strong>break tag &lt;br&gt;</strong> can be used within a paragraph to advance to the next line without adding an extra blank line.</p>
+
+	<p class="code">&lt;p&gt;one
+		two three&lt;/p&gt;
+
+		&lt;p&gt;four
+
+		five&lt;/p&gt;
+		<br>
+		&lt;p&gt;This is a paragraph that has
+		a break here&lt;br&gt; and a break
+		here&lt;br&gt; and this
+		is the last line&lt;/p&gt;</p>
+
+	<p>The code for the first and second paragraphs appear on one line, but when rendered they contain a blank line between each paragraph.</p>
+
+	<p>The last paragraph contains two breaks which forces the text to appear on the next line each time it encounters the break tag. Notice that break advances to the next line without "skipping" a line.</p>
+
+	<div class="render">
+		<p class="render">one
+			two
+			three</p>
+
+		<p class="render">four
+
+			five</p>
+
+		<p class="render">This is a paragraph that has
+			a break here<br> and a break
+			here<br> and this
+			is the last line</p>
+	</div>
+
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Strong and Emphasis (em)</h2>
+
+	<p>The <strong>strong tag &lt;strong&gt;</strong> is used to denote importance, seriousness, or urgency for its contents. By default a web browswer will usually display the text in bold.</p>
+
+	<p>The <strong>emphasis tag &lt;em&gt;</strong> is used to denote emphasis. By default the web browswer will usually display the text in italics.</p>
+
+	<p class="code">
+		This &lt;strong&gt;word&lt;/strong&gt; uses the strong tag.
+		This &lt;em&gt;word&lt;/em&gt; uses the em tag.
+	</p>
+
+	<div class="render">
+		<p class="render">
+			This <strong>word</strong> uses the strong tag. This <em>word</em> uses the em tag.
+		</p>
+	</div>
+
+	<p>The strong and em tags are generally recommended over bold (b) and italics (i) tags as they are more descriptive for the content.</p>
+
+	<p>Tags for bold&lt;b&gt;, italics &lt;i&gt;, and underline &lt;u&gt; are also provided, however, they should generally be handled with CSS.</p>
+
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Lists</h2>
+
+	<p>Unordered lists use the &lt;ul&gt; tag. Ordered lists use the &lt;ol&gt; tag.
+		List items are denoted using the &lt;li&gt; tag.</p>
+
+	<p class="code">&lt;ul&gt;
+		<br>&lt;li&gt;item one&lt;/li&gt;
+		<br>&lt;li&gt;item two&lt;/li&gt;
+		<br>&lt;li&gt;item three&lt;/li&gt;
+		<br>&lt;/ul&gt;
+		<br>
+		<br>&lt;ol&gt;
+		<br> &lt;li&gt;item one&lt;/li&gt;
+		<br> &lt;li&gt;item two&lt;/li&gt;
+		<br> &lt;li&gt;item three&lt;/li&gt;
+		<br>&lt;/ol&gt;
+	</p>
+
+	<p>Unordered lists are rendered with bullets by default.</p>
+
+	<p>Ordered lists are rendered using numbers 1, 2, 3, etc... by default.</p>
+
+	<div class="render">
+		<ul>
+			<li>item one</li>
+			<li>item two</li>
+			<li>item three</li>
+		</ul>
+
+		<ol>
+			<li>item one</li>
+			<li>item two</li>
+			<li>item three</li>
+		</ol>
+	</div>
+
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Web Links</h2>
+
+	<p>Web links are created using the &lt;a&gt; tag which stands for &quot;anchor&quot;.</p>
+
+	<p>A web link contains an attribute called &quot;href&quot; which stands for horizontal reference i.e. web link.</p>
+
+	<p class="code">&lt;a href=&quot;http://www.huntington.edu&quot;&gt;Huntington University&lt;/a&gt;</p>
+
+	<p>The text between the &lt;a&gt; and &lt;/a&gt; tag is displayed when rendered.</p>
+
+	<p>Clicking on the link will cause the web browser to open the web page specified by the href tag.</p>
+
+	<div class="render">
+		<a href="http://www.huntington.edu">Huntington University</a>
+	</div>
+
+	<p>To create a link to another page use the page name rather than a web link.</p>
+
+	<p class="code">&lt;a href=&quot;css_intro.html&quot;&gt;CSS Intro&lt;/a&gt;</p>
+
+	<p>Clicking on the link opens the CSS Intro web page.</p>
+
+	<div class="render">
+		<a href="css_intro.html">CSS Intro</a>
+	</div>
+
+
+
+	<!-- ******************************************* -->
+	<h2 class="headings">Images</h2>
+
+	<p>Images are inserted using the &lt;img&gt; tag.</p>
+
+	<p>The src attribute specifies the name of the file. Each image is a separate file. </p>
+
+	<p>The alt tag specifies the text that will be displayed if the image is not found or there is a problem loading the image. </p>
+
+	<p>There is no ending tag.</p>
+
+	<p class="code">&lt;img src=&quot;hulogo.jpg&quot; alt=&quot;Huntington University Logo&quot;&gt;</p>
+
+	<p>The image will be displayed. Don&#39;t forget the quotation marks.</p>
+
+	<div class="render">
+		<img src="hulogo.jpg" alt="Huntington University Logo">
+	</div>
+
+	<p>If there was an error loading the image, the alt text should be displayed</p>
+
+	<div class="render">
+		<img src="hulogobad.jpg" alt="Huntington University Logo" />
+	</div>
+
+	<p>The <strong>width</strong> and <strong>height</strong> attributes can be used to resize the image. It is often best to only specify one of the tags so that the image will scale correctly</p>
+
+	<p class="code">&lt;img src=&quot;hulogo.jpg&quot; width=&quot;200&quot;&gt;</p>
+
+	<p>The following image will have a width of 200 pixels.</p>
+	<div class="render">
+		<img src="hulogo.jpg" width="200" alt="huntingotn u">
+	</div>
+
+	<h2 class="headings">Validating HTML</h2>
+	
+	<p>To ensure your HTML is correct you should "Validate" or "check" your HTML at <a href="http://validator.w3.org/">http://validator.w3.org/</a>. Validating your HTML will help to ensure all browsers will render your pages correctly and efficiently. Your HTML code should not have any warnings or errors.  Fix the first error (or two) and then retry the validator. The number of errors reported is not accurate.  
+	</p>
+
+	<hr class="endDocument" />
+</body>
+
+</html>
