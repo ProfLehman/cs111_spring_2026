@@ -193,7 +193,8 @@ A **domain name** is a human-readable name for a computer.
 
 Example:
 
-**http://www.huntington.edu**
+**http://www.huntington.edu**  
+
 **http://google.com**
 
 
@@ -268,7 +269,7 @@ When you visit a website:
 
 ---
 
-#9 TCP/IP Utilities
+# 9 TCP/IP Utilities
 
 ### `ping`
 
