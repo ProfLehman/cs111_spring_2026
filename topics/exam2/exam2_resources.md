@@ -2,7 +2,7 @@
 
 ---
 
-## Week #5 - Operating Systems and Files
+## Week #5 - Operating Systems and Files 
 
 - Read: [*Welcome to CS* – Chapter 9: Operating Systems](https://runestone.academy/ns/books/published/welcomecs2/operating-systems.html?mode=browsing)
 
@@ -74,7 +74,7 @@
 
 * Sample File: [`style.css`](./html_css/style.css) for homework assignment (download raw file)
 
-* Watch Video: [How to Host Web Pages on Git Hub](https://youtu.be/oaUTcaaAOII)
+* Watch Video: [How to Host Web Pages on GitHub](https://youtu.be/oaUTcaaAOII)
 
 ---
 
