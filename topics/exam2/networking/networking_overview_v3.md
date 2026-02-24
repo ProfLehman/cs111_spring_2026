@@ -303,9 +303,9 @@ Huntington University uses the iLight netwwork to connect to the Internet.
 
 See [ilight network map](https://ilight.net/ilight-map.html)
 
-See [Traffic Stats] (https://ilight.net/member-portal/)
+See [Traffic Stats](https://ilight.net/member-portal/)
 
-![IHETS Traffic](images/ihets_traffic.png)
+![HU IHETS Traffic for Year](images/hu_ihets_year.png)
 
 -- end --
 
