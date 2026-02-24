@@ -271,6 +271,15 @@ When you visit a website:
 
 # 9 TCP/IP Utilities
 
+Use the **command line** ie. **terminal** on your computer to run the following commands.
+
+
+### Finding your IP address
+
+Type 'ifconfg' (Mac) or 'ipconfig' (Windows) to see your IP address.
+
+
+
 ### `ping`
 
 - Tests whether a destination is reachable
