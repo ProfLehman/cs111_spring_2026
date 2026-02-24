@@ -167,7 +167,7 @@ The core protocol used on the Internet.
 
 # 6. Internet History
 
-- **1969** – ARPANET (early Internet) begins.
+- **1969** – ARPANET [early Internet](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~369647~90137022:First-Maps-of-the-Internet) begins.
 - **1990s** – The **World Wide Web** becomes popular.
 
 The Internet is the global network of networks.  
@@ -296,6 +296,16 @@ Type 'ifconfg' (Mac) or 'ipconfig' (Windows) to see your IP address.
 ![Tracert Example](images/tracert.png)
 
 ---
+
+#10 ilight network
+
+Huntington University uses the iLight netwwork to connect to the Internet.
+
+See [ilight network map](https://ilight.net/ilight-map.html)
+
+See [Traffic Stats] (https://ilight.net/member-portal/)
+
+![IHETS Traffic](images/ihest_traffic.jpg)
 
 -- end --
 
