@@ -179,16 +179,12 @@ The World Wide Web is a service that runs on the Internet.
 
 ## IP Address
 
-An **IP address** identifies a device on a network.
+An **IP address** identifies a device on a network. Each address uses
+four numbers where each number is a byte thus 0 to 255.
 
 Example:
 
-```
-
-199.8.89.29
-
-```
-
+**199.8.89.29**
 ---
 
 ## Domain Name
@@ -197,11 +193,9 @@ A **domain name** is a human-readable name for a computer.
 
 Example:
 
-```
+**http://www.huntington.edu**
+**http://google.com**
 
-[www.huntington.edu](http://www.huntington.edu)
-
-```
 
 ## Top-Level Domains (TLDs)
 
@@ -224,11 +218,8 @@ site domain names.r
 
 Example:
 
-```
+Web address **http://www.huntington.edu** translates to IP address **199.8.89.29**
 
-[www.huntington.edu](http://www.huntington.edu) → 199.8.89.29
-
-```
 
 ---
 
@@ -239,9 +230,7 @@ A **URL** identifies a specific resource on the Internet.
 Example:
 
 ```
-
-[http://www.huntington.edu](http://www.huntington.edu)
-
+http://www.huntington.edu
 ```
 
 ---
@@ -279,7 +268,7 @@ When you visit a website:
 
 ---
 
-9 # TCP/IP Utilities
+#9 TCP/IP Utilities
 
 ### `ping`
 
