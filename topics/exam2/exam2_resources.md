@@ -54,11 +54,21 @@
 
 ## Week #7 - Networking, Internet, HTML, CSS
 
-[HTML Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/html_intro.md)
+* Presentation Notes: [Networking and Internet Overview](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/networking/networking_overview_v3.md)
 
+* Presentation Notes: [HTML Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/html_intro.md)
 
+* Presentation Notes: [CSS Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/css_intro.md)
+
+* Link: [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
+
+* Link: [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
+
+* Sample File [`index.html`](./html_css/index.html) for homework assignment (download raw file)
+
+* Sample File [`style.css`](./html_css/style.css) for homework assignment (download raw file)
 ---
 
-Updated February 16, 2026
+Updated February 23, 2026
 
 ---
