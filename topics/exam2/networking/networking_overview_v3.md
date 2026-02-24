@@ -276,7 +276,7 @@ Use the **command line** ie. **terminal** on your computer to run the following 
 
 ### Finding your IP address
 
-Type 'ifconfg' (Mac) or 'ipconfig' (Windows) to see your IP address.
+Type `ifconfg` (Mac) or `ipconfig` (Windows) to see your IP address.
 
 
 
