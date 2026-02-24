@@ -297,7 +297,7 @@ Type 'ifconfg' (Mac) or 'ipconfig' (Windows) to see your IP address.
 
 ---
 
-#10 ilight network
+# 10 ilight network
 
 Huntington University uses the iLight netwwork to connect to the Internet.
 
@@ -305,7 +305,7 @@ See [ilight network map](https://ilight.net/ilight-map.html)
 
 See [Traffic Stats] (https://ilight.net/member-portal/)
 
-![IHETS Traffic](images/ihest_traffic.jpg)
+![IHETS Traffic](images/ihest_traffic.png)
 
 -- end --
 
