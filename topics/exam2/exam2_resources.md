@@ -62,6 +62,8 @@
 
 * Presentation Notes: [CSS Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/css_intro.md)
 
+* Handout: [Web Summary Overview](./html_css/Web_Summary_Handout.pdf)
+  
 * Link: [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 
 * Link: [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
