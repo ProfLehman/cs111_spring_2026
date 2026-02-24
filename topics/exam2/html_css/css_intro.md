@@ -7,7 +7,7 @@
 
 It is considered best practice to *separate the structure and formatting*.
 
-![HTML vs CSS](images/html_vs_css.png)
+![HTML vs CSS](images/html_vs_css_sm.png)
 
 For an introduction and reference to CSS visit [W3Schools](http://w3schools.com).
 
