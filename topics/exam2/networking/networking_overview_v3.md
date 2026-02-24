@@ -305,7 +305,7 @@ See [ilight network map](https://ilight.net/ilight-map.html)
 
 See [Traffic Stats] (https://ilight.net/member-portal/)
 
-![IHETS Traffic](images/ihest_traffic.png)
+![IHETS Traffic](images/ihets_traffic.png)
 
 -- end --
 
