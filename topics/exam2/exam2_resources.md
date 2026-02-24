@@ -73,8 +73,11 @@
 * Sample File: [`index.html`](./html_css/index.html) for homework assignment (download raw file)
 
 * Sample File: [`style.css`](./html_css/style.css) for homework assignment (download raw file)
+
+* Watch Video: [How to Host Web Pages on Git Hub](https://youtu.be/oaUTcaaAOII)
+
 ---
 
-Updated February 23, 2026
+Updated February 24, 2026
 
 ---
