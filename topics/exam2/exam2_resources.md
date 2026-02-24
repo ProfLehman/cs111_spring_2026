@@ -54,7 +54,9 @@
 
 ## Week #7 - Networking, Internet, HTML, CSS
 
-* Presentation Notes: [Networking and Internet Overview](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/networking/networking_overview_v3.md)
+* Watch Videos: [Networking and Internet Overview Playlist x4](https://youtube.com/playlist?list=PLIVM1Y_L5QnEqaXNxYsRdBMexhKY1zN3R&si=ClquNkUd2zW4bgk2)
+
+* Presentation Notes from Videos: [Networking and Internet Overview](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/networking/networking_overview_v3.md)
 
 * Presentation Notes: [HTML Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/html_intro.md)
 
