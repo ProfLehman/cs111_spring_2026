@@ -58,19 +58,21 @@
 
 * Presentation Notes from Videos: [Networking and Internet Overview](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/networking/networking_overview_v3.md)
 
-* Presentation Notes: [HTML Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/html_intro.md)
+* Watch Videos: [HTML and CSS Introduction x13](https://youtube.com/playlist?list=PLIVM1Y_L5QnEqu6_BdFNMFl5FjVmk2C-4&si=aaMexCuq1_mguQ5i)
 
-* Presentation Notes: [CSS Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/css_intro.md)
+* Presentation Notes from Video: [HTML Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/html_intro.md)
 
-* Handout: [Web Summary Overview](./html_css/Web_Summary_Handout.pdf)
+* Presentation Notes from Video: [CSS Introduction](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/html_css/css_intro.md)
+
+* Handout from Video: [Web Summary Overview](./html_css/Web_Summary_Handout.pdf)
   
 * Link: [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 
 * Link: [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
 
-* Sample File [`index.html`](./html_css/index.html) for homework assignment (download raw file)
+* Sample File: [`index.html`](./html_css/index.html) for homework assignment (download raw file)
 
-* Sample File [`style.css`](./html_css/style.css) for homework assignment (download raw file)
+* Sample File: [`style.css`](./html_css/style.css) for homework assignment (download raw file)
 ---
 
 Updated February 23, 2026
