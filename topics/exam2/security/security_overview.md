@@ -8,6 +8,8 @@ Huntington University
 
 # What Can Go Wrong?
 
+![what can go wrong](./images/go_wrong.png)
+
 Computer systems can fail or lose data for many reasons.
 
 Common causes include:
@@ -37,7 +39,7 @@ Common causes include:
 
 # Computer Viruses
 
-![Computer Virus](images/virus.png)
+![Computer Virus](./images/virus.png)
 
 A **computer virus** is a malicious program that:
 
