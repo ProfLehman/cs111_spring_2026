@@ -76,10 +76,6 @@
 
 * Watch Video: [How to Host Web Pages on GitHub](https://youtu.be/oaUTcaaAOII)
 
-Here are the **clean links extracted from your HTML** so you can easily paste them into a **GitHub README or resource list**.
-
-I separated them by section (Security / Privacy) and removed tracking parameters where possible.
-
 ---
 
 ## Week #8 - Security, Privacy
