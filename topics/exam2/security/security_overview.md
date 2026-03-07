@@ -61,6 +61,8 @@ Common motivations include:
 
 # Types of Viruses
 
+![virus types](./images/virus_types.png)
+
 ### Macro Virus
 
 Uses commands inside applications such as:
