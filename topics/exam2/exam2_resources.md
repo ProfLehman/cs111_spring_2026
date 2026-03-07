@@ -82,13 +82,13 @@ I separated them by section (Security / Privacy) and removed tracking parameters
 
 ---
 
-# Week #8 - Security, Privacy
+## Week #8 - Security, Privacy
 
 ## Security Resources
 
 * Watch Video
 
-* Presentation Notes: [Security Overview](/security/security_overview.md)
+* Presentation Notes: [Security Overview](./security/security_overview.md)
 
 * 3-2-1 Backup Best Practices
    [https://www.backblaze.com/blog/3-2-1-backup-best-practices-using-the-cloud/](https://www.backblaze.com/blog/3-2-1-backup-best-practices-using-the-cloud/)
