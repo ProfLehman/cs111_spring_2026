@@ -76,8 +76,63 @@
 
 * Watch Video: [How to Host Web Pages on GitHub](https://youtu.be/oaUTcaaAOII)
 
+Here are the **clean links extracted from your HTML** so you can easily paste them into a **GitHub README or resource list**.
+
+I separated them by section (Security / Privacy) and removed tracking parameters where possible.
+
 ---
 
-Updated February 24, 2026
+# Week #8 - Security, Privacy
+
+## Security Resources
+
+* Watch Video
+
+* Presentation Notes: [Security Overview](/security/security_overview.md)
+
+* 3-2-1 Backup Best Practices
+   [https://www.backblaze.com/blog/3-2-1-backup-best-practices-using-the-cloud/](https://www.backblaze.com/blog/3-2-1-backup-best-practices-using-the-cloud/)
+
+* Full, Incremental, Differential, and Synthetic Backups
+   [https://www.backblaze.com/blog/whats-the-diff-full-incremental-differential-and-synthetic-full-backups/](https://www.backblaze.com/blog/whats-the-diff-full-incremental-differential-and-synthetic-full-backups/)
+
+* Public Key Encryption (YouTube)
+   [https://www.youtube.com/watch?v=E5FEqGYLL0o](https://www.youtube.com/watch?v=E5FEqGYLL0o)
+
+* Prof. Lehman Public Key (PNG)
+   [https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/PGP_Public_Key_Lehman.PNG](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/PGP_Public_Key_Lehman.PNG)
+
+* Passwords and Multi-Factor Authentication (PDF)
+   [https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/Passwords%20%20Multi-Factor%20Authentication%20%28PDF%29.pdf](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/Passwords%20%20Multi-Factor%20Authentication%20%28PDF%29.pdf)
+
+* Digital Assets at End of Life
+   [https://www.nerdwallet.com/article/finance/who-gets-your-digital-assets-heirs-or-hackers](https://www.nerdwallet.com/article/finance/who-gets-your-digital-assets-heirs-or-hackers)
+
+* How to Talk to Your Family About Backups
+   [https://www.backblaze.com/blog/how-to-talk-to-your-family-about-backups/](https://www.backblaze.com/blog/how-to-talk-to-your-family-about-backups/)
+
+* Data Center on the Moon
+   [https://gizmodo.com/startup-moves-closer-building-data-centers-moon-1850192177](https://gizmodo.com/startup-moves-closer-building-data-centers-moon-1850192177)
+
+---
+
+## Privacy Resources
+
+* I Know Where Your Cat Lives
+   [https://iknowwhereyourcatlives.com/cat/4666f043ad](https://iknowwhereyourcatlives.com/cat/4666f043ad)
+
+* Digital Footprint Lesson
+   [https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails](https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails)
+
+* Google Location History Example (Image)
+   [https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/LehmanTimeLine11March2019.JPG](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/LehmanTimeLine11March2019.JPG)
+
+* A Google Love Story (YouTube)
+   [https://www.youtube.com/watch?v=nnsSUqgkDwU](https://www.youtube.com/watch?v=nnsSUqgkDwU)
+
+
+---
+
+Updated March 7, 2026
 
 ---
