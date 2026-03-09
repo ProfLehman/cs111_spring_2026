@@ -82,7 +82,7 @@
 
 ## Security Resources
 
-- Watch Video: [Security Overview]()
+- Watch Video: [Security Overview](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnHGfJ0W5HSCfolKOaP1BPCr)
 
 * Presentation Notes: [Security Overview](./security/security_overview.md)
 
