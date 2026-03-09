@@ -250,7 +250,7 @@ Example:
 
 # Security Measures
 
-![Security Measures](images/security_superhero.png)
+![Security Measures](./images/security_superhero.png)
 
 Common ways to protect systems include:
 
@@ -523,8 +523,6 @@ Adds:
 
 # Cloud Storage Example: OneDrive
 
-![OneDrive](images/onedrive.png)
-
 Huntington University students receive:
 
 **5 TB of free cloud storage**
@@ -560,7 +558,7 @@ A recovery plan may include:
 
 # Final Question
 
-![Disaster Plan](images/disaster_plan.png)
+![Disaster Plan](./images/panic.png)
 
 **What is your disaster recovery plan?**
 
