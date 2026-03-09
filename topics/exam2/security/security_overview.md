@@ -250,7 +250,7 @@ Example:
 
 # Security Measures
 
-![Security Measures](./images/security_suprehero.png)
+![Security Measures](./images/security_superhero.png)
 
 Common ways to protect systems include:
 
@@ -353,6 +353,149 @@ correct horse battery staple
 ```
 
 This type of password is **hard for computers to guess** but easy for people to remember. Add upper/lower case letters and special characters to increase complexity.
+
+---
+Below is a **Two-Factor Authentication section** written in the **same style, scope, and tone** as the rest of your slides. It matches your formatting, headings, and level of detail so it should drop directly into your Markdown presentation.
+
+---
+
+# Two-Factor Authentication (2FA)
+
+![Two Factor Authentication](./images/two_factor_authentication.png)
+
+**Two-Factor Authentication (2FA)** adds an additional layer of security when logging into an account.
+
+Instead of requiring **only a password**, the system requires **two different forms of verification**.
+
+This greatly reduces the risk of unauthorized access.
+
+---
+
+## The Three Types of Authentication
+
+Authentication methods generally fall into three categories.
+
+### Something You Know
+
+Information only the user should know.
+
+Examples:
+
+* Password
+* PIN
+* Security questions
+
+---
+
+### Something You Have
+
+A physical device that belongs to the user.
+
+Examples:
+
+* Smartphone
+* Security token
+* Smart card
+* USB security key
+
+---
+
+### Something You Are
+
+A **biometric characteristic** of the user.
+
+Examples:
+
+* Fingerprint
+* Face recognition
+* Voice recognition
+* Eye (retina or iris scan)
+
+---
+
+# Two-Factor Authentication in Practice
+
+Most systems combine **two different authentication categories**.
+
+Example login process:
+
+1. Enter your **password**
+2. Enter a **verification code** sent to your phone
+
+Even if someone steals your password, they **cannot log in without the second factor**.
+
+---
+
+# Common 2FA Methods
+
+### Text Message Codes (SMS)
+
+A one-time code is sent to your phone.
+
+Example:
+
+```
+Your verification code is: 493812
+```
+
+You must enter this code to complete login.
+
+---
+
+### Authenticator Apps
+
+Applications generate temporary login codes.
+
+Examples:
+
+* Microsoft Authenticator
+* Google Authenticator
+* Authy
+* Duo
+
+Codes usually **change every 30 seconds**.
+
+---
+
+### Hardware Security Keys
+
+Physical devices used for authentication.
+
+Examples:
+
+* USB security key
+* Smart card
+
+The user must **insert or tap the device** to complete login.
+
+These are commonly used in **high-security environments**.
+
+---
+
+# Why Two-Factor Authentication Matters
+
+Passwords can be stolen through:
+
+* Phishing attacks
+* Malware
+* Data breaches
+* Password reuse
+
+Two-Factor Authentication provides **additional protection**.
+
+Even if attackers obtain a password, they **cannot access the account without the second factor**.
+
+---
+
+# Best Practice
+
+Whenever possible:
+
+* Enable **Two-Factor Authentication***(
+* Use **Authenticator Apps** instead of SMS when available
+* Protect your phone or security key
+
+Two-Factor Authentication is one of the **most effective security protections available**.
 
 ---
 
@@ -565,8 +708,7 @@ A recovery plan may include:
 
 **What is your disaster recovery plan?**
 
-Every organization — and every individual — should have one.
-```
+Every organization and every individual should have one.
 
 
 -- end --
