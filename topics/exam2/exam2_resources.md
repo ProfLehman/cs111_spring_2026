@@ -86,11 +86,11 @@
 
 * Watch Video: [Public Key Encryption](https://www.youtube.com/watch?v=E5FEqGYLL0o)
 
+*  Link: [Prof. Lehman Public Key (PNG)](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/PGP_Public_Key_Lehman.PNG)
+
 * Link: [3-2-1 Backup Best Practices](https://www.backblaze.com/blog/3-2-1-backup-best-practices-using-the-cloud/)
 
 * Link: [Full, Incremental, Differential, and Synthetic Backups](https://www.backblaze.com/blog/whats-the-diff-full-incremental-differential-and-synthetic-full-backups/)
-
-* Link: [Prof. Lehman Public Key (PNG)](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/PGP_Public_Key_Lehman.PNG)
 
 * Link: [Passwords and Multi-Factor Authentication (PDF)](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/Passwords%20%20Multi-Factor%20Authentication%20%28PDF%29.pdf)
 
@@ -104,13 +104,15 @@
 
 ## Privacy Resources
 
-* Link: [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/cat/4666f043ad)
+* Watch Video: [Digital Footprint Lesson](https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails)
 
-* Link: [Digital Footprint Lesson](https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails)
+* Watch Video: [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/cat/4666f043ad)
+
+* Watch Video: [A Google Love Story](https://www.youtube.com/watch?v=nnsSUqgkDwU)
 
 * Link: [Google Location History Example](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/LehmanTimeLine11March2019.JPG)
 
-* Watch Video: [A Google Love Story](https://www.youtube.com/watch?v=nnsSUqgkDwU)
+
 
 
 ---
