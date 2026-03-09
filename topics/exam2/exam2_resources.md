@@ -82,6 +82,8 @@
 
 ## Security Resources
 
+- Watch Video: [Security Overview]()
+
 * Presentation Notes: [Security Overview](./security/security_overview.md)
 
 * Watch Video: [Public Key Encryption](https://www.youtube.com/watch?v=E5FEqGYLL0o)
@@ -104,6 +106,8 @@
 
 ## Privacy Resources
 
+* Watch Video: [Security Links Overview]()
+* 
 * Watch Video: [Digital Footprint Lesson](https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails)
 
 * Link: [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/cat/4666f043ad)
