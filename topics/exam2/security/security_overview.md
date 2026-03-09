@@ -283,9 +283,9 @@ Examples:
 
 ### Encryption
 
-Protects data by converting it into unreadable form.
-
-Only authorized users can decrypt it.
+- Protects data by converting it into unreadable form.
+- Only authorized users can decrypt it.
+- Look for web sites with http*s*://
 
 ---
 
@@ -489,7 +489,7 @@ Even if attackers obtain a password, they **cannot access the account without th
 
 Whenever possible:
 
-* Enable **Two-Factor Authentication***(
+* Enable **Two-Factor Authentication**
 * Use **Authenticator Apps** instead of SMS when available
 * Protect your phone or security key
 
@@ -509,6 +509,12 @@ A good backup plan should answer several questions.
 - Photos
 - Programs
 - Settings
+
+---
+### How much data do I have?
+
+- Estimate storage requirments in MB or GB (maybe TB)
+- Look at amount of data generated in a month and multipley by x12
 
 ---
 
