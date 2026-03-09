@@ -86,7 +86,7 @@
 
 * Watch Video: [Public Key Encryption](https://www.youtube.com/watch?v=E5FEqGYLL0o)
 
-*  Link: [Prof. Lehman Public Key (PNG)](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/PGP_Public_Key_Lehman.PNG)
+* Link: [Prof. Lehman Public Key (PNG)](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/PGP_Public_Key_Lehman.PNG)
 
 * Link: [3-2-1 Backup Best Practices](https://www.backblaze.com/blog/3-2-1-backup-best-practices-using-the-cloud/)
 
@@ -106,7 +106,7 @@
 
 * Watch Video: [Digital Footprint Lesson](https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails)
 
-* Watch Video: [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/cat/4666f043ad)
+* Link: [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/cat/4666f043ad)
 
 * Watch Video: [A Google Love Story](https://www.youtube.com/watch?v=nnsSUqgkDwU)
 
