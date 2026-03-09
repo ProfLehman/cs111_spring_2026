@@ -250,7 +250,7 @@ Example:
 
 # Security Measures
 
-![Security Measures](./images/security_superhero.png)
+![Security Measures](./images/security_suprehero.png)
 
 Common ways to protect systems include:
 
