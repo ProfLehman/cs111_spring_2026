@@ -409,7 +409,7 @@ There are three common backup methods.
 
 ## Full Backup
 
-![Full Backup](images/full_backup.png)
+![Full Backup](./images/full_backup.png)
 
 A **full backup** copies all files every time.
 
@@ -426,7 +426,7 @@ Disadvantages:
 
 ## Differential Backup
 
-![Differential Backup](images/differential_backup.png)
+![Differential Backup](./images/differential_backup.png)
 
 Copies **all files changed since the last full backup**.
 
@@ -439,7 +439,7 @@ Advantages:
 
 ## Incremental Backup
 
-![Incremental Backup](images/incremental_backup.png)
+![Incremental Backup](./images/incremental_backup.png)
 
 Copies **files changed since the last backup**.
 
@@ -533,9 +533,12 @@ To access:
 2. Open the Office 365 app launcher
 3. Select **OneDrive**
 
+See [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/free-online-cloud-storage) 
 ---
 
 # Disaster Recovery
+
+![Disaster Recovery Planning](./images/disaster_recovery_planning.png)
 
 A **disaster recovery plan** describes how an organization restores systems after a disaster.
 
@@ -564,5 +567,6 @@ A recovery plan may include:
 
 Every organization — and every individual — should have one.
 ```
+
 
 -- end --
