@@ -340,7 +340,7 @@ These allow users to maintain **unique passwords for each account**.
 
 # XKCD Password Example
 
-![XKCD Password](images/xkcd_password.png)
+![XKCD Password](https://imgs.xkcd.com/comics/password_strength_2x.png)
 
 A long passphrase can be easier to remember and harder to guess.
 
