@@ -100,7 +100,7 @@ A self-replicating program that spreads through networks **without needing a hos
 Examples include:
 
 - Norton
-- Sophos
+- Sophos (available for free as HU student)
 - AVG
 - Avast
 - McAfee
@@ -250,7 +250,7 @@ Example:
 
 # Security Measures
 
-![Security Measures](images/security_measures.png)
+![Security Measures](images/security_superhero.png)
 
 Common ways to protect systems include:
 
@@ -352,11 +352,13 @@ correct horse battery staple
 
 ```
 
-This type of password has **high entropy** but remains easy for humans to remember.
+This type of password is **hard for computers to guess** but easy for people to remember. Add upper/lower case letters and special characters to increase complexity.
 
 ---
 
 # Backup Planning
+
+![Backup Planning](./images/backup_planning.png)
 
 A good backup plan should answer several questions.
 
