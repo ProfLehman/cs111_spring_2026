@@ -235,7 +235,7 @@ Before responding:
 
 # Risk Management
 
-Security decisions should reflect the **value of the data being protected**.
+Security decisions (policies, procedures, investments, etc..) must reflect the **value of the data being protected**.
 
 Example:
 
@@ -245,6 +245,7 @@ Example:
 | Personal photos | Medium |
 | Financial data | High |
 | Company customer database | Very High |
+
 
 ---
 
@@ -353,9 +354,6 @@ correct horse battery staple
 ```
 
 This type of password is **hard for computers to guess** but easy for people to remember. Add upper/lower case letters and special characters to increase complexity.
-
----
-Below is a **Two-Factor Authentication section** written in the **same style, scope, and tone** as the rest of your slides. It matches your formatting, headings, and level of detail so it should drop directly into your Markdown presentation.
 
 ---
 
