@@ -93,6 +93,8 @@ A self-replicating program that spreads through networks **without needing a hos
 
 # Virus Protection
 
+![Virus Protection](./images/virus_protection.png)
+
 ### Anti-Virus Software
 
 Examples include:
@@ -125,7 +127,6 @@ Always:
 
 # Spyware, Adware, and Malware
 
-![Malware Types](images/spyware.png)
 
 ### Spyware
 
@@ -174,6 +175,8 @@ They may install unwanted programs.
 ---
 
 # Ransomware
+
+![Ransomeware](./images/ransomeware.png)
 
 **Ransomware** encrypts files on a computer or network.
 
