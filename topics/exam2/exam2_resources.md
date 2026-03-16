@@ -116,6 +116,7 @@
 
 * Link: [Google Location History Example](https://moodle.huntington.edu/pluginfile.php/990316/mod_page/content/3/LehmanTimeLine11March2019.JPG)
 
+---
 
 ## Week #9 - Ethical Issues, AI
 
@@ -126,6 +127,7 @@
 
 ## AI
 * Moodle: See AI Talk October 16 2024 PowerPoint on course website
+
 
 
 
