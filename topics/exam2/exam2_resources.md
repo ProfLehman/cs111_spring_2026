@@ -107,7 +107,7 @@
 ## Privacy Resources
 
 * Watch Video: [Security Links Overview]()
-* 
+ 
 * Watch Video: [Digital Footprint Lesson](https://www.commonsense.org/education/digital-citizenship/lesson/digital-trails)
 
 * Link: [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/cat/4666f043ad)
@@ -120,7 +120,9 @@
 ## Week #9 - Ethical Issues, AI
 
 ## Ethical Issues
-* Moodle: See Ethical Issues PowerPoint on course website
+* Watch Video: [Ethical Issues](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnGf8oiJzCEwo5Vi6lHoxGny)
+
+* Presentation Notes from Video: See Ethical Issues PowerPoint on Course Moodle page
 
 ## AI
 * Moodle: See AI Talk October 16 2024 PowerPoint on course website
