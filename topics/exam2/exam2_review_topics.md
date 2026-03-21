@@ -21,7 +21,7 @@ Exam questions will be selected from the topics listed below. You should review 
 
 3. Textbook (selected topics from Chapter 9)
 
-4. Complete [Exam 2 review questions assignment]()
+4. Complete Exam 2 review questions assignment on Moodle
 
 
 ---
