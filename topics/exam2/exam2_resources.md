@@ -126,7 +126,10 @@
 * Presentation Notes from Video: See Ethical Issues PowerPoint on Course Moodle page
 
 ## AI
-* Moodle: See AI Talk October 16 2024 PowerPoint on course website
+* Watch Video: [AI Overview Playlist x6](https://youtube.com/playlist?list=PLIVM1Y_L5QnFMlanRpRGSAToxi1LUHcu2&si=DvCDBhbEE1MIMrpg)
+
+* Presentation Notes from Videos: See AI Presentation March 2026 Final PowerPoint on course Moodle website
+
 
 
 
