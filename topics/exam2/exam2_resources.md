@@ -118,20 +118,23 @@
 
 ---
 
-## Week #9 - Ethical Issues, AI
+## Week #9 - Ethical Issues, AI, Exam 2 Review
 
 ## Ethical Issues
 * Watch Video: [Ethical Issues](https://www.youtube.com/playlist?list=PLIVM1Y_L5QnGf8oiJzCEwo5Vi6lHoxGny)
 
-* Presentation Notes from Video: See Ethical Issues PowerPoint on Course Moodle page
+* Presentation Notes from Video: See Ethical Issues PowerPoint on the course Moodle page
 
 ## AI
 * Watch Video: [AI Overview Playlist x6](https://youtube.com/playlist?list=PLIVM1Y_L5QnFMlanRpRGSAToxi1LUHcu2&si=DvCDBhbEE1MIMrpg)
 
-* Presentation Notes from Videos: See AI Presentation March 2026 Final PowerPoint on course Moodle website
+* Presentation Notes from Videos: See AI Presentation March 2026 Final PowerPoint on the course Moodle website
 
+---
+## Week #4 - Exam #1 Review
+See [Exam #2 Review](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/exam2_review_topics.md)
 
-
+-- end --
 
 
 ---
