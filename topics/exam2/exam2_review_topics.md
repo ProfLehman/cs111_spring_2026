@@ -52,7 +52,7 @@ Exam questions will be selected from the topics listed below. You should review 
 
 ## HTML and CSS
 - Basic structure of an HTML page: <html> <head> <title> <body>
-- Common HTML tags: <p> <br> <strong> <em> <ul> <ol> <li> <a> <img>
+- Common HTML tags: `<p> <br> <strong> <em> <ul> <ol> <li> <a> <img>`
 - CSS concept, benefit of storing in own file, selectors and properties: color, background-color, font-family, font-size, list-style
 - RGB color constants: white #FFFFFF, black #000000, red #FF0000, green #00FF00, blue #0000FF, gray same values for RGB ie #121212or #A3A3A3
 - Concept of web hosting, posting web pages to the internet (all files .html, .css, and images(.jpg, .png).
