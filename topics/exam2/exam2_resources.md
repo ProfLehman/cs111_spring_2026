@@ -131,7 +131,7 @@
 * Presentation Notes from Videos: See AI Presentation March 2026 Final PowerPoint on the course Moodle website
 
 ---
-## Week #4 - Exam #1 Review
+## Exam #2 Review
 See [Exam #2 Review](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam2/exam2_review_topics.md)
 
 -- end --
