@@ -12,7 +12,6 @@
 
 - Read and Work Through CoLab Page: [Python - Keyboard Input and Formatted Output](https://colab.research.google.com/drive/1F0f6IaMmNGBh6SFv4jTYwT7BL4lHuk55?usp=sharing#scrollTo=dmXJacp9Rr-f)
 
-
 - In-Class (or video) Example (PDF): [Tip Calculator Handout ](https://moodle.huntington.edu/pluginfile.php/990335/mod_resource/content/0/In-Class%20IPO%20Tip%20Calculator.pdf)
 
 - In-Class (or video) Example Sample Solution CoLab Page: [Tip Calculator Solution](https://colab.research.google.com/drive/1sd-1O5bRugmpEcejcYNfiMrjpCEP48lI?usp=drive_link)
@@ -20,9 +19,7 @@
 - Resource Starting Python Page for Projects CoLab [Python Code Template](https://colab.research.google.com/drive/1KCxUPD4Far4VsODIx0cu980-5zwU-PZP?usp=sharing)
 
 
-- Read: [*Welcome to CS* – Chapter X: TBA]()
-
-- Watch Video: [TBA]()
+- Resource - Blank Code Planning and IPO: [IPO and Planning PDF](https://moodle.huntington.edu/pluginfile.php/990333/mod_resource/content/0/Code%20Planning%20Template%20-%20Sample%20Calculations%20and%20IPO.pdf)
 
 
 ---
