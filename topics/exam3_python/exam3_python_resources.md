@@ -4,7 +4,7 @@
 
 ## Week #11 - Python Hello World, Input Ouput Processing (IPO)
 
-- Read and Work Through CoLab Page: [Python - Hello World](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing)
+- Read and Work Through CoLab Page: [Python - Hello World](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing) [Watch Video](https://youtu.be/fYG-IKCoInA)
 
 - In-Class (or video) Example CoLab Page: [Python - ASCII Output](https://colab.research.google.com/drive/1KEsZkk2zX0ckxXZyWQ75bR_M7s68kW3z?usp=sharing)
 
