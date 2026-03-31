@@ -4,11 +4,14 @@
 
 ## Week #11 - Python Hello World, Input Ouput Processing (IPO)
 
-- Read and Work Through CoLab Page: [Python - Hello World](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing) [Watch Video](https://youtu.be/fYG-IKCoInA)
+- Read and Work Through CoLab Page: [Python - Hello World.](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing) See [video walkthrough](https://youtu.be/fYG-IKCoInA))
 
-- In-Class (or video) Example CoLab Page: [Python - ASCII Output](https://colab.research.google.com/drive/1KEsZkk2zX0ckxXZyWQ75bR_M7s68kW3z?usp=sharing)
+- Optional Watch Video: [Thonny Windows](https://youtu.be/F4AjXUKJoAg)
 
-- Read and Work Through CoLab Page: [Python - Math Expressions, Variables, IPO](https://colab.research.google.com/drive/1P1DCfkV5ZamGXnEIhzILEclaA0wWjh6J?usp=sharing)
+- In-Class (or video) Example CoLab Page: [Python - ASCII Output](https://colab.research.google.com/drive/1KEsZkk2zX0ckxXZyWQ75bR_M7s68kW3z?usp=sharing) See ([video walkthrough](https://youtu.be/1B7Y6F8etWo))
+
+- Read and Work Through CoLab Page: [Python - Math Expressions, Variables, IPO](https://colab.research.google.com/drive/1P1DCfkV5ZamGXnEIhzILEclaA0wWjh6J?usp=sharing) See ([video walkthrough](https://youtu.be/Jnx3pMa__Gs)
+
 
 - Read and Work Through CoLab Page: [Python - Keyboard Input and Formatted Output](https://colab.research.google.com/drive/1F0f6IaMmNGBh6SFv4jTYwT7BL4lHuk55?usp=sharing#scrollTo=dmXJacp9Rr-f)
 
