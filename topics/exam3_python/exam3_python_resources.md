@@ -4,16 +4,16 @@
 
 ## Week #11 - Python Hello World, Input Ouput Processing (IPO)
 
-- Read and Work Through CoLab Page: [Python - Hello World.](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing) See [video walkthrough](https://youtu.be/fYG-IKCoInA))
+- Read and Work Through CoLab Page: [Python - Hello World](https://colab.research.google.com/drive/1G6WrqIOqK2h8A4glwYuqMxIQnL35nigd?usp=sharing). See [video walkthrough](https://youtu.be/fYG-IKCoInA))
 
 - Optional Watch Video: [Thonny Windows](https://youtu.be/F4AjXUKJoAg)
 
-- In-Class (or video) Example CoLab Page: [Python - ASCII Output](https://colab.research.google.com/drive/1KEsZkk2zX0ckxXZyWQ75bR_M7s68kW3z?usp=sharing) See ([video walkthrough](https://youtu.be/1B7Y6F8etWo))
+- In-Class (or video) Example CoLab Page: [Python - ASCII Output](https://colab.research.google.com/drive/1KEsZkk2zX0ckxXZyWQ75bR_M7s68kW3z?usp=sharing). See ([video walkthrough](https://youtu.be/1B7Y6F8etWo))
 
-- Read and Work Through CoLab Page: [Python - Math Expressions, Variables, IPO](https://colab.research.google.com/drive/1P1DCfkV5ZamGXnEIhzILEclaA0wWjh6J?usp=sharing) See ([video walkthrough](https://youtu.be/Jnx3pMa__Gs)
+- Read and Work Through CoLab Page: [Python - Math Expressions, Variables, IPO](https://colab.research.google.com/drive/1P1DCfkV5ZamGXnEIhzILEclaA0wWjh6J?usp=sharing). See [video walkthrough](https://youtu.be/Jnx3pMa__Gs)
 
 
-- Read and Work Through CoLab Page: [Python - Keyboard Input and Formatted Output](https://colab.research.google.com/drive/1F0f6IaMmNGBh6SFv4jTYwT7BL4lHuk55?usp=sharing#scrollTo=dmXJacp9Rr-f)
+- Read and Work Through CoLab Page: [Python - Keyboard Input and Formatted Output](https://colab.research.google.com/drive/1F0f6IaMmNGBh6SFv4jTYwT7BL4lHuk55?usp=sharing#scrollTo=dmXJacp9Rr-f) See [Keyboard Input video walkthrough](https://youtu.be/6axSgOVTdqY) and [Formatted Output video walkthrough](https://youtu.be/W7basIj4CTA)
 
 - In-Class (or video) Example (PDF): [Tip Calculator Handout ](https://moodle.huntington.edu/pluginfile.php/990335/mod_resource/content/0/In-Class%20IPO%20Tip%20Calculator.pdf)
 
