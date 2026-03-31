@@ -18,8 +18,15 @@
 
 - Resource Starting Python Page for Projects CoLab [Python Code Template](https://colab.research.google.com/drive/1KCxUPD4Far4VsODIx0cu980-5zwU-PZP?usp=sharing)
 
-
 - Resource - Blank Code Planning and IPO: [IPO and Planning PDF](https://moodle.huntington.edu/pluginfile.php/990333/mod_resource/content/0/Code%20Planning%20Template%20-%20Sample%20Calculations%20and%20IPO.pdf)
+
+## Week #12 - Python - Selection (If's)
+
+## Week #13 - Python - Repetition (loops, lists)
+
+## Week #14 - Python - Debugging, API's
+
+
 
 
 ---
