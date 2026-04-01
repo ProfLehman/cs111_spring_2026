@@ -17,7 +17,8 @@
 
 - In-Class (or video) Example (PDF): [Tip Calculator Handout ](https://moodle.huntington.edu/pluginfile.php/990335/mod_resource/content/0/In-Class%20IPO%20Tip%20Calculator.pdf)
 
-- In-Class (or video) Example Sample Solution CoLab Page: [Tip Calculator Solution](https://colab.research.google.com/drive/1sd-1O5bRugmpEcejcYNfiMrjpCEP48lI?usp=drive_link)
+- In-Class (or video) Example Sample Solution CoLab Page: [Tip Calculator Solution](https://colab.research.google.com/drive/1sd-1O5bRugmpEcejcYNfiMrjpCEP48lI?usp=drive_link). See [video walkthrough](https://youtu.be/rhQXunhZ2Fc)
+
 
 - Resource Starting Python Page for Projects CoLab [Python Code Template](https://colab.research.google.com/drive/1KCxUPD4Far4VsODIx0cu980-5zwU-PZP?usp=sharing)
 
