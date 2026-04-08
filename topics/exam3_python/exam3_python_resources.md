@@ -24,11 +24,15 @@
 
 - Resource - Blank Code Planning and IPO: [IPO and Planning PDF](https://moodle.huntington.edu/pluginfile.php/990333/mod_resource/content/0/Code%20Planning%20Template%20-%20Sample%20Calculations%20and%20IPO.pdf)
 
-- In-Class (or video) Example [Canadian to US currency](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam3_python/candian_currency.md)
+- In-Class (or video) Example with Sample Solution [Canadian to US currency](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam3_python/candian_currency.md)
+
 
 ## Week #12 - Python - Selection (If's)
 
 - Read and Work Through CoLab Page: [If statements](https://colab.research.google.com/drive/1sEHZdn9YISfoPXcbPYyp5cRjGMr7-ivC?usp=sharing).
+
+- In-Class (or video) Example with Sample Solution CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing)
+- 
 
 ## Week #13 - Python - Repetition (loops, lists)
 
