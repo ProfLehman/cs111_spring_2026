@@ -26,6 +26,7 @@
 
 - In-Class (or video) Example with Sample Solution [Canadian to US currency](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam3_python/candian_currency.md)
 
+---
 
 ## Week #12 - Python - Selection (If's)
 
@@ -35,8 +36,11 @@
 
 - In-Class (or video) Example CoLab Page: [Karate If Statements](https://colab.research.google.com/drive/1KwvVi_nXstcUGpvenBdFOGv0gjqpsq-i?usp=sharing).  
    
+---
 
 ## Week #13 - Python - Repetition (loops, lists)
+
+---
 
 ## Week #14 - Python - Debugging, API's
 
