@@ -1,11 +1,13 @@
-# In-Class (or your own) Assignment – Currency Converter  
+# In-Class Assignment – Currency Converter  
+
+![Currency Image](./currency.png)
 
 **Instructions:** Work in groups of two, using one computer  
 ---
 
 ## Scenario
 
-You’re in Canada and want an app that tells you the equivalent U.S. dollar cost when you see prices in Canadian dollars and enter the current exchange rate (e.g., 1.38).
+You’re in Canada and want an app that tells you the equivalent U.S. dollar cost when you see prices in Canadian dollars and enter the current exchange rate (e.g., .72222254).
 
 **Example:**  
 If an item is **$45.67 CAD** and the exchange rate is **0.72222254 US dollars per Canadian Dollar**, the app should display the price in U.S. dollars ie. **$32.98**.
