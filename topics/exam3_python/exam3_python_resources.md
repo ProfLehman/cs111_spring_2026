@@ -29,10 +29,12 @@
 
 ## Week #12 - Python - Selection (If's)
 
-- Read and Work Through CoLab Page: [If statements](https://colab.research.google.com/drive/1sEHZdn9YISfoPXcbPYyp5cRjGMr7-ivC?usp=sharing).
+- Read and Work Through CoLab Page: [If statements](https://colab.research.google.com/drive/1sEHZdn9YISfoPXcbPYyp5cRjGMr7-ivC?usp=sharing).  
 
-- In-Class (or video) Example with Sample Solution CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing)
-- 
+- In-Class (or video) Example CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing).  
+
+- In-Class (or video) Example CoLab Page: [Karate If Statements](https://colab.research.google.com/drive/1KwvVi_nXstcUGpvenBdFOGv0gjqpsq-i?usp=sharing).  
+   
 
 ## Week #13 - Python - Repetition (loops, lists)
 
