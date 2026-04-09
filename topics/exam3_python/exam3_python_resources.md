@@ -30,9 +30,9 @@
 
 ## Week #12 - Python - Selection (If's)
 
-- Read and Work Through CoLab Page: [If statements](https://colab.research.google.com/drive/1sEHZdn9YISfoPXcbPYyp5cRjGMr7-ivC?usp=sharing).  
+- Read and Work Through CoLab Page: [If statements](https://colab.research.google.com/drive/1sEHZdn9YISfoPXcbPYyp5cRjGMr7-ivC?usp=sharing). Watch [video If Statement Intro](https://youtu.be/7dSKM3ivsB8), [video If Statement Classification](https://youtu.be/qwWs6UQ4aNA), and [video Applachian Trail ](https://youtu.be/UP-RYCJg3ug)
 
-- In-Class (or video) Example CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing).  
+- In-Class (or video) Example CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing). Watch [video If Statement Generations](https://youtu.be/IlzzBAs8jyc)  
 
 - In-Class (or video) Example CoLab Page: [Karate If Statements](https://colab.research.google.com/drive/1KwvVi_nXstcUGpvenBdFOGv0gjqpsq-i?usp=sharing).  
    
