@@ -40,6 +40,8 @@
 
 ## Week #13 - Python - Repetition (loops, lists)
 
+- Read and Work Through CoLab Page: [Loops - Count-Controlled and Sentinel] (https://colab.research.google.com/drive/1pNduVzZ1Ap4k4jiq9jd09zrBuus_C3kv?usp=sharing)
+
 ---
 
 ## Week #14 - Python - Debugging, API's
