@@ -42,6 +42,12 @@
 
 - Read and Work Through CoLab Page: [Loops - Count-Controlled and Sentinel](https://colab.research.google.com/drive/1pNduVzZ1Ap4k4jiq9jd09zrBuus_C3kv?usp=sharing)
 
+- Watch Video [Count-Controlled Loop with Flowgorithm](https://www.youtube.com/watch?v=Mi67_vxv_OE)
+
+- Watch Video [Sentinel Loop with Flowgorithm](https://www.youtube.com/watch?v=CRe6KdGxOSg)
+
+- Watch Video [Sentinel Loop Even Numbers](https://www.youtube.com/watch?v=TdCnmwxIKk0))
+
 ---
 
 ## Week #14 - Python - Debugging, API's
