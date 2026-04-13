@@ -35,7 +35,8 @@
 - In-Class (or video) Example CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing). Watch [video If Statement Generations](https://youtu.be/IlzzBAs8jyc)  
 
 - In-Class (or video) Example CoLab Page: [Karate If Statements](https://colab.research.google.com/drive/1KwvVi_nXstcUGpvenBdFOGv0gjqpsq-i?usp=sharing).  
-   
+
+- In-Class (or video) Example: [Urgent? Important? Time Management](https://www.todoist.com/productivity-methods/eisenhower-matrix)
 ---
 
 ## Week #13 - Python - Repetition (loops, lists)
