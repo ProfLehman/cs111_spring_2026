@@ -1,11 +1,13 @@
-# In-Class (or your own) Assignment – Currency Converter  
+# In-Class Assignment – Currency Converter  
+
+![Currency Image](./currency.png)
 
 **Instructions:** Work in groups of two, using one computer  
 ---
 
 ## Scenario
 
-You’re in Canada and want an app that tells you the equivalent U.S. dollar cost when you see prices in Canadian dollars and enter the current exchange rate (e.g., 1.38).
+You’re in Canada and want an app that tells you the equivalent U.S. dollar cost when you see prices in Canadian dollars and enter the current exchange rate (e.g., .72222254).
 
 **Example:**  
 If an item is **$45.67 CAD** and the exchange rate is **0.72222254 US dollars per Canadian Dollar**, the app should display the price in U.S. dollars ie. **$32.98**.
@@ -67,4 +69,51 @@ If an item is **$45.67 CAD** and the exchange rate is **0.72222254 US dollars pe
 
 If completing in-class, demonstrate your completed program to **Professor Lehman**.
 
+---
+
+# Sample Solution
+
+### Sample Calculations (assume .72 rate)
+
+| Sample Input | Expected Output | Work? |
+|-------------|----------------|-------|
+| 1. $ 10, .72         |      $ 7.20          |   yes    |
+| 2. $ 45.67, .72         |   $ 32.88          |  yes     |
+| 3. $ 123.18, .72         |   $ 88.69             |  yes     |
+| 4.  $1000, .72         |   $ 720.00             |   yes    |
+
+---
+
+## Sample IPO (Input Processing Output) chart 
+| Input | Processing | Output |
+|------|-----------|--------|
+|   cad_price   |   usd_price = cad_price * exchange_rate        |        |
+|   exchange_rate   |           | usd_price       |
+
+---
+
+```python
+#     Program: CAD_to_USD_Converter.py
+#      Author: Prof. Lehman
+#        Date: 2025-11-05
+# Description: Converts Canadian dollars to U.S. dollars using an exchange rate
+#              entered as USD per 1 CAD (example rate: 0.71)
+
+# ------------------------------
+# Input
+# ------------------------------
+cad_price = float( input("Enter price in Canadian dollars: ") )
+exchange_rate = float( input("Enter exchange rate (USD per 1 CAD, e.g., 0.71): ") )
+
+# ------------------------------
+# Processing
+# ------------------------------
+usd_price = cad_price * exchange_rate
+
+# ------------------------------
+# Output
+# ------------------------------
+print()
+print(f"${cad_price:.2f} CAD = ${usd_price:.2f} USD")
+```
 -- end --

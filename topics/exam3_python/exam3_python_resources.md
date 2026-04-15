@@ -24,11 +24,36 @@
 
 - Resource - Blank Code Planning and IPO: [IPO and Planning PDF](https://moodle.huntington.edu/pluginfile.php/990333/mod_resource/content/0/Code%20Planning%20Template%20-%20Sample%20Calculations%20and%20IPO.pdf)
 
+- In-Class (or video) Example with Sample Solution [Canadian to US currency](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam3_python/candian_currency.md)
+
+---
+
 ## Week #12 - Python - Selection (If's)
 
-## Week #13 - Python - Repetition (loops, lists)
+- Read and Work Through CoLab Page: [If statements](https://colab.research.google.com/drive/1sEHZdn9YISfoPXcbPYyp5cRjGMr7-ivC?usp=sharing). Watch [video If Statement Intro](https://youtu.be/7dSKM3ivsB8), [video If Statement Classification](https://youtu.be/qwWs6UQ4aNA), and [video Applachian Trail ](https://youtu.be/UP-RYCJg3ug)
 
-## Week #14 - Python - Debugging, API's
+- In-Class (or video) Example CoLab Page: [Generations If Statements](https://colab.research.google.com/drive/131uG5-HOhfbOF68CCH5YVEpzR5drHxDw?usp=sharing). Watch [video If Statement Generations](https://youtu.be/IlzzBAs8jyc)  
+
+- In-Class (or video) Example CoLab Page: [Karate If Statements](https://colab.research.google.com/drive/1KwvVi_nXstcUGpvenBdFOGv0gjqpsq-i?usp=sharing).  
+
+- In-Class (or video) Example: [Urgent? Important? Time Management](https://www.todoist.com/productivity-methods/eisenhower-matrix)
+---
+
+## Week #13 - Python - Repetition (loops)
+
+- Read and Work Through CoLab Page: [Count-Controlled and Sentinel Loops](https://colab.research.google.com/drive/1pNduVzZ1Ap4k4jiq9jd09zrBuus_C3kv?usp=sharing)
+
+- Watch Video [Count-Controlled Loop with Flowgorithm](https://www.youtube.com/watch?v=Mi67_vxv_OE)
+
+- Watch Video [Sentinel Loop with Flowgorithm](https://www.youtube.com/watch?v=CRe6KdGxOSg)
+
+- Watch Video [Sentinel Loop Even Numbers](https://www.youtube.com/watch?v=TdCnmwxIKk0)
+
+- Read and Work Through CoLab Page: [Random Numbers](https://colab.research.google.com/drive/12utJ7apsB3DckwHlC8vztzowTF3uFS0u?usp=sharing)
+
+  
+
+## Week #14 - Python - Lists, Debugging, API's
 
 
 
