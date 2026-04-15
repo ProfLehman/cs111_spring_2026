@@ -51,7 +51,10 @@
 
 - Read and Work Through CoLab Page: [Random Numbers](https://colab.research.google.com/drive/12utJ7apsB3DckwHlC8vztzowTF3uFS0u?usp=sharing)
 
-  
+- Review and Run Code Example [sales_count_controlled_loop.py](./sales_count_controlled_loop.py)
+
+- Review and Run Code Example [sales_sentinel_loop.py](./sales_sentinel_loop.py)
+
 
 ## Week #14 - Python - Lists, Debugging, API's
 
