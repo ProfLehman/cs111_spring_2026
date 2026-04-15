@@ -39,7 +39,7 @@
 - In-Class (or video) Example: [Urgent? Important? Time Management](https://www.todoist.com/productivity-methods/eisenhower-matrix)
 ---
 
-## Week #13 - Python - Repetition (loops, lists)
+## Week #13 - Python - Repetition (loops)
 
 - Read and Work Through CoLab Page: [Count-Controlled and Sentinel Loops](https://colab.research.google.com/drive/1pNduVzZ1Ap4k4jiq9jd09zrBuus_C3kv?usp=sharing)
 
@@ -53,7 +53,7 @@
 
   
 
-## Week #14 - Python - Debugging, API's
+## Week #14 - Python - Lists, Debugging, API's
 
 
 
