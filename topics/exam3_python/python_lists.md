@@ -71,7 +71,7 @@ print("6. Top Rated")
 
 ### Sample Run
 ```text
-2. Build Your Movie Database
+1. Build Your Movie Database
 Enter movie details below. Enter 'quit' as the movie title to stop.
 
 Enter movie title: Toy Story
@@ -85,22 +85,30 @@ Enter Rotten Tomatoes score: 98
 
 Enter movie title: quit
 
-3. Collection Statistics
+2. Collection Statistics
 You have 3 movies in your collection.
 The average score is 90.67%
 
-4. First and Last Entries
+3. First and Last Entries
 First added: Toy Story
 Last added: Up
 
-5. Complete Movie Report
+4. Complete Movie Report
 1. Toy Story - Score: 100%
 2. Cars - Score: 74%
 3. Up - Score: 98%
 
-6. Top Rated
+5. Top Rated
 The highest score in your collection is 100%
 ```
+
+---
+
+### Challenges (optional)
+* display a list of all movies that are 90% or higher
+* add a search feature that asks for the user's movie title and displays the score if found
+* add an update feature that allows the user to enter the title and update the score
+* add a list called `genre` that stores the type of movie, i.e., drama, comedy, action, horror
 
 ---
 
