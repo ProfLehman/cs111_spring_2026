@@ -1,5 +1,7 @@
 ### Python Assignment 4 - Lists
 
+![assignment graphic](./movie_list.png)
+
 ### Overview
 The purpose of this assignment is to learn how to build lists dynamically and process data in lists.
 Instead of starting with a full list, you will use a **sentinel loop** to allow the user to build their own collection of movie data. 
