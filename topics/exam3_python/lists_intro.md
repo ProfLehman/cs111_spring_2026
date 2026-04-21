@@ -1,6 +1,6 @@
 # Introduction to Python Lists: Managing Collections of Data
 
-![list image](./lists.png)
+![list image](./python_lists.png)
 
 Up to this point, we have been working with **simple variables**. A simple variable is like a single box that holds one piece of information—one name, one score, or one price. 
 
