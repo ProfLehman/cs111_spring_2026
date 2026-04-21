@@ -103,6 +103,11 @@ The highest score in your collection is 100%
 ```
 
 ---
+## In-Class Examples
+
+[Chapel List Example](./chapel_list.py)
+
+---
 
 ### Challenges (optional)
 * display a list of all movies that are 90% or higher
