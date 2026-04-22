@@ -56,13 +56,16 @@
 - Review and Run Code Example [sales_sentinel_loop.py](./sales_sentinel_loop.py)
 
 
-## Week #14 - Python - Lists, Debugging, API's
+## Week #14 - Python - Lists
 
+- Review and Run Code Example [Lists Intro](./lists_intro.md)
 
+- Watch Video [Lists Intro](https://youtu.be/kqKw6JUDk44)
 
-
+- Review and Run Code Example [Chapel List Example](./chapel_list.py)
+  
 ---
 
-Updated March 30, 2026
+Updated April 23, 2026
 
 ---

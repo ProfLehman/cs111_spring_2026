@@ -54,7 +54,7 @@ print("4. First and Last Entries")
 # 5. Full Report (Iterating)
 print()
 print("5. Complete Movie Report")
-# Use a for loop and range(len(movies)) to print every movie 
+# Use a **while** loop to print every movie
 # and its score from your lists in a formatted report.
 # add code here
 
