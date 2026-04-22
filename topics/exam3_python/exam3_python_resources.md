@@ -63,6 +63,8 @@
 - Watch Video [Lists Intro](https://youtu.be/kqKw6JUDk44)
 
 - Review and Run Code Example [Chapel List Example](./chapel_list.py)
+
+- Review and Run Code Example [Project List Example](./project_list.py)
   
 ---
 
