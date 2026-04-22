@@ -302,4 +302,121 @@ while num != -1:
 print("Total =", total)
 ```
 
+# Python Lists Review
+
+## 21. Creating Lists
+
+### Question
+Create a list named `numbers` that contains the values 5, 10, and 15.
+
+### Answer
+```python
+numbers = [5, 10, 15]
+````
+
+---
+
+### Question
+
+Create an empty list called `data`.
+
+### Answer
+
+```python
+data = []
+```
+
+---
+
+## 22. Indexing
+
+### Question
+
+Given the list below, what value is stored in `x`?
+
+```python
+colors = ["red", "green", "blue"]
+x = colors[1]
+```
+
+### Answer
+
+```
+green
+```
+
+---
+
+### Question
+
+What index would you use to access the first item in a list?
+
+### Answer
+
+```
+0
+```
+
+---
+
+## 23. Append
+
+### Question
+
+Write code to add the value `25` to the list `numbers`.
+
+### Answer
+
+```python
+numbers.append(25)
+```
+
+---
+
+## 24. List Functions
+
+### Question
+
+Given the list below, what will each statement return?
+
+```python
+values = [4, 7, 2, 9]
+```
+
+* `len(values)` = ______
+* `sum(values)` = ______
+* `min(values)` = ______
+* `max(values)` = ______
+
+### Answer
+
+```
+len(values) = 4
+sum(values) = 22
+min(values) = 2
+max(values) = 9
+```
+
+---
+
+## 25. Loop Through a List
+
+### Question
+
+Write a loop to print all items in the list `fruits`.
+
+```python
+fruits = ["apple", "banana", "cherry"]
+```
+
+### Answer
+
+```python
+i = 0
+while i < len(fruits):
+    print( fruits[ i ] )
+    i = i + 1
+```
+
+
 -- end --
