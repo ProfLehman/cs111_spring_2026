@@ -25,12 +25,13 @@
 
 
 ### 1. Current Ethical Issues
-**Question:** Briefly describe several current ethical issues.
+**Question:** Briefly describe several current ethical issues related to computing technology.
 
-**Sample Answer:**
-- AI bias in decision-making systems  
-- Data privacy and tracking by companies  
-- Use of AI in education (cheating concerns)  
+**Sample Answers:**
+- The use of copyrighted content is an ethical issue because digital materials can be easily copied and shared without the creator’s permission. This can harm creators by reducing their ability to control and earn from their work. 
+- AI bias in decision-making systems occurs when algorithms reflect or amplify biases present in their training data. This can lead to unfair or discriminatory outcomes, especially in areas like hiring, lending, or criminal justice. 
+- Data privacy is a concern because companies often collect and track large amounts of personal information about users, sometimes without full transparency. This data can be used for targeted advertising or shared with others, raising concerns about consent and security.
+- The use of AI in education raises concerns because students may use tools to complete assignments without actually learning the material. This can undermine academic integrity and make it difficult for instructors to accurately assess student understanding.
 
 ---
 
@@ -38,11 +39,13 @@
 **Question:** What questions should be addressed in an ethical analysis?
 
 **Sample Answer:**
-- What are the **facts**?  
-- What are the **issues**?  
-- Who is **affected**?  
-- What are the **consequences**?  
-- What **values/faith principles** apply?  
+1. Identify the **facts** surrounding the issue 
+2. Define the **issues** surrounding the issue 
+3. Identify the **people/groups of people involved**
+4. Describe **how each is affected** 
+5. Identify the **options** for each group and the **consequences** of these options 
+6. How do your **values and beliefs**, including your **religious faith**, affect your view of the issue? What **scripture or biblical principles apply** to this issue?
+7. If confronted with this type of ethical situation/issue, **what would you do**?  
 
 ---
 
