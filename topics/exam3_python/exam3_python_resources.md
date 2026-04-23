@@ -70,6 +70,18 @@
 
 - Watch Video [Lists Example Projects]  (https://youtu.be/GpFUpK-Nois)
 
+## Week #14 - Final Exam
+
+- Review [Topics and Sample questions](https://github.com/ProfLehman/cs111_spring_2026/blob/main/topics/exam3_python/python_exam_3_review.md)
+  
+- Watch Video [Python Exam Overview](https://youtu.be/-dvS5kiyoJw)
+
+- Watch Video [Python Exam Review Questions 1 to 8](https://youtu.be/5NIsQFfT3Ws) 
+
+- Watch Video [Python Exam Review Questions 9 to 18](https://youtu.be/aHxGHsXOR0M)
+
+- Watch Video [Python Exam Review Questions 19 to 25](https://youtu.be/alIobygVNk8)
+
 ---
 Updated April 24, 2026
 ---
