@@ -49,7 +49,7 @@
 # Concepts
 
 ### 3. IPO Model
-**Question:** What is an IPO chart?
+**Question:** What is an IPO chart? How is it used to assist the programming process?
 
 **Sample Answer:**
 An IPO chart describes:
@@ -64,7 +64,7 @@ It helps plan programs before coding.
 # Python Basics
 
 ### 4. Variable Names
-**Question:** Which is NOT valid?
+**Question:** Which is NOT a valid variable name?
 
 a. total1  
 b. 1total  
@@ -114,6 +114,7 @@ amount = $7.46
 
 ```python
 x = 40 - 20 / 4 * 5 + 3
+print( x )
 ```
 
 **Answer:**
@@ -129,10 +130,12 @@ x = 40 - 20 / 4 * 5 + 3
 ```python
 temp = 2
 temp = temp + 1
-print(temp / 2)
+
+print(temp / 2) # _______
 
 temp = temp + 3
-print(temp)
+
+print(temp) # ________
 ```
 
 **Answer:**
@@ -149,6 +152,10 @@ print(temp)
 **Question: What value will be displayed by the following code, given: a=10, b=20, c=30?**
 
 ```python
+a = 10
+b = 20
+c = 30
+
 if a > b or b < c:
      print("True")
 else:
@@ -164,6 +171,10 @@ else:
 **Question: What value will be displayed by the following code, given: a=10, b=20, c=30?**
 
 ```python
+a = 10
+b = 20
+c = 30
+
 if c == 30 and b > c:
      print("True")
 else:
@@ -191,8 +202,29 @@ else:
 
 ### 12. Dessert Logic (individual ifs)
 
-**Question: Use individual If statements to determine dessert choices.**
+**Question: Implement the following logic using individual if statements. Remember that your code segment sets the
+variable dessert to either “Cookie”, “Cake”, or “Pie” based on the value in variable choice. Your code segment
+does not print anything. You are given the variable choice and variable dessert. You can assume the choice will either
+be 1, 2, 3, 4, 5, 6, or 7. **
 
+| choice | dessert   |
+|--------|----------|
+| 1, 2, 3 | Cookie   |
+| 4, 5      | Cake     |
+| 6, 7      | Pie      |
+
+### Complete code shown  
+```python
+choice = 4
+dessert = "undefined"
+
+# *** add if statements here 
+
+print( "dessert is", dessert )
+```
+
+
+**Sample Answer:**
 ```python
 choice = 4
 dessert = "undefined"
@@ -212,6 +244,24 @@ print( "dessert is", dessert )
 ---
 
 ### 13. Temperature Program
+
+**Question: Show the code needed to input a temperature from the keyboard and print the message “above freezing” if
+the temperature is greater than 32.0 and the message “freezing” if the temperature is equal to or below 32.0. 
+Two sample runs are shown. **
+
+Sample Run #1
+```
+Enter temperature: 17.5
+17.5 is freezing
+```
+
+Sample Run #2
+```
+Enter temperature: 45.5
+45.5 is above freezing **
+```
+
+**Sample Answer:**
 
 ```python
 temp = float(input("Enter temperature: "))
