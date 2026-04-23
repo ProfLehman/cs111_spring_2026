@@ -476,24 +476,28 @@ numbers.append( 25 )
 
 ### Question
 
-Given the list below, what will each statement return?
+Given the list below, what will each statement display?
 
 ```python
 values = [4, 7, 2, 9]
-```
 
-* `len(values)` = ______
-* `sum(values)` = ______
-* `min(values)` = ______
-* `max(values)` = ______
+print ( len(values) ) #____________  
+
+print ( sum(values) ) #____________  
+
+print ( min(values) ) #____________  
+
+print ( max(values) ) #____________  
+
+```
 
 **Answer:**
 
 ```
-len(values) = 4
-sum(values) = 22
-min(values) = 2
-max(values) = 9
+len(values) => 4
+sum(values) => 22
+min(values) => 2
+max(values) => 9
 ```
 
 ---
@@ -502,12 +506,12 @@ max(values) = 9
 
 **Question: Write a loop to print all items in the list `fruits`, displaying the items on separate lines as shown.**
 
-**Sample Output
+**Sample Output**
 ```
 apple
 banana
 cherry
-``
+```
 
 ```python
 fruits = ["apple", "banana", "cherry"]
