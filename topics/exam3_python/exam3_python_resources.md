@@ -64,6 +64,8 @@
 
 - Review and Run Code Example [Chapel List Example](./chapel_list.py)
 
+- Watch Video [Lists Example Chapels](https://youtu.be/ef4ItT1NRQo)
+
 - Review and Run Code Example [Project List Example](./project_list.py)
   
 ---
