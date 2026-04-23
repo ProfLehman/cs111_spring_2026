@@ -1,7 +1,7 @@
 # Exam 3 covers Python programming and Ethics
 
 * Students may use a 1-page (8.5” by 11” front/back) help guide on the exam
-* Review class notes, examples on the course website, book, and Python assignments
+* Review class notes, examples on the course Moodle page, [Exam #3 (Python) - Reading and Resources](./exam3_python_resources.md), and Python assignments.
 
 ## Topics
 * Current Ethical Issues (briefly describe several current examples)
