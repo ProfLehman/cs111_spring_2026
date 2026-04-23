@@ -187,7 +187,7 @@ else:
 
 ### 11. Program Comments
 
-**Question:** What comments should be included at the beginning of every program?
+**Question:** What comments should be included at the beginning of every program?**  
 
 **Sample Answer:**
 
@@ -205,7 +205,7 @@ else:
 **Question: Implement the following logic using individual if statements. Remember that your code segment sets the
 variable dessert to either “Cookie”, “Cake”, or “Pie” based on the value in variable choice. Your code segment
 does not print anything. You are given the variable choice and variable dessert. You can assume the choice will either
-be 1, 2, 3, 4, 5, 6, or 7. **
+be 1, 2, 3, 4, 5, 6, or 7. **  
 
 | choice | dessert   |
 |--------|----------|
@@ -245,7 +245,7 @@ print( "dessert is", dessert )
 
 ### 13. Temperature Program
 
-**Question: Show the code needed to input a temperature from the keyboard and print the message “above freezing” if
+** Question: Show the code needed to input a temperature from the keyboard and print the message “above freezing” if
 the temperature is greater than 32.0 and the message “freezing” if the temperature is equal to or below 32.0. 
 Two sample runs are shown. **
 
@@ -276,6 +276,16 @@ else:
 
 ### 14. Random Number (0–3)
 
+**Question: Complete the code segment such that a random integer number 0, 1, 2, or 3 will be stored in variable x**
+
+```python
+from random import randint
+
+x = ____________________________________
+```
+
+
+**Answer**
 ```python
 from random import randint
 x = randint(0, 3)
@@ -285,6 +295,15 @@ x = randint(0, 3)
 
 ### 15. Random Number (17–19)
 
+**Question: Complete the code segment such that a random integer number 17, 18, or 19 will be stored in variable x**
+
+```python
+from random import randint
+
+x = ____________________________________
+```
+
+**Answer**
 ```python
 x = randint(17, 19)
 ```
@@ -293,6 +312,19 @@ x = randint(17, 19)
 
 ### 16. Random Word
 
+**Question: Show the code needed to set word randomly to “go”, “fight”, or “win” each time the code is executed.**
+
+```python
+from random import randint
+
+# *** show code here ***
+
+
+
+print(word)
+```
+
+**Answer**
 ```python
 from random import randint
 
@@ -312,6 +344,8 @@ print(word)
 
 ### 17. While Loop Output
 
+**Question: What will be output by the following code snippet?**
+
 ```python
 count = 0
 while count < 4:
@@ -330,6 +364,10 @@ while count < 4:
 
 ### 18. Countdown
 
+**Question: Show the python code needed to print the numbers 5,000 down to 1.**
+
+**Answer**  
+
 ```python
 count = 5000
 while count >= 1:
@@ -341,6 +379,9 @@ while count >= 1:
 
 ### 19. Repeat Name
 
+**Question: Use a while loop to display your name ie. “Norman Forester” 3,000 times.**
+
+**Answer**  
 ```python
 count = 1
 while count <= 3000:
@@ -352,6 +393,10 @@ while count <= 3000:
 
 ### 20. Sentinel Loop
 
+**Question: Create a sentinel loop that will input numbers until -1 is entered and then display a total of all numbers
+entered.**
+
+**Answer**
 ```python
 total = 0
 
@@ -368,22 +413,18 @@ print("Total =", total)
 
 ## 21. Creating Lists
 
-### Question
-Create a list named `numbers` that contains the values 5, 10, and 15.
+**Question: Create a list named `numbers` that contains the values 5, 10, and 15.**
 
-### Answer
+**Answer**
 ```python
 numbers = [5, 10, 15]
 ````
 
 ---
 
-### Question
+**Question: Create an empty list called `data`.**
 
-Create an empty list called `data`.
-
-### Answer
-
+**Answer**
 ```python
 data = []
 ```
@@ -392,17 +433,14 @@ data = []
 
 ## 22. Indexing
 
-### Question
-
-Given the list below, what value is stored in `x`?
+**Question: Given the list below, what value is stored in `x`?**
 
 ```python
 colors = ["red", "green", "blue"]
 x = colors[1]
 ```
 
-### Answer
-
+**Answer**
 ```
 green
 ```
@@ -411,9 +449,9 @@ green
 
 ### Question
 
-What index would you use to access the first item in a list?
+**Question: What index would you use to access the first item in a list?**
 
-### Answer
+**Answer**
 
 ```
 0
@@ -424,13 +462,12 @@ What index would you use to access the first item in a list?
 ## 23. Append
 
 ### Question
-
 Write code to add the value `25` to the list `numbers`.
 
-### Answer
+**Answer**
 
 ```python
-numbers.append(25)
+numbers.append( 25 )
 ```
 
 ---
