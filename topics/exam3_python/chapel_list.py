@@ -22,8 +22,9 @@ print()
 
 
 # Option #2 - start with sample entries and append new entries
-huid = ["s222", "s333"] #two entries
-credit = [32, 25] 
+#            0       1
+huid =   ["s222", "s333"] #two entries
+credit = [32,      25] 
 
 huid.append("s111")
 credit.append( 28 )

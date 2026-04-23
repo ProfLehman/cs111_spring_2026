@@ -1,16 +1,16 @@
 
-# chapel_list.py
+# project_list.py
 # spring 2026
 # prof. lehman
 #
+# two parallel lists example
 # sample list processing creates a list of projects
-# with minutes to complete
-# and student chapel credits (credit)
+# and a list with minutes to complete project
 #
 
-# index        0              1            2        3             
-project = ["cs111 p4", "storyboarding", "paper", "sleep"]
-minutes = [   45,          300,           120,    6 ]
+# index        0              1            2        3       4      
+project = ["cs111 p4", "storyboarding", "paper", "sleep", "study"]
+minutes = [   45,          300,           120,    60,      200 ]
 
 print( project[ 1 ] ) #??? storyboarding
 print()
