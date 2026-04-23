@@ -6,8 +6,8 @@
 ## Topics
 * Current Ethical Issues (briefly describe several current examples)
 * Ethical Analysis (facts, issues, people affected, consequences, faith/values) note: be able to list these questions that should be addressed  
-* IPO (Input, Output, Processing) for planning, recognize flowchart symbols
-* comments # and """
+* IPO (Input, Output, Processing) for planning
+* single line comments # and multiple line comments """ """
 * valid variable names (start with a letter, then letter, number, underscore)
 * variable types number int (7, 2700, -8), float (3.14, -98.6), str ("abc", ‘abc’, "46750")
 * use print to display text and variables on a single line, end=””
@@ -189,7 +189,7 @@ else:
 
 **Question:** What comments should be included at the beginning of every program?**  
 
-**Sample Answer:**
+**Answer:**
 
 * program name ie. exam3.pay
 * Author name ie. Norman Forester
@@ -205,7 +205,7 @@ else:
 **Question: Implement the following logic using individual if statements. Remember that your code segment sets the
 variable dessert to either “Cookie”, “Cake”, or “Pie” based on the value in variable choice. Your code segment
 does not print anything. You are given the variable choice and variable dessert. You can assume the choice will either
-be 1, 2, 3, 4, 5, 6, or 7. **  
+be 1, 2, 3, 4, 5, 6, or 7.**  
 
 | choice | dessert   |
 |--------|----------|
@@ -224,7 +224,7 @@ print( "dessert is", dessert )
 ```
 
 
-**Sample Answer:**
+**Answer:**
 ```python
 choice = 4
 dessert = "undefined"
@@ -245,9 +245,9 @@ print( "dessert is", dessert )
 
 ### 13. Temperature Program
 
-** Question: Show the code needed to input a temperature from the keyboard and print the message “above freezing” if
+**Question: Show the code needed to input a temperature from the keyboard and print the message “above freezing” if
 the temperature is greater than 32.0 and the message “freezing” if the temperature is equal to or below 32.0. 
-Two sample runs are shown. **
+Two sample runs are shown.**
 
 Sample Run #1
 ```
@@ -261,7 +261,7 @@ Enter temperature: 45.5
 45.5 is above freezing **
 ```
 
-**Sample Answer:**
+**Answer:**
 
 ```python
 temp = float(input("Enter temperature: "))
@@ -285,7 +285,7 @@ x = ____________________________________
 ```
 
 
-**Answer**
+**Answer:**
 ```python
 from random import randint
 x = randint(0, 3)
@@ -303,7 +303,7 @@ from random import randint
 x = ____________________________________
 ```
 
-**Answer**
+**Answer:**
 ```python
 x = randint(17, 19)
 ```
@@ -324,7 +324,7 @@ from random import randint
 print(word)
 ```
 
-**Answer**
+**Answer:**
 ```python
 from random import randint
 
@@ -366,7 +366,7 @@ while count < 4:
 
 **Question: Show the python code needed to print the numbers 5,000 down to 1.**
 
-**Answer**  
+**Answer:** 
 
 ```python
 count = 5000
@@ -381,7 +381,7 @@ while count >= 1:
 
 **Question: Use a while loop to display your name ie. “Norman Forester” 3,000 times.**
 
-**Answer**  
+**Answer:**
 ```python
 count = 1
 while count <= 3000:
@@ -396,7 +396,7 @@ while count <= 3000:
 **Question: Create a sentinel loop that will input numbers until -1 is entered and then display a total of all numbers
 entered.**
 
-**Answer**
+**Answer:**
 ```python
 total = 0
 
@@ -415,7 +415,7 @@ print("Total =", total)
 
 **Question: Create a list named `numbers` that contains the values 5, 10, and 15.**
 
-**Answer**
+**Answer:**
 ```python
 numbers = [5, 10, 15]
 ````
@@ -424,7 +424,7 @@ numbers = [5, 10, 15]
 
 **Question: Create an empty list called `data`.**
 
-**Answer**
+**Answer:**
 ```python
 data = []
 ```
@@ -440,7 +440,7 @@ colors = ["red", "green", "blue"]
 x = colors[1]
 ```
 
-**Answer**
+**Answer:**
 ```
 green
 ```
@@ -451,7 +451,7 @@ green
 
 **Question: What index would you use to access the first item in a list?**
 
-**Answer**
+**Answer:**
 
 ```
 0
@@ -464,7 +464,7 @@ green
 ### Question
 Write code to add the value `25` to the list `numbers`.
 
-**Answer**
+**Answer:**
 
 ```python
 numbers.append( 25 )
@@ -487,7 +487,7 @@ values = [4, 7, 2, 9]
 * `min(values)` = ______
 * `max(values)` = ______
 
-### Answer
+**Answer:**
 
 ```
 len(values) = 4
@@ -500,17 +500,26 @@ max(values) = 9
 
 ## 25. Loop Through a List
 
-### Question
+**Question: Write a loop to print all items in the list `fruits`, displaying the items on separate lines as shown.**
 
-Write a loop to print all items in the list `fruits`.
+**Sample Output
+```
+apple
+banana
+cherry
+``
 
 ```python
 fruits = ["apple", "banana", "cherry"]
+
+# *** show code here
 ```
 
-### Answer
+**Answer:**
 
 ```python
+fruits = ["apple", "banana", "cherry"]
+
 i = 0
 while i < len(fruits):
     print( fruits[ i ] )
