@@ -194,7 +194,7 @@ else:
 
 **Answer:**
 
-* program name ie. exam3.pay
+* program name ie. exam3.py
 * Author name ie. Norman Forester
 * Date ie. April 30, 2026
 * Purpose/Description of program ie. program calculates an average grade
