@@ -68,7 +68,7 @@
 
 - Review and Run Code Example [Project List Example](./project_list.py)
 
-- Watch Video [Lists Example Projects]  (https://youtu.be/GpFUpK-Nois)
+- Watch Video [Lists Example Projects](https://youtu.be/GpFUpK-Nois)
 
 
 ## Week #15 - Final Exam Week
