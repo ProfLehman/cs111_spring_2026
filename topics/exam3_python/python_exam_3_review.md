@@ -232,12 +232,14 @@ print( "dessert is", dessert )
 choice = 4
 dessert = "undefined"
 
-if choice == 1 or choice == 2 or choice == 3:
+# Use this approach for number ranges - don't forget to repeat the variable name
+if choice >= 1 and choice <= 3:
     dessert = "Cookie"
 
-if choice == 4 or choice == 5:
+if choice >= 4 and choice <= 5:
     dessert = "Cake"
 
+# This alternate approach also works well for two values
 if choice == 6 or choice == 7:
     dessert = "Pie"
 
